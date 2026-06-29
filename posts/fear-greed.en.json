@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "fear-greed",
+  "locale": "en",
+  "slug": "fear-and-greed-index-explained",
+  "date": "2026-06-26T14:00:00.000Z",
+  "updated": "2026-06-26T14:00:00.000Z",
+  "categories": ["Mercado", "Estudos"],
+  "tags": [{ "name": "Estudos", "color": "purple" }],
+  "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+  "cover": "https://picsum.photos/seed/feargreed/1200/675",
+  "thumbnail": null,
+  "title": [{ "text": "The Fear & Greed Index explained" }],
+  "excerpt": "What the indicator measures, how to read it, and its limits.",
+  "blocks": [
+    { "type": "p", "spans": [{ "text": "The " }, { "text": "Fear & Greed Index", "bold": true }, { "text": " sums up market sentiment in a single number from 0 to 100." }] },
+    { "type": "callout", "icon": "💡", "color": "blue_background", "blocks": [
+      { "type": "p", "spans": [{ "text": "Low values signal fear (a possible opportunity); high values signal greed (possible caution)." }] }
+    ] },
+    { "type": "divider" },
+    { "type": "h", "level": 2, "spans": [{ "text": "How to read it" }] },
+    { "type": "list", "ordered": false, "items": [
+      [{ "text": "0–25: extreme fear" }],
+      [{ "text": "25–50: fear" }],
+      [{ "text": "50–75: greed" }],
+      [{ "text": "75–100: extreme greed" }]
+    ] },
+    { "type": "p", "spans": [{ "text": "Use the index as " }, { "text": "context", "italic": true }, { "text": ", not as a standalone buy or sell trigger." }] },
+    { "type": "image", "src": "https://picsum.photos/seed/fgindex/1200/700", "caption": [{ "text": "The index over the past year." }] }
+  ]
+}

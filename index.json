@@ -1,83 +1,610 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T12:00:00.000Z",
+  "generatedAt": "2026-06-29T17:59:02.977Z",
   "posts": [
     {
-      "id": "btc-ath",
+      "schemaVersion": 1,
+      "id": "trade-setup",
       "locale": "pt",
-      "slug": "bitcoin-novo-topo-historico",
-      "date": "2026-06-28T10:00:00.000Z",
-      "updated": "2026-06-28T10:00:00.000Z",
-      "categories": ["Mercado", "ATH"],
-      "tags": [{ "name": "Notícias", "color": "blue" }, { "name": "Análises", "color": "purple" }],
-      "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
-      "cover": "https://picsum.photos/seed/btcath/1200/675",
+      "slug": "setup-rompimento-triangulo",
+      "date": "2026-06-29T11:30:00.000Z",
+      "updated": "2026-06-29T11:30:00.000Z",
+      "categories": [
+        "Trade"
+      ],
+      "tags": [
+        {
+          "name": "Trade",
+          "color": "green"
+        },
+        {
+          "name": "Análises",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/tradesetup/1200/675",
       "thumbnail": null,
-      "title": [{ "text": "Bitcoin atinge novo topo histórico " }, { "text": "🚀", "bold": true }],
-      "excerpt": "O Bitcoin rompeu sua máxima anterior em meio a forte volume comprador.",
-      "pinned": true,
+      "title": [
+        {
+          "text": "Setup de trade: rompimento de triângulo "
+        },
+        {
+          "text": "📐",
+          "bold": true
+        }
+      ],
+      "excerpt": "Como estruturar entrada, stop e alvo em um rompimento de triângulo no BTC.",
       "hasMore": true,
       "preview": [
-        { "type": "p", "spans": [{ "text": "O " }, { "text": "Bitcoin", "bold": true }, { "text": " rompeu sua máxima histórica nesta madrugada, impulsionado por forte fluxo institucional." }] },
-        { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "line", "timeRange": "6m", "size": "full" } }
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "BTC",
+              "bold": true
+            },
+            {
+              "text": " formou um triângulo de consolidação no gráfico diário. Abaixo, o plano de trade."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "asset": "BTC",
+            "date": "now",
+            "chartType": "candle",
+            "timeRange": "3m",
+            "candleInterval": "1d",
+            "size": "full"
+          }
+        }
       ]
     },
     {
+      "schemaVersion": 1,
+      "id": "sol-defi",
+      "locale": "en",
+      "slug": "solana-defi-ecosystem-2026",
+      "date": "2026-06-29T09:00:00.000Z",
+      "updated": "2026-06-29T09:00:00.000Z",
+      "categories": [
+        "Altcoins",
+        "Estudos"
+      ],
+      "tags": [
+        {
+          "name": "Altcoins",
+          "color": "orange"
+        },
+        {
+          "name": "Estudos",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/soldefi/1200/675",
+      "thumbnail": null,
+      "title": [
+        {
+          "text": "Solana: the DeFi ecosystem in 2026 "
+        },
+        {
+          "text": "🌅",
+          "bold": true
+        }
+      ],
+      "excerpt": "An overview of the state of DeFi on Solana and the protocols dominating TVL.",
+      "hasMore": true,
+      "preview": [
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": ""
+            },
+            {
+              "text": "Solana",
+              "bold": true
+            },
+            {
+              "text": " has established itself as one of the most active DeFi networks, combining low fees with high speed."
+            }
+          ]
+        },
+        {
+          "type": "price",
+          "asset": "SOL",
+          "date": "now"
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "asset": "SOL",
+            "date": "now",
+            "chartType": "line",
+            "timeRange": "1y",
+            "size": "full"
+          }
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "sol-defi",
+      "locale": "pt",
+      "slug": "solana-ecossistema-defi-2026",
+      "date": "2026-06-29T09:00:00.000Z",
+      "updated": "2026-06-29T09:00:00.000Z",
+      "categories": [
+        "Altcoins",
+        "Estudos"
+      ],
+      "tags": [
+        {
+          "name": "Altcoins",
+          "color": "orange"
+        },
+        {
+          "name": "Estudos",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/soldefi/1200/675",
+      "thumbnail": null,
+      "title": [
+        {
+          "text": "Solana: o ecossistema DeFi em 2026 "
+        },
+        {
+          "text": "🌅",
+          "bold": true
+        }
+      ],
+      "excerpt": "Uma visão geral do estado do DeFi na Solana e os protocolos que dominam o TVL.",
+      "hasMore": true,
+      "preview": [
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "A "
+            },
+            {
+              "text": "Solana",
+              "bold": true
+            },
+            {
+              "text": " consolidou-se como uma das redes mais ativas em DeFi, combinando taxas baixas e alta velocidade."
+            }
+          ]
+        },
+        {
+          "type": "price",
+          "asset": "SOL",
+          "date": "now"
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "asset": "SOL",
+            "date": "now",
+            "chartType": "line",
+            "timeRange": "1y",
+            "size": "full"
+          }
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
       "id": "btc-ath",
       "locale": "en",
       "slug": "bitcoin-new-all-time-high",
       "date": "2026-06-28T10:00:00.000Z",
       "updated": "2026-06-28T10:00:00.000Z",
-      "categories": ["Mercado", "ATH"],
-      "tags": [{ "name": "Notícias", "color": "blue" }, { "name": "Análises", "color": "purple" }],
-      "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+      "categories": [
+        "Mercado",
+        "ATH"
+      ],
+      "tags": [
+        {
+          "name": "Notícias",
+          "color": "blue"
+        },
+        {
+          "name": "Análises",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
       "cover": "https://picsum.photos/seed/btcath/1200/675",
       "thumbnail": null,
-      "title": [{ "text": "Bitcoin hits a new all-time high " }, { "text": "🚀", "bold": true }],
+      "title": [
+        {
+          "text": "Bitcoin hits a new all-time high "
+        },
+        {
+          "text": "🚀",
+          "bold": true
+        }
+      ],
       "excerpt": "Bitcoin broke its previous high amid strong buying volume.",
       "pinned": true,
       "hasMore": true,
       "preview": [
-        { "type": "p", "spans": [{ "text": "" }, { "text": "Bitcoin", "bold": true }, { "text": " broke its all-time high overnight, driven by strong institutional inflows." }] },
-        { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "line", "timeRange": "6m", "size": "full" } }
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": ""
+            },
+            {
+              "text": "Bitcoin",
+              "bold": true
+            },
+            {
+              "text": " broke its all-time high overnight, driven by strong institutional inflows."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "asset": "BTC",
+            "date": "now",
+            "chartType": "line",
+            "timeRange": "6m",
+            "size": "full"
+          }
+        }
       ]
     },
     {
-      "id": "eth-news",
+      "schemaVersion": 1,
+      "id": "btc-ath",
       "locale": "pt",
-      "slug": "ethereum-atualizacao-rede",
-      "date": "2026-06-27T08:30:00.000Z",
-      "updated": "2026-06-27T08:30:00.000Z",
-      "categories": ["Estudos"],
-      "tags": [{ "name": "Estudos", "color": "purple" }],
-      "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
-      "cover": "https://picsum.photos/seed/ethnews/1200/675",
+      "slug": "bitcoin-novo-topo-historico",
+      "date": "2026-06-28T10:00:00.000Z",
+      "updated": "2026-06-28T10:00:00.000Z",
+      "categories": [
+        "Mercado",
+        "ATH"
+      ],
+      "tags": [
+        {
+          "name": "Notícias",
+          "color": "blue"
+        },
+        {
+          "name": "Análises",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/btcath/1200/675",
       "thumbnail": null,
-      "title": [{ "text": "Ethereum: o que muda na próxima atualização" }],
-      "excerpt": "Um resumo das mudanças técnicas e o impacto para usuários.",
-      "hasMore": false,
+      "title": [
+        {
+          "text": "Bitcoin atinge novo topo histórico "
+        },
+        {
+          "text": "🚀",
+          "bold": true
+        }
+      ],
+      "excerpt": "O Bitcoin rompeu sua máxima anterior em meio a forte volume comprador.",
+      "pinned": true,
+      "hasMore": true,
       "preview": [
-        { "type": "p", "spans": [{ "text": "A próxima atualização da rede traz melhorias de escalabilidade e redução de custos." }] },
-        { "type": "list", "ordered": false, "items": [[{ "text": "Taxas menores" }], [{ "text": "Maior throughput" }]] }
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "Bitcoin",
+              "bold": true
+            },
+            {
+              "text": " rompeu sua máxima histórica nesta madrugada, impulsionado por forte fluxo institucional."
+            }
+          ]
+        },
+        {
+          "type": "chart",
+          "chart": {
+            "asset": "BTC",
+            "date": "now",
+            "chartType": "line",
+            "timeRange": "6m",
+            "size": "full"
+          }
+        }
       ]
     },
     {
+      "schemaVersion": 1,
       "id": "eth-news",
       "locale": "en",
       "slug": "ethereum-network-upgrade",
       "date": "2026-06-27T08:30:00.000Z",
       "updated": "2026-06-27T08:30:00.000Z",
-      "categories": ["Estudos"],
-      "tags": [{ "name": "Estudos", "color": "purple" }],
-      "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+      "categories": [
+        "Estudos"
+      ],
+      "tags": [
+        {
+          "name": "Estudos",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
       "cover": "https://picsum.photos/seed/ethnews/1200/675",
       "thumbnail": null,
-      "title": [{ "text": "Ethereum: what changes in the next upgrade" }],
+      "title": [
+        {
+          "text": "Ethereum: what changes in the next upgrade"
+        }
+      ],
       "excerpt": "A summary of the technical changes and their impact on users.",
       "hasMore": false,
       "preview": [
-        { "type": "p", "spans": [{ "text": "The next network upgrade brings scalability improvements and lower costs." }] },
-        { "type": "list", "ordered": false, "items": [[{ "text": "Lower fees" }], [{ "text": "Higher throughput" }]] }
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "The next network upgrade brings scalability improvements and lower costs."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            [
+              {
+                "text": "Lower fees"
+              }
+            ],
+            [
+              {
+                "text": "Higher throughput"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "These changes directly affect DeFi and NFT applications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "eth-news",
+      "locale": "pt",
+      "slug": "ethereum-atualizacao-rede",
+      "date": "2026-06-27T08:30:00.000Z",
+      "updated": "2026-06-27T08:30:00.000Z",
+      "categories": [
+        "Estudos"
+      ],
+      "tags": [
+        {
+          "name": "Estudos",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/ethnews/1200/675",
+      "thumbnail": null,
+      "title": [
+        {
+          "text": "Ethereum: o que muda na próxima atualização"
+        }
+      ],
+      "excerpt": "Um resumo das mudanças técnicas e o impacto para usuários.",
+      "hasMore": false,
+      "preview": [
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "A próxima atualização da rede traz melhorias de escalabilidade e redução de custos."
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            [
+              {
+                "text": "Taxas menores"
+              }
+            ],
+            [
+              {
+                "text": "Maior throughput"
+              }
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "Essas mudanças afetam diretamente aplicações de DeFi e NFTs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "fear-greed",
+      "locale": "en",
+      "slug": "fear-and-greed-index-explained",
+      "date": "2026-06-26T14:00:00.000Z",
+      "updated": "2026-06-26T14:00:00.000Z",
+      "categories": [
+        "Mercado",
+        "Estudos"
+      ],
+      "tags": [
+        {
+          "name": "Estudos",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/feargreed/1200/675",
+      "thumbnail": null,
+      "title": [
+        {
+          "text": "The Fear & Greed Index explained"
+        }
+      ],
+      "excerpt": "What the indicator measures, how to read it, and its limits.",
+      "hasMore": true,
+      "preview": [
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "The "
+            },
+            {
+              "text": "Fear & Greed Index",
+              "bold": true
+            },
+            {
+              "text": " sums up market sentiment in a single number from 0 to 100."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "💡",
+          "color": "blue_background",
+          "blocks": [
+            {
+              "type": "p",
+              "spans": [
+                {
+                  "text": "Low values signal fear (a possible opportunity); high values signal greed (possible caution)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "schemaVersion": 1,
+      "id": "fear-greed",
+      "locale": "pt",
+      "slug": "indice-medo-ganancia-explicado",
+      "date": "2026-06-26T14:00:00.000Z",
+      "updated": "2026-06-26T14:00:00.000Z",
+      "categories": [
+        "Mercado",
+        "Estudos"
+      ],
+      "tags": [
+        {
+          "name": "Estudos",
+          "color": "purple"
+        }
+      ],
+      "author": {
+        "id": "a1",
+        "name": "Crypto Bros",
+        "avatar": "https://picsum.photos/seed/cbros/100/100"
+      },
+      "cover": "https://picsum.photos/seed/feargreed/1200/675",
+      "thumbnail": null,
+      "title": [
+        {
+          "text": "Índice de Medo e Ganância explicado"
+        }
+      ],
+      "excerpt": "O que o indicador mede, como interpretá-lo e seus limites.",
+      "hasMore": true,
+      "preview": [
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "O "
+            },
+            {
+              "text": "Índice de Medo e Ganância",
+              "bold": true
+            },
+            {
+              "text": " resume o sentimento do mercado em um número de 0 a 100."
+            }
+          ]
+        },
+        {
+          "type": "callout",
+          "icon": "💡",
+          "color": "blue_background",
+          "blocks": [
+            {
+              "type": "p",
+              "spans": [
+                {
+                  "text": "Valores baixos indicam medo (possível oportunidade); valores altos indicam ganância (possível cautela)."
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ]

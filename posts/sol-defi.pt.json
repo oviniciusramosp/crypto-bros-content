@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "sol-defi",
+  "locale": "pt",
+  "slug": "solana-ecossistema-defi-2026",
+  "date": "2026-06-29T09:00:00.000Z",
+  "updated": "2026-06-29T09:00:00.000Z",
+  "categories": ["Altcoins", "Estudos"],
+  "tags": [{ "name": "Altcoins", "color": "orange" }, { "name": "Estudos", "color": "purple" }],
+  "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+  "cover": "https://picsum.photos/seed/soldefi/1200/675",
+  "thumbnail": null,
+  "title": [{ "text": "Solana: o ecossistema DeFi em 2026 " }, { "text": "🌅", "bold": true }],
+  "excerpt": "Uma visão geral do estado do DeFi na Solana e os protocolos que dominam o TVL.",
+  "blocks": [
+    { "type": "p", "spans": [{ "text": "A " }, { "text": "Solana", "bold": true }, { "text": " consolidou-se como uma das redes mais ativas em DeFi, combinando taxas baixas e alta velocidade." }] },
+    { "type": "price", "asset": "SOL", "date": "now" },
+    { "type": "chart", "chart": { "asset": "SOL", "date": "now", "chartType": "line", "timeRange": "1y", "size": "full" } },
+    { "type": "divider" },
+    { "type": "h", "level": 2, "spans": [{ "text": "Os pilares do ecossistema" }] },
+    { "type": "p", "spans": [{ "text": "O crescimento do TVL veio de três frentes principais:" }] },
+    { "type": "list", "ordered": true, "items": [
+      [{ "text": "DEXs com liquidez concentrada" }],
+      [{ "text": "Plataformas de staking líquido" }],
+      [{ "text": "Mercados de empréstimo (lending)" }]
+    ] },
+    { "type": "callout", "icon": "⚠️", "color": "orange_background", "blocks": [
+      { "type": "p", "spans": [{ "text": "DeFi envolve riscos de contrato inteligente. Nunca aporte mais do que você pode perder." }] }
+    ] },
+    { "type": "h", "level": 3, "spans": [{ "text": "Exemplo de swap" }] },
+    { "type": "code", "lang": "ts", "text": "const route = await jupiter.computeRoutes({\n  inputMint: SOL,\n  outputMint: USDC,\n  amount: 1_000_000_000,\n});" },
+    { "type": "quote", "spans": [{ "text": "Liquidez é tudo: sem ela, não há DeFi.", "italic": true }] },
+    { "type": "image", "src": "https://picsum.photos/seed/soltvl/1200/700", "caption": [{ "text": "Evolução do TVL na Solana." }] },
+    { "type": "p", "spans": [{ "text": "Acompanhe o " }, { "text": "Crypto Bros", "bold": true }, { "text": " para análises de altcoins." }] }
+  ]
+}

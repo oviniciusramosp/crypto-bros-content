@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "trade-setup",
+  "locale": "pt",
+  "slug": "setup-rompimento-triangulo",
+  "date": "2026-06-29T11:30:00.000Z",
+  "updated": "2026-06-29T11:30:00.000Z",
+  "categories": ["Trade"],
+  "tags": [{ "name": "Trade", "color": "green" }, { "name": "Análises", "color": "purple" }],
+  "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+  "cover": "https://picsum.photos/seed/tradesetup/1200/675",
+  "thumbnail": null,
+  "title": [{ "text": "Setup de trade: rompimento de triângulo " }, { "text": "📐", "bold": true }],
+  "excerpt": "Como estruturar entrada, stop e alvo em um rompimento de triângulo no BTC.",
+  "blocks": [
+    { "type": "p", "spans": [{ "text": "O " }, { "text": "BTC", "bold": true }, { "text": " formou um triângulo de consolidação no gráfico diário. Abaixo, o plano de trade." }] },
+    { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "candle", "timeRange": "3m", "candleInterval": "1d", "size": "full" } },
+    { "type": "divider" },
+    { "type": "h", "level": 2, "spans": [{ "text": "O plano" }] },
+    { "type": "list", "ordered": true, "items": [
+      [{ "text": "Entrada: ", "bold": true }, { "text": "no fechamento acima da resistência" }],
+      [{ "text": "Stop: ", "bold": true }, { "text": "abaixo do último fundo" }],
+      [{ "text": "Alvo: ", "bold": true }, { "text": "projeção da altura do triângulo" }]
+    ] },
+    { "type": "todo", "checked": false, "spans": [{ "text": "Confirmar volume no rompimento" }] },
+    { "type": "todo", "checked": false, "spans": [{ "text": "Definir tamanho da posição (risco ≤ 1%)" }] },
+    { "type": "callout", "icon": "⚠️", "color": "red_background", "blocks": [
+      { "type": "p", "spans": [{ "text": "Isto não é recomendação de investimento. Faça sua própria análise." }] }
+    ] },
+    { "type": "quote", "spans": [{ "text": "Planeje o trade e opere o plano.", "italic": true }] }
+  ]
+}
