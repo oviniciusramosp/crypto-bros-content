@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "0aa31abbfdc74a0793877e0dcbd8299d",
+  "locale": "en",
+  "slug": "eth-rises-5-on-prospects-of-war-ending",
+  "date": "2026-04-01T11:05:00.000Z",
+  "updated": "2026-04-01T14:44:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "ETH",
+      "color": "purple"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ddc297e6f131cdf3.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "ETH Rises 5% on Prospects of War Ending"
+    }
+  ],
+  "excerpt": "Ethereum rose +5.2% in the last 24 hours, reaching $2,132 and hovering around the psychological level of $2,200, while Bitcoin holds ground above $68,500. The t",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ethereum rose "
+        },
+        {
+          "text": "+5.2%",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " in the last 24 hours, reaching "
+        },
+        {
+          "text": "$2,132",
+          "bold": true
+        },
+        {
+          "text": " and hovering around the psychological level of $2,200, while Bitcoin holds ground above "
+        },
+        {
+          "text": "$68,500",
+          "bold": true
+        },
+        {
+          "text": ". The trigger was geopolitical: US President Donald Trump stated he expects the conflict with Iran to end within three weeks, boosting risk appetite across all markets."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump declared early this morning (Brasília time) that the conflict between the US and Iran could end without the need for a formal agreement with Tehran. He announced a national address for Wednesday evening, described as an \"important update.\" Meanwhile, Iranian President Masoud Pezeshkian told the European Council President that Iran has \"the necessary will to end this war,\" but demands guarantees against future aggression."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The news sparked a strong reaction in Asian markets: the MSCI Asia-Pacific index rose 4% in a single session, with Samsung and SK Hynix advancing over 9% each. S&P 500 futures also climbed. Brent crude, which had pulled back on Tuesday, stabilized again above US$ 105 after the Wall Street Journal reported that the United Arab Emirates is preparing to help militarily reopen the Strait of Hormuz, becoming the first Gulf state to enter the conflict."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In the crypto market, ETH was the standout, rising 5.2% in the last 24 hours. BTC, meanwhile, remains within the same range of recent weeks, between $65k and $73k, reflecting a more cautious stance from investors toward the asset."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:ETH;time:3m;date:2026-04-01;type:line}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The US-Iran war has been one of the main drags on markets since March. The prospect of it ending reduces the geopolitical risk premium that has been holding back the recovery of risk assets, including Bitcoin. Additionally, US Bitcoin ETFs recorded net inflows of "
+        },
+        {
+          "text": "$1.32 billion in March",
+          "bold": true
+        },
+        {
+          "text": ", the first positive monthly flows since October 2025, according to SoSoValue data. This indicates that institutional money is starting to return, albeit cautiously."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fear & Greed Index remains at "
+        },
+        {
+          "text": "Extreme Fear (8)",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", which shows that retail sentiment has not yet caught up with the price movement. In terms of derivatives, the BTC funding rate, which had been negative for days, approached zero this morning, suggesting that selling pressure via futures is decreasing."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What's Ahead"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump's address scheduled for tonight is the next catalyst. If it confirms concrete progress toward ending the conflict, the market is likely to react positively. For ETH, the "
+        },
+        {
+          "text": "$2,200",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": " level is the nearest psychological resistance; breaking through it would open room for "
+        },
+        {
+          "text": "$2,400",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": ". For BTC, the ceiling of the recent range at "
+        },
+        {
+          "text": "$69k–$70k",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": " is the level to watch. If the escalation in the Hormuz Strait advances and oil prices resume their climb, the geopolitical relief narrative falls apart quickly and the "
+        },
+        {
+          "text": "$65k",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " support comes back into focus."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "2f72da8d813480cb8453f16dba52b92f",
+  "locale": "pt",
+  "slug": "ouro-batendo-recordes-e-o-bitcoin-travado",
+  "date": "2026-01-29T11:00:00.000Z",
+  "updated": "2026-04-06T17:46:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Ouro Batendo Recordes e o Bitcoin Travado...",
+      "bold": true
+    }
+  ],
+  "excerpt": "Ouro cravando $5.500 e batendo recorde absoluto com +100% em um ano. A prata foi ainda mais longe: +280% no ano, chegando a $120. Bancos centrais continuam acum",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ouro cravando $5.500 e batendo recorde absoluto com +100% em um ano. A prata foi ainda mais longe: +280% no ano, chegando a $120. Bancos centrais continuam acumulando 60 toneladas por mês sem dar sinais de pausa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:GOLD;time:1y;date:2026-01-29;type:line;size:half}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:SILVER;time:1y;date:2026-01-29;type:line;size:half}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto isso, o Bitcoin segue na mesma faixa de $86-87k há meses. Sem explosão, sem colapso. Só "
+        },
+        {
+          "text": "lateralização",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1y;date:2026-01-29;type:line}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A desconexão entre os dois ativos ficou gritante. Desde dezembro de 2024, o BTC já caiu 55% quando medido em ouro. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O RSI do par BTC/Gold está abaixo de 30 — isso aconteceu apenas 3 vezes antes na história: 2015, 2018 e 2022.\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que veio depois? "
+        },
+        {
+          "text": "Rally ",
+          "bold": true
+        },
+        {
+          "text": "🚀. Nos três casos. "
+        },
+        {
+          "text": "100% de acerto",
+          "bold": true
+        },
+        {
+          "text": ".\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vale lembrar o padrão de 2020: ouro fez topo em agosto, Bitcoin ficou de lado por 5 meses... e depois saiu de $10k para $65k. A correlação atual entre os dois? Praticamente nula."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ouro forte "
+        },
+        {
+          "text": "não ",
+          "bold": true
+        },
+        {
+          "text": "significa Bitcoin fraco. Historicamente, significa Bitcoin "
+        },
+        {
+          "text": "atrasado",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "\nQuem está posicionado entende que lateralização após ciclo de alta não é fraqueza — é acumulação. O sinal técnico mais raro do par BTC/Gold acabou de acender de novo.\n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Paciência aqui tende a pagar!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "34c2da8d813481d8a422e688d56dba58",
+  "locale": "pt",
+  "slug": "analise-23-abril",
+  "date": "2026-04-24T01:00:00.000Z",
+  "updated": "2026-04-24T13:12:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0d411f8e7f5bbe4b.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/712ab3f1dd1ece98.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 23 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$78.408",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0,044%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$78.662",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$76.960",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Parado na Festa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin ficou praticamente estável nesta quinta-feira. A oscilação foi mínima, com o preço se movendo dentro de uma faixa de pouco mais de $1.700 entre piso e teto da sessão. O volume se manteve alinhado à média dos últimos 7 dias, sem domínio claro de compras ou vendas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O contexto macro era favorável: a Nasdaq subiu 1,39% e o S&P 500 avançou 0,95%, enquanto ouro e prata recuaram com força, sinal clássico de apetite por risco. Nos últimos dias, a ampliação do cessar-fogo entre Trump e Irã empurrou o Bitcoin na direção dos $80.000, mas o impasse comercial entre EUA e China impediu que o nível fosse alcançado. Hoje, o ativo digeriu esses sinais conflitantes sem tomar direção."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-24;type:candle;candle:1d;ema:50w-green,200w-blue;line:2025-12-15|77000|||green|0.5|dashed|Suporte $77K,2025-12-15|79500|||red|0.5|dashed|Resistência $79.5K}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No médio prazo, a recuperação segue intacta: três semanas consecutivas de alta, com mínimas ascendentes desde os $73.800. O preço, porém, permanece abaixo das médias semanais de 50 e 100 semanas, que precisam ser reconquistadas para confirmar uma mudança de estrutura."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:2y;date:2026-04-24;type:line;ema:50w-green,100w-orange,200w-blue}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Gatilho dos $80 Mil"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário otimista depende de um rompimento e fechamento diário acima de "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " com volume acima da média. Esse nível tem peso técnico e psicológico, e um rompimento convincente abriria caminho para a região dos $82.500, próximo da média de 100 semanas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O posicionamento no mercado de derivativos favorece esse cenário. Com quase 60% das posições em futuros apontando para baixo, uma alta acima de $80.000 poderia forçar o fechamento em massa dessas posições, acelerando o movimento. A continuidade do apetite por risco nas bolsas americanas e avanços diplomáticos, como o cessar-fogo com o Irã, seriam os catalisadores mais prováveis."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O alvo secundário seria a região dos $86.000, onde está a média de 50 semanas. Reconquistar esse nível mudaria a estrutura semanal de pessimista para neutra."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se $77 Mil Ceder"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte imediato está em "
+        },
+        {
+          "text": "$77.000",
+          "bold": true
+        },
+        {
+          "text": ", testado na mínima de hoje com múltiplos toques nas últimas 48 horas. A perda desse nível no fechamento diário ativaria o cenário pessimista, com primeiro alvo em "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": ", a mínima da semana passada."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores de risco incluem uma escalada tarifária entre EUA e China ou um fortalecimento do dólar acima de 100 no índice DXY. Uma virada para aversão a risco nos mercados tradicionais também pressionaria o Bitcoin. Uma onda de liquidações de posições compradas ampliaria a queda caso $77.000 seja perdido."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O alvo secundário seria "
+        },
+        {
+          "text": "$70.500",
+          "bold": true
+        },
+        {
+          "text": ", mínima de 12 de abril. Um fechamento sustentado acima de $80.000 invalidaria completamente este cenário."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Radar Ligado"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O principal fator a monitorar é qualquer desdobramento nas negociações comerciais entre EUA e China. O posicionamento pessimista nos derivativos contrasta com três semanas de preço em alta, criando uma tensão que pode se resolver de forma brusca em qualquer direção."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fim de semana se aproxima e trará liquidez reduzida, o que pode amplificar movimentos bruscos. A faixa entre $77.000 e $80.000 permanece como zona decisiva: a saída por cima ou por baixo definirá a próxima perna de tendência."
+        }
+      ]
+    }
+  ]
+}

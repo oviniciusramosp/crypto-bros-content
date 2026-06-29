@@ -1,0 +1,318 @@
+{
+  "schemaVersion": 1,
+  "id": "3492da8d81348198845bc4058ae8c19e",
+  "locale": "pt",
+  "slug": "analise-20-abril",
+  "date": "2026-04-21T01:02:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a413d7514c3f145f.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/3200e4c2f29f857a.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 20 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$75.935",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+2,34%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$76.558",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$74.095",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Respiro Após a Rejeição"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin voltou a subir nesta segunda-feira, recuperando a região dos $75.900. Após a rejeição em $78.333 na sexta-feira, o preço havia recuado até $73.800 em dois dias de queda. A movimentação de hoje interrompeu essa sequência com um dia de alta, embora o volume tenha ficado ligeiramente abaixo da média."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A recuperação acompanhou um dia de forte alta nas bolsas americanas: o Nasdaq avançou "
+        },
+        {
+          "text": "+5,27%",
+          "color": "green"
+        },
+        {
+          "text": " e o S&P 500 subiu "
+        },
+        {
+          "text": "+3,24%",
+          "color": "green"
+        },
+        {
+          "text": ". O motor dessa alta conjunta é a fraqueza do dólar, com o DXY abaixo de 100, o que beneficia todos os ativos cotados em dólar. No lado institucional, entradas semanais de $1,37 bilhão em ETFs de Bitcoin marcaram o melhor resultado desde janeiro, e a Strategy realizou sua maior compra de Bitcoin desde 2024."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-04-21;type:candle;candle:1d;line:78000|2026-02-02||pink|0.4|||8|||10,72500|2026-03-25||cyan|0.4|||4|below||1}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No panorama semanal, Bitcoin se recupera aos poucos desde os $65.000 de março, mas ainda opera abaixo das principais EMAs semanais, o que mantém a estrutura de médio prazo pessimista."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1y;date:2026-04-21;type:line;ema:200w-blue,100w-orange,50w-green}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Gatilho nos $78.000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para confirmar uma retomada de alta, Bitcoin precisa romper a resistência em "
+        },
+        {
+          "text": "$78.000",
+          "color": "red"
+        },
+        {
+          "text": " com volume acima da média. Só um fechamento sustentado acima desse patamar recolocaria os $80.000 no radar."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Do lado macro, uma postura de corte de juros por parte do Fed, ou avanço concreto nas negociações comerciais entre EUA e China, poderia ser o catalisador para romper essa barreira. Um alívio nas tensões entre EUA e Irã, incluindo especulações sobre a abertura do Estreito de Ormuz, também reduziria o prêmio de risco global."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nos derivativos, a maioria dos traders está posicionada na venda: para cada 100 posições vendidas, há apenas 82 compradas. Se o preço romper os $78.000, essas posições seriam liquidadas, acelerando a alta em direção à região dos "
+        },
+        {
+          "text": "$82.500",
+          "color": "green"
+        },
+        {
+          "text": ". O alvo seguinte seria os "
+        },
+        {
+          "text": "$86.200",
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A Linha dos $73.500"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte em "
+        },
+        {
+          "text": "$73.500",
+          "color": "green"
+        },
+        {
+          "text": " foi testado cinco vezes nas últimas duas semanas e segue firme. Porém, cada novo teste sem rompimento acima dos $78.000 desgasta os compradores. Um fechamento diário abaixo desse nível abriria caminho para uma queda mais expressiva."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Entre os riscos: uma escalada nas tensões entre EUA e Irã poderia afetar mercados de risco. Qualquer sinalização de juros altos por mais tempo por parte do Fed também pesaria. No ecossistema cripto, as vendas de Solana (1,32 milhão de unidades enviadas para exchanges) e a falha de segurança no KelpDAO ($292 milhões) adiciona instabilidade ao ambiente."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se "
+        },
+        {
+          "text": "$73.500",
+          "color": "green"
+        },
+        {
+          "text": " ceder, o primeiro alvo seria a região dos "
+        },
+        {
+          "text": "$68.400",
+          "color": "red"
+        },
+        {
+          "text": ", na EMA de 200 semanas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Radar da Semana"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O principal ponto de atenção é a faixa entre "
+        },
+        {
+          "text": "$73.500",
+          "color": "green"
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$78.000",
+          "color": "red"
+        },
+        {
+          "text": ": enquanto o preço oscilar nesse intervalo, nenhum dos cenários está confirmado. A semana segue com liquidez normal nos mercados americanos, e a reunião do Fed em 7 de maio permanece como o próximo evento de peso no horizonte."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O ouro renovou máxima histórica em "
+        },
+        {
+          "text": "$4.848",
+          "color": "green"
+        },
+        {
+          "text": ", subindo junto com as bolsas, um cenário incomum explicado pela fraqueza do dólar. Se essa dinâmica continuar, Bitcoin tende a se beneficiar. Fique de olho na evolução dos fluxos de ETFs e em qualquer novidade sobre as tensões comerciais ou geopolíticas."
+        }
+      ]
+    }
+  ]
+}

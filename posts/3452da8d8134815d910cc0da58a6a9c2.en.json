@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "3452da8d8134815d910cc0da58a6a9c2",
+  "locale": "en",
+  "slug": "bitcoin-surges-5-in-broad-market-rally",
+  "date": "2026-04-17T15:20:00.000Z",
+  "updated": "2026-04-17T15:43:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    },
+    {
+      "name": "ETH",
+      "color": "purple"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/52b7fdeb8a763848.png",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4518647de9ae50c8.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Surges 5% in Broad Market Rally"
+    }
+  ],
+  "excerpt": "Bitcoin rallied +5.11% over the past 24 hours, reaching $77,598. The surge was accompanied by strong gains across the board, with Ethereum, Solana, and XRP post",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin rallied +5.11% over the past 24 hours, reaching $77,598. The surge was accompanied by strong gains across the board, with Ethereum, Solana, and XRP posting gains above 6%."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The recovery gained momentum on Friday (17th), pushing Bitcoin from a low of $73,827 to a high of $77,743 within 24 hours. Trading volume reached $1.76 billion, signaling significant market participation."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the institutional front, Ethereum ETFs completed six consecutive days of net inflows, reinforcing traditional investors' appetite for the sector. Flow Capital announced the migration of a $150 million credit fund to blockchain through the DigiFT platform — another sign of real adoption from traditional finance."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why It Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The combination of consistent ETF inflows and real-world asset migration to blockchain indicates that institutional capital continues to seek exposure to the sector. This is happening even as the Fear & Greed index remains in extreme fear territory, currently at 21 (down from 23 yesterday)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The funding rate has turned slightly positive in recent readings, suggesting long positions are starting to dominate again. Open Interest climbed to $7.48 billion, with new positions being opened alongside the price rally."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Expect"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If Bitcoin manages to hold above $77,000, the next level to watch is the $79,500 to $80,000 range. Should momentum fade, the nearest support sits around $74,000, close to the closing prices of recent days."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the regulatory front, the SEC has signaled a softer tone on its new podcast, which could influence sentiment in the coming weeks. Payward's $550 million deal to acquire Bitnomial further reinforces the consolidation of derivatives infrastructure in the United States."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "3592da8d81348172a5caf165d5b48fa2",
+  "locale": "pt",
+  "slug": "analise-06-maio",
+  "date": "2026-05-07T02:34:00.000Z",
+  "updated": "2026-05-09T01:16:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/cc0fce911e61c1c3.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/005387b12904ad9a.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 06 Maio"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$81.447",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0,67%",
+          "color": "green"
+        },
+        {
+          "text": " no dia)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Máxima: "
+        },
+        {
+          "text": "$82.850",
+          "color": "green"
+        },
+        {
+          "text": " • Mínima: "
+        },
+        {
+          "text": "$80.731",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A EMA de 100 Semanas"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou o terceiro dia consecutivo de alta, subindo 2,25% e encostando em $82.850 antes de recuar e fechar em $81.447. Desde 29 de abril, o preço vem formando topos ascendentes, e os três últimos dias trouxeram pavios na parte superior, sinalizando uma "
+        },
+        {
+          "text": "leve resistência em continuar subindo.",
+          "bold": true
+        },
+        {
+          "text": " Os três, porém, vieram com volume acima da média diária."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O empurrão veio de fora do mercado cripto. A Nasdaq subiu 2,02% e o S&P 500 avançou 1,46%, fechando o dia em modo claramente otimista. Ao mesmo tempo, o DXY (índice do dólar americano) seguiu enfraquecido na casa dos 98,48, e a Casa Branca confirmou que o anúncio formal da Reserva Estratégica de Bitcoin deve sair nas próximas semanas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Desde o toque na EMA de 200 semanas, vínhamos falando aqui da possibilidade de um reteste na EMA de 100 semanas antes do fundo do bear market (comportamento padrão e esperado). E foi exatamente isso que aconteceu. O Fear & Greed marcou 47, permanecendo em zona neutra: quando o preço sobe enquanto o sentimento ainda hesita, costuma haver mais combustível na alta antes que a euforia entre."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-05-07;type:candle;candle:1d;ema:50w-green,100w-orange,200w-blue;line:78200|||green|0.5|dashed,82400|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Momento dos Compradores"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o cenário otimista se confirmar, não basta um fechamento diário acima de "
+        },
+        {
+          "text": "$82.500",
+          "color": "green"
+        },
+        {
+          "text": ". O que realmente valida o rompimento é o fechamento semanal acima da EMA de 100 semanas. O ideal é que esse fechamento aconteça no domingo, seguido de pelo menos mais uma semana de confirmação… paciência é parte do processo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o rompimento vier com força, o preço pode navegar velozmente pela zona entre "
+        },
+        {
+          "text": "$83.125",
+          "color": "green"
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$85.000",
+          "color": "green"
+        },
+        {
+          "text": ", onde se concentra o max pain acumulado dos últimos meses. Boa parte das posições vendidas que virariam gatilho de liquidação está nessa faixa, criando um efeito de trampolim. O alvo imediato é a EMA de 50 semanas, hoje na casa dos "
+        },
+        {
+          "text": "$85.800",
+          "color": "green"
+        },
+        {
+          "text": " (mas caindo semana a semana)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Polymarket precifica "
+        },
+        {
+          "text": "64,5%",
+          "color": "green"
+        },
+        {
+          "text": " de chance de o Bitcoin tocar $85.000 ainda em maio, próximo do alvo da EMA de 50 semanas. A maioria do mercado de previsões aposta no cenário otimista no curto prazo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "EMA Segura o Impulso"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mesmo com um fechamento diário e semanal acima da EMA de 100 semanas, é natural que o preço forme um fundo ascendente, e esse fundo pode ficar temporariamente abaixo da linha da EMA. Por se tratar de um time frame semanal, até uma correção dentro da própria vela semanal seria algo esperado. Esse é um ponto de atenção que o leitor deve manter no radar."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte mais imediato está na faixa dos "
+        },
+        {
+          "text": "$76.000",
+          "color": "red"
+        },
+        {
+          "text": ", testada no final de abril. Os gatilhos para chegar lá são macro: uma nova rodada de tarifas, qualquer escalada geopolítica capaz de tirar Wall Street do otimismo atual, ou frustração com o calendário do anúncio da Reserva Estratégica."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Polymarket precifica "
+        },
+        {
+          "text": "42,5%",
+          "color": "red"
+        },
+        {
+          "text": " de chance de o Bitcoin tocar $75.000 em maio, por ora, o mercado de previsões não espera uma queda brusca, mas o risco existe e não deve ser ignorado."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Sem Afobação, Com Paciência"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tivemos uma boa retomada da alta, mas o momento ainda é de bear market. Isso só mudaria com velas semanais fechadas acima da EMA de 50 semanas - um nível que ainda está distante e pode levar meses para ser atingido com as confirmações necessárias."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mesmo durante o inverno cripto, é natural que o preço teste as EMAs de 100 e 50 semanas. Mas sem fechamentos semanais com força e confirmação, é cedo demais para bater o martelo e dizer que o otimismo voltou a dominar. O mercado pode estar se animando antes da hora."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A maior expectativa do cenário atual fica por conta dos anúncios do governo americano, acompanhados pela eventual redução dos conflitos internacionais e pelo contínuo enfraquecimento do dólar. Esses são os gatilhos reais - não o entusiasmo de curto prazo."
+        }
+      ]
+    }
+  ]
+}

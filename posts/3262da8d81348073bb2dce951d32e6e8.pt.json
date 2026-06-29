@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "3262da8d81348073bb2dce951d32e6e8",
+  "locale": "pt",
+  "slug": "a-analise-segue-a-mesma",
+  "date": "2026-03-17T21:01:00.000Z",
+  "updated": "2026-03-25T02:39:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "💭"
+  },
+  "title": [
+    {
+      "text": "A Análise Segue a Mesma…"
+    }
+  ],
+  "excerpt": "Desde a minha última análise o Bitcoin recuou e voltou a subir novamente. Porém nada realmente mudou de lá pra cá, veja que o que tivemos nesses últimos dias é ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Desde a minha última análise o Bitcoin recuou e voltou a subir novamente. Porém nada realmente mudou de lá pra cá, veja que o que tivemos nesses últimos dias é exatamente o que eu havia cogitado…"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "\n{{chart:BTC;time:3m;date:2026-03-17;type:line;ema:100w-cyan,200w-purple;line:77000|2026-02-04||red|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse é exatamente o texto que eu mandei na minha última análise:"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Entre $75,000 e $79,000 temos uma "
+        },
+        {
+          "text": "região de volume",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " de negociações interessante. Ela pode servir de resistência. "
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "Se conseguirmos ver força compradora entrando, a faixa dos $84,000 é outra para ficar atento: ela representa a "
+        },
+        {
+          "text": "média de 100 semanas",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "3422da8d813481b88b5ec0c3d94dd7b4",
+  "locale": "pt",
+  "slug": "bitcoin-sobe-6-e-volta-aos-us-75-mil-com-sinal-institucional",
+  "date": "2026-04-14T13:30:00.000Z",
+  "updated": "2026-04-14T19:12:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🚀"
+  },
+  "title": [
+    {
+      "text": "Bitcoin Sobe 6% e Volta aos US$ 75 Mil com Sinal Institucional"
+    }
+  ],
+  "excerpt": "O Bitcoin subiu quase 6% nas últimas 24 horas e voltou a negociar acima dos $75,000 nesta terça-feira. O movimento acontece em meio a sinais de interesse instit",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin subiu quase "
+        },
+        {
+          "text": "6%",
+          "bold": true
+        },
+        {
+          "text": " nas últimas 24 horas e voltou a negociar acima dos "
+        },
+        {
+          "text": "$75,000",
+          "bold": true
+        },
+        {
+          "text": " nesta terça-feira. O movimento acontece em meio a sinais de interesse institucional renovado, com a Deutsche Börse investindo "
+        },
+        {
+          "text": "$200 milhões",
+          "bold": true
+        },
+        {
+          "text": " na exchange Kraken."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Depois de fechar a semana anterior em ~"
+        },
+        {
+          "text": "$70.730",
+          "bold": true
+        },
+        {
+          "text": " no sábado, o Bitcoin iniciou uma recuperação que acelerou nas últimas horas. O ativo saiu de uma mínima de "
+        },
+        {
+          "text": "$70.600",
+          "bold": true
+        },
+        {
+          "text": " e alcançou "
+        },
+        {
+          "text": "$75.889",
+          "bold": true
+        },
+        {
+          "text": ", acumulando ganho de "
+        },
+        {
+          "text": "+5,96%",
+          "color": "green"
+        },
+        {
+          "text": " em 24 horas e "
+        },
+        {
+          "text": "+2,03%",
+          "color": "green"
+        },
+        {
+          "text": " nas últimas duas horas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário institucional, a Deutsche Börse, uma das maiores operadoras de bolsa da Europa, anunciou um investimento de "
+        },
+        {
+          "text": "$200 milhões",
+          "bold": true
+        },
+        {
+          "text": " na Kraken. Além disso, a República de Nauru contratou um profissional do mercado de Bitcoin para uma posição no governo, sinalizando interesse estatal no setor."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "Fear & Greed Index",
+          "italic": true
+        },
+        {
+          "text": " permanece em "
+        },
+        {
+          "text": "21",
+          "bold": true
+        },
+        {
+          "text": ", classificado como Medo Extremo, apesar da alta expressiva. Esse descolamento entre preço e sentimento sugere que boa parte do mercado ainda não está posicionada para cima. O "
+        },
+        {
+          "text": "funding rate",
+          "italic": true
+        },
+        {
+          "text": " dos contratos futuros de BTC virou positivo pela primeira vez em dias ("
+        },
+        {
+          "text": "+0,0027%",
+          "color": "green"
+        },
+        {
+          "text": " às 08h de hoje), e o "
+        },
+        {
+          "text": "open interest",
+          "italic": true
+        },
+        {
+          "text": " subiu de "
+        },
+        {
+          "text": "$6,72 bilhões",
+          "bold": true
+        },
+        {
+          "text": " para "
+        },
+        {
+          "text": "$7,12 bilhões",
+          "bold": true
+        },
+        {
+          "text": " nas últimas 20 horas, indicando "
+        },
+        {
+          "text": "entrada de capital novo",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Ethereum acompanhou o movimento com força, subindo "
+        },
+        {
+          "text": "+8,81%",
+          "color": "green"
+        },
+        {
+          "text": " e sendo negociado a "
+        },
+        {
+          "text": "$2.406",
+          "bold": true
+        },
+        {
+          "text": ". Solana avançou "
+        },
+        {
+          "text": "+5,50%",
+          "color": "green"
+        },
+        {
+          "text": " e XRP registrou "
+        },
+        {
+          "text": "+4,09%",
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o BTC conseguir se manter acima de "
+        },
+        {
+          "text": "$75.000",
+          "bold": true
+        },
+        {
+          "text": " nas próximas horas, o próximo nível a observar é a resistência em "
+        },
+        {
+          "text": "$77.000",
+          "bold": true
+        },
+        {
+          "text": ", região onde houve rejeição no início de abril. Se o preço perder os "
+        },
+        {
+          "text": "$73.000",
+          "bold": true
+        },
+        {
+          "text": ", o suporte mais relevante fica em "
+        },
+        {
+          "text": "US$ 71.600",
+          "bold": true
+        },
+        {
+          "text": ", que foi a mínima das últimas 24 horas. O fato de o sentimento continuar em Medo Extremo, mesmo com a alta, torna esse nível um termômetro importante: uma perda rápida pode acelerar vendas de quem entrou no movimento de hoje."
+        }
+      ]
+    }
+  ]
+}

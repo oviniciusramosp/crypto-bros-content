@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "id": "3352da8d81348104b908f55deff1ba98",
+  "locale": "en",
+  "slug": "technical-analysis-mar-31",
+  "date": "2026-04-01T02:35:00.000Z",
+  "updated": "2026-04-01T14:21:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/708e0b9b593e1b0c.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/5c62c757b5d7f3b7.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Technical Analysis: Mar 31"
+    }
+  ],
+  "excerpt": "Daily technical analysis, powered by our AI:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Daily technical analysis, powered by our AI:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin:",
+          "bold": true
+        },
+        {
+          "text": " $68,284 ("
+        },
+        {
+          "text": "+2.23%",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: ",
+          "bold": true
+        },
+        {
+          "text": "$68,600",
+          "color": "green"
+        },
+        {
+          "text": " • "
+        },
+        {
+          "text": "Low:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "$65,998",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Current Picture"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If you've been following along, $65,000 was the line to hold. On March 29, the daily low touched exactly that level and held. On March 31, two catalysts broke the selling pressure at once: Iran signaled willingness to negotiate a ceasefire with the U.S., triggering an instant short squeeze, and "
+        },
+        {
+          "text": "Bitcoin avoided a sixth consecutive monthly close in the red, finishing March up +2.79%",
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The result was a daily close above the 200-week EMA ($68,222) for the first time since March 25. The catch: the margin was just $62. That line held as resistance for five straight closes (March 27-30) and now flips to support. Any meaningful selling pressure puts BTC back below it immediately."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The macro backdrop explains the day's move: the DXY fell below 100 for the first time in months (historically favorable for BTC), and the S&P 500 rallied +2.91% on the same day, with active risk-on correlation. But Liberation Day is coming on April 2, when Trump is set to announce broad reciprocal tariffs. The mood from March 31 could reverse quickly."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In cycle terms, BTC is replicating the 2020 cycle pattern with precision: a -45.9% drawdown from its ATH of $126,200, exactly mirroring what happened at the same point in the prior cycle (April 2022, -45% from $69k). Back then, BTC continued falling for another 3 months before bottoming at $15,500. The absolute price level is different, but the EMA structure looks nearly identical."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-04-01;type:line;line:65000|||red|0.2|||7,71700|||green|0.2|||7}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bullish Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bullish scenario we outlined on March 29 partially played out: BTC held $65,000 and reclaimed the 200-week EMA on the March 31 close. The next natural target is the $70,000-$71,000 zone, the same resistance that rejected price three times between March 23-25."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The technical trigger is sustaining daily closes above the 200-week EMA ($68,200). The most immediate external catalyst is Liberation Day: if the April 2 tariffs come in softer than what the market has priced in, a risk-on move could push BTC to test $70k within hours."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Two derivatives data points support the upside potential: the funding rate is negative (-0.0035%), meaning shorts are paying longs, and Open Interest fell while price rose, a classic healthy short squeeze pattern. That setup creates fuel for additional buying pressure whenever a positive catalyst shows up."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Beyond April 2, Friday's NFP report (April 3) has consensus around 130k jobs. A miss below that signals a cooling labor market and pulls forward expectations for Fed rate cuts. The March CPI on April 9 completes the macro picture: inflation below 2.7% would be the second medium-term catalyst."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If BTC breaks above $70,000-$71,000 sustainably, the next target is $71,400-$72,000, a zone with five previous rejections on record. Breaking that ceiling would validate a new phase of recovery. Prediction markets give a 97% probability that the Fed cuts rates before end of 2026, which is positive for the second half of the year."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bearish Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Losing the 200-week EMA ($68,200) on a daily close is the trigger. With Liberation Day on April 2, the probability of a close below that line is real: broader-than-expected reciprocal tariffs would mean immediate risk-off selling across markets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The targets remain the same from this week's analyses: a return to $65,000 as the first line of defense, and if that breaks, $63,000-$63,500 as the next structural zone. Prediction markets reinforce the underlying pressure: a 97.5% probability of no Fed rate cut in April removes any near-term liquidity catalyst."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A daily close below the 200-week EMA would revive the narrative of 'we've lost the last relevant support before $65k,' increasing the risk of cascading stops and liquidations."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The most important event in the next few days is Liberation Day on April 2 (Thursday). Trump announces the reciprocal tariffs: the scope and aggressiveness of the measure will set Bitcoin's direction for the entire week. It's the most market-moving event for crypto since early March."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On Friday, April 3, the March NFP comes out with consensus around 130k new jobs. On April 9, the March CPI closes the macro data cycle for the following week. Together, these three events will shape the definitive picture for BTC in April."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Looking further out, BTC is at the same point in the cycle it was in April 2022, when the real bottom only came 3-4 months later. The historical cycle bottom formation zone, between $58,900 and $43,200, remains a possible destination before the next major reversal. A decisive recovery above the 100-week EMA ($83,000) on a sustained basis would signal that the cycle low at $65,000 was the real bottom. Follow the next analysis to see how Liberation Day reshapes the picture."
+        }
+      ]
+    }
+  ]
+}

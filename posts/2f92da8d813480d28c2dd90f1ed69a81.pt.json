@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "2f92da8d813480d28c2dd90f1ed69a81",
+  "locale": "pt",
+  "slug": "bitcoin-abaixo-de-80000",
+  "date": "2026-01-31T18:29:00.000Z",
+  "updated": "2026-03-02T18:53:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/fba17a65f87e5ca2.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/f22a7c8d9c0c5cd9.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin abaixo de $80,000!"
+    }
+  ],
+  "excerpt": "O Bitcoin perdeu o suporte que vinha segurando desde Novembro. E agora? ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin perdeu o suporte que vinha segurando desde Novembro. E agora? "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A próxima parada é nos "
+        },
+        {
+          "text": "$74,000. ",
+          "bold": true
+        },
+        {
+          "text": "Exatamente onde parou em "
+        },
+        {
+          "text": "Abril de 2025",
+          "bold": true
+        },
+        {
+          "text": ", no crash das tarifas do Trump."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:4m;date:2026-01-31;type:line}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por que caimos tanto? "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Não foi por uma coisa só… segue o fio:"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "1. Tensões geopolíticas no Oriente Médio",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Relatos de explosões no Irã e escalada de conflitos envolvendo EUA e Irã geraram medo generalizado nos mercados, levando a uma fuga de ativos de risco como o Bitcoin. A liquidez baixa típica de fim de semana ampliou o impacto das vendas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "2. Kevin Warsh como chair do Fed",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A indicação de Warsh pelo presidente Trump, percebida como favorável a uma política monetária mais restritiva e contrária a cortes de juros no curto prazo, aumentou a preocupação dos investidores e contribuiu para a pressão de venda. A expectativa era de uma indicação de alguém com um perfil mais favorável a corte de juros. \n"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "3. Liquidações em cascata de posições alavancadas",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mais de US$ 650 milhões a US$ 1,8 bilhão em liquidations (principalmente longs) nas últimas 24h criaram um efeito dominó de vendas forçadas, intensificando a queda em ambiente de baixa liquidez. O excesso de alavancagem não só no Bitcoin mas em metais preciosos (que passaram a ser ofertado por corretoras cripto) é um dos principais causadores das liquidações."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "4. Saídas contínuas de ETFs de Bitcoin",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Fluxos negativos recordes (centenas de milhões diários, acumulando bilhões recentemente) reduziram demanda institucional e adicionaram pressão constante de oferta no mercado spot.\n\n"
+        },
+        {
+          "text": "5. Possibilidade de novo Shutdown nos EUA",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Incerteza política com o breve fechamento do governo agravou aversão ao risco, reforçando sell-off em ativos voláteis."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "E agora?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por aqui, seguimos do mesmo jeito: essas quedas não nos surpreendem e era um dos cenários possíveis mapeados por nós do Crypto Bros! Seguimos aproveitando as oportunidades de comprar mais barato, sem desespero ou ganância exagerada. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin pode voltar a casa dos $74,000 e pode ir ainda mais em baixo, confirmando um Bear Market. Estar preparado para os cenários mais extremos (como ir na casa de $43k ~ $58k) vai permitir que você surfe as melhores oportunidades com calma, tranquilidade e planejamento."
+        }
+      ]
+    }
+  ]
+}

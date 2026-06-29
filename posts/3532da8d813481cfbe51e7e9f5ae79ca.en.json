@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "3532da8d813481cfbe51e7e9f5ae79ca",
+  "locale": "en",
+  "slug": "analysis-april-30",
+  "date": "2026-05-01T02:10:00.000Z",
+  "updated": "2026-05-01T16:20:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/99c89cf8731f12f7.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/6cf35d621cd38af2.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis April 30"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed at "
+        },
+        {
+          "text": "$76,560",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0.94%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$76,669",
+          "color": "green"
+        },
+        {
+          "text": " • Low: "
+        },
+        {
+          "text": "$75,323",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Timid Rally Under Risk"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin had a lukewarm day. Today's volume came in above the recent average, but the weekly picture remains concerning. Since February 6, the 20-day moving average of volume has been declining while price climbed toward the "
+        },
+        {
+          "text": "$79,000",
+          "bold": true
+        },
+        {
+          "text": " range — a classic disconnect between price action and participation that often sets a bull trap."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The day was one of risk appetite: the S&P 500 gained "
+        },
+        {
+          "text": "1.42%",
+          "bold": true
+        },
+        {
+          "text": " and the Nasdaq rose "
+        },
+        {
+          "text": "1.86%",
+          "bold": true
+        },
+        {
+          "text": ". The dollar fell "
+        },
+        {
+          "text": "0.31%",
+          "bold": true
+        },
+        {
+          "text": " on the DXY, and under these conditions Bitcoin would normally track equities. This time, the timid rally fell well short, signaling that appetite for crypto remains subdued after the April 29 FOMC meeting, which held rates steady in the face of still-sticky inflation."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish scenario mapped out last week partially played out, with a close below the "
+        },
+        {
+          "text": "$77,100",
+          "bold": true
+        },
+        {
+          "text": " trigger on 04/28. The primary target in the "
+        },
+        {
+          "text": "$73,800",
+          "bold": true
+        },
+        {
+          "text": " range hasn't been reached yet, but the path remains open as long as the "
+        },
+        {
+          "text": "$79,500",
+          "bold": true
+        },
+        {
+          "text": " resistance holds."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-05-01;type:candle;candle:1d;ema:50w-green,100w-orange;line:73800|||green|0.5|dashed,80500|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If It Breaks $79,500"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For the bullish scenario to become a thesis, Bitcoin needs to close a daily candle above "
+        },
+        {
+          "text": "$79,500",
+          "bold": true
+        },
+        {
+          "text": " with volume above the 20-day average. Without volume, the breakout would be suspect, given the warning about declining participation since February. A confirmation would open room for a move toward the 100-week EMA, around the "
+        },
+        {
+          "text": "$82,400",
+          "bold": true
+        },
+        {
+          "text": " level, with extension toward the 50-week EMA in the "
+        },
+        {
+          "text": "$85,900",
+          "bold": true
+        },
+        {
+          "text": " range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Derivatives positioning favors a quick reversal via short squeeze if resistance gives way. The long/short ratio at "
+        },
+        {
+          "text": "0.899",
+          "bold": true
+        },
+        {
+          "text": " shows more traders short than long, and the slightly negative funding rate confirms this imbalance. Combined with elevated open interest, any positive surprise could force a liquidation cascade of short positions in quick succession."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the catalyst front, Polymarket prices in Bitcoin hitting the "
+        },
+        {
+          "text": "$80,000",
+          "bold": true
+        },
+        {
+          "text": " range before the "
+        },
+        {
+          "text": "$60,000",
+          "bold": true
+        },
+        {
+          "text": " level — a reading consistent with a retest of the 100-week EMA. A continued weakening of the dollar below "
+        },
+        {
+          "text": "98",
+          "bold": true
+        },
+        {
+          "text": " on the DXY and a resumption of correlation with the Nasdaq would be the macro triggers that would sustain the move."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Losing $73,800"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish scenario requires a daily close below "
+        },
+        {
+          "text": "$73,800",
+          "bold": true
+        },
+        {
+          "text": ", a support tested twice in April. Polymarket reinforces this level: the market points to Bitcoin above "
+        },
+        {
+          "text": "$74,000",
+          "bold": true
+        },
+        {
+          "text": " on 05/06. A break below would open the door to the psychological support at "
+        },
+        {
+          "text": "$70,000",
+          "bold": true
+        },
+        {
+          "text": ", with extension toward the 200-week EMA in the "
+        },
+        {
+          "text": "$68,500",
+          "bold": true
+        },
+        {
+          "text": " range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The 200-week EMA is not the cycle floor — it's the last major safety net before it. Historically, cycle bottoms form lower, in the "
+        },
+        {
+          "text": "$50,000",
+          "bold": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "$60,000",
+          "bold": true
+        },
+        {
+          "text": " range. The catalysts that could accelerate a decline along this path are the FOMC keeping a higher-for-longer stance, a return of DXY strength, and continued divergence between crypto and risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Polymarket itself reinforces the caution: few bets price in Bitcoin closing above "
+        },
+        {
+          "text": "$78,000",
+          "bold": true
+        },
+        {
+          "text": " on 05/06. This suggests an expectation of sideways movement between "
+        },
+        {
+          "text": "$73,000",
+          "bold": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "$80,000",
+          "bold": true
+        },
+        {
+          "text": " over the coming weeks. What would invalidate the bearish scenario is a daily close above "
+        },
+        {
+          "text": "$79,500",
+          "bold": true
+        },
+        {
+          "text": " with volume confirming."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tomorrow is "
+        },
+        {
+          "text": "May 1st",
+          "bold": true
+        },
+        {
+          "text": ", International Workers' Day. Despite what it may seem, the American Labor Day only falls in September, so the NYSE and Nasdaq open normally. What changes is that exchanges in several European countries and Brazil stay closed, which thins out global participation and tends to make the crypto order book shallower — favoring amplified moves in either direction heading into the weekend."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the technical dashboard, the two levels to watch remain the "
+        },
+        {
+          "text": "$79,500",
+          "bold": true
+        },
+        {
+          "text": " resistance and the "
+        },
+        {
+          "text": "$73,800",
+          "bold": true
+        },
+        {
+          "text": " support. As long as price oscillates between the two, the game is one of patience. Fast moves on low volume, in either direction, should be treated with skepticism until a daily close confirms the direction."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:2y;date:2026-05-01;type:line;ema:200w-blue,50w-green}}"
+        }
+      ]
+    }
+  ]
+}

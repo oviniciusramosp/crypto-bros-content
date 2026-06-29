@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "89afaf3fb490416bb2df526a2e758c6e",
+  "locale": "en",
+  "slug": "bitcoin-slips-to-66k-as-spot-etfs-see-171m-outflow",
+  "date": "2026-03-27T11:00:00.000Z",
+  "updated": "2026-04-06T17:46:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/fea57da947060132.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Slips to $66K as Spot ETFs See $171M Outflow"
+    }
+  ],
+  "excerpt": "Bitcoin is trading below $66,500 this Friday morning, down 4.5% over the past 24 hours. The move comes alongside a $171 million outflow from U.S. spot Bitcoin E",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin is trading below $66,500 this Friday morning, "
+        },
+        {
+          "text": "down 4.5% over the past 24 hours",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". The move comes alongside a $171 million outflow from U.S. spot Bitcoin ETFs on Thursday, led by BlackRock and Fidelity, two of the world’s largest asset managers."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Altcoins extended losses: "
+        },
+        {
+          "text": "Solana fell 5.7%",
+          "color": "red"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "ETH lost 4.3%",
+          "color": "red"
+        },
+        {
+          "text": ", and XRP slipped 3%. The Fear & Greed Index is at 13, classified as “Extreme Fear,” and the perpetual futures funding rate is negative (-0.0063%), indicating "
+        },
+        {
+          "text": "traders are betting the decline will continue",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:7d;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why It Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Institutional ETF outflows suggest professional managers are reducing risk exposure. BlackRock and Fidelity were among the biggest buyers of BTC via ETFs since the launch in January 2024, and when those institutions pull back, the selling pressure is real. Combined with negative funding in derivatives, the signal is broad risk aversion. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Geopolitical tensions in the Middle East are also weighing on sentiment: during periods of stress, investors tend to rotate into “safer” assets like the U.S. dollar and Treasuries. Quarter-end on Friday could amplify institutional redemptions as funds close positions for reporting."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What’s Next"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If BTC loses the "
+        },
+        {
+          "text": "$66,000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " support, the next key level is "
+        },
+        {
+          "text": "$64,500",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": ", a demand zone from recent weeks. If there is a reversal and price reclaims "
+        },
+        {
+          "text": "$68,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", that would be the first sign buyers are regaining control. "
+        }
+      ]
+    }
+  ]
+}

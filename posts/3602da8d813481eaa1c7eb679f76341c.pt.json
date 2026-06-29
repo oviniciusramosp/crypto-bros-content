@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "3602da8d813481eaa1c7eb679f76341c",
+  "locale": "pt",
+  "slug": "marco-regulatorio-cripto-avanca-e-bitcoin-dispara",
+  "date": "2026-05-14T18:17:00.000Z",
+  "updated": "2026-05-14T18:28:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/408ddc54dbbf98ff.png",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇺🇸"
+  },
+  "title": [
+    {
+      "text": "Marco Regulatório Cripto Avança e Bitcoin Dispara"
+    }
+  ],
+  "excerpt": "O Senate Banking Committee dos Estados Unidos aprovou nesta quinta-feira o Digital Asset Market Clarity Act por 15 votos a 9, num placar bipartidário que envia ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "Senate Banking Committee",
+          "italic": true
+        },
+        {
+          "text": " dos Estados Unidos aprovou nesta quinta-feira o Digital Asset Market Clarity Act por 15 votos a 9, num placar bipartidário que envia o projeto para o plenário do Senado. Os senadores Ruben Gallego (Arizona) e Angela Alsobrooks (Maryland) atravessaram a linha partidária e se juntaram aos 13 republicanos, dando ao "
+        },
+        {
+          "text": "setor cripto sua primeira vitória legislativa relevante em 2026",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Clarity Act estabelece um arcabouço federal para negociação de ativos digitais, stablecoins e intermediários, dividindo a supervisão entre SEC e CFTC. A maior parte do mercado fica sob a CFTC, enquanto a SEC mantém autoridade sobre ativos que se comportam como títulos. "
+        },
+        {
+          "text": "Bitcoin reagiu com alta de 2,81% nas últimas 24 horas e voltou para a região dos $82.000 após dias de pressão vendedora.",
+          "bold": true,
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Fim da Zona Cinzenta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O presidente do comitê, Tim Scott (republicano da Carolina do Sul), classificou a votação como um ponto de virada após anos em que empresas operaram sob o que ele chamou de regras ultrapassadas. O texto, que cresceu mais de 200 páginas durante meses de negociação, define exigências de registro, divulgação e compliance para exchanges, custodiantes e corretoras."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A senadora Cynthia Lummis (republicana de Wyoming), que lidera o painel de ativos digitais do comitê, descreveu o projeto como a peça de legislação mais difícil em décadas de carreira pública. Para o investidor, o sinal é claro. O mercado americano caminha para sair da incerteza jurídica que freou capital institucional desde 2022."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Próximos Passos"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O texto agora se funde com um projeto paralelo do Senate Agriculture Committee antes de chegar ao plenário, onde precisará de 60 votos para avançar. A meta declarada pelos relatores é votar até agosto. A líder da oposição, senadora Elizabeth Warren (democrata de Massachusetts), criticou duramente a proposta, classificou o texto como escrito pela própria indústria e prometeu obstrução."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o investidor brasileiro, o efeito é macro. Um marco regulatório claro nos Estados Unidos tende a reduzir o prêmio de risco do setor e destravar fluxo de fundos institucionais, que historicamente puxam o Bitcoin junto. O Fear & Greed segue em 34 pontos, ainda sem refletir a notícia no humor do varejo."
+        }
+      ]
+    }
+  ]
+}

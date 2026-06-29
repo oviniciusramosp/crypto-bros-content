@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "3742da8d813481f59a4ef7d31400296b",
+  "locale": "en",
+  "slug": "why-bitcoin-crashed-to-65k-saylor-etfs-and-the-opportunity-cost",
+  "date": "2026-06-03T23:46:00.000Z",
+  "updated": "2026-06-05T20:07:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/97c904a1884ec65e.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/97c904a1884ec65e.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Why Bitcoin Crashed to $65k: Saylor, ETFs, and the Opportunity Cost"
+    }
+  ],
+  "excerpt": "The crypto market went through a sharp correction this week, with Bitcoin briefly losing the $66,000 support level and dropping more than 7% in 24 hours. One of",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The crypto market went through a sharp correction this week, with Bitcoin briefly losing the "
+        },
+        {
+          "text": "$66,000",
+          "color": "red"
+        },
+        {
+          "text": " support level and dropping more than 7% in 24 hours. One of the symbolic triggers was the decision by Strategy (formerly MicroStrategy), led by Michael Saylor, to sell 32 BTC — roughly "
+        },
+        {
+          "text": "$2.5 million",
+          "color": "red"
+        },
+        {
+          "text": " — to fund dividend payments. Although it's the company's first sale in years and represents only a tiny fraction of its 843,706 BTC treasury, the move dented investor sentiment, which had grown accustomed to the company's aggressive accumulation strategy."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "With the market already heavily exposed, the sale was enough to set off a leverage \"bomb.\" On-chain data shows the leverage ratio was at dangerous levels, comparable to those seen before the October 2025 crash. The result was a liquidation wave that hit "
+        },
+        {
+          "text": "$1.85 billion",
+          "color": "red"
+        },
+        {
+          "text": " in positions over 24 hours, dragging the price down to a four-month low. Nearly 280,000 traders were liquidated, with most of the losses (around "
+        },
+        {
+          "text": "$1.7 billion",
+          "color": "red"
+        },
+        {
+          "text": ") coming from long positions that were forced to close."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The capital flight: ETFs and the AI boom"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The structural decline can't be explained by short-term dynamics alone. There's a deeper move of capital fleeing crypto for other assets. While Bitcoin struggles to regain momentum, the U.S. stock market — especially the AI sector — keeps setting new all-time highs. The Nasdaq 100 is up about 20% this year, and AI-related stocks have soared, creating a high opportunity cost for anyone holding Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Institutional flows reflect this shift in preference. U.S. spot Bitcoin ETFs posted net outflows of roughly "
+        },
+        {
+          "text": "$4 billion",
+          "color": "red"
+        },
+        {
+          "text": " between May 15 and June 2. BTC exchange-traded products accumulated net outflows of 62,794 BTC over the past three weeks, marking the longest withdrawal streak since these funds launched. Instead of running to Bitcoin as a safe-haven asset, investors are raising capital to allocate into AI stocks and initial public offerings from companies like Anthropic and SpaceX."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What prediction markets point to for 2026"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Market readings via Polymarket indicate that bearish sentiment should persist in the short term. For the month of June, the odds lean toward the price still testing the "
+        },
+        {
+          "text": "$65,000",
+          "color": "red"
+        },
+        {
+          "text": " range, with the risk of a move down toward the "
+        },
+        {
+          "text": "$62,000",
+          "color": "red"
+        },
+        {
+          "text": " level. The reading points to sideways trading between "
+        },
+        {
+          "text": "$62k",
+          "color": "red"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "$72k",
+          "color": "red"
+        },
+        {
+          "text": " throughout June, with the 200-week EMA (now at "
+        },
+        {
+          "text": "$76,000",
+          "color": "red"
+        },
+        {
+          "text": ") acting as immediate resistance."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "[image]"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Looking toward year-end, the market's bet converges on a cycle bottom in the "
+        },
+        {
+          "text": "$55,000",
+          "color": "red"
+        },
+        {
+          "text": " range. This projection lines up with the cyclical reading that the cycle bottom occurs below "
+        },
+        {
+          "text": "$60,000",
+          "color": "red"
+        },
+        {
+          "text": " — something we've been pointing out for months. For now, betting volumes don't indicate confidence in a major bullish rally in 2026: the base case remains one of adjustment and the search for a new bottom before any sustainable recovery."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The guidance is caution. With leverage being flushed out of the system and institutional flows exiting, the path of least resistance remains lower until real spot demand returns."
+        }
+      ]
+    }
+  ]
+}

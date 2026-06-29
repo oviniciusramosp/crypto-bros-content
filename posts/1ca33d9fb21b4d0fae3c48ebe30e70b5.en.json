@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "1ca33d9fb21b4d0fae3c48ebe30e70b5",
+  "locale": "en",
+  "slug": "the-analysis-remains-the-same",
+  "date": "2026-03-17T21:01:00.000Z",
+  "updated": "2026-03-26T14:42:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "💭"
+  },
+  "title": [
+    {
+      "text": "The Analysis Remains the Same…"
+    }
+  ],
+  "excerpt": "Since my last analysis, Bitcoin pulled back and rallied again. But nothing has really changed since then — see that what we've had in recent days is exactly wha",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Since my last analysis, Bitcoin pulled back and rallied again. But nothing has really changed since then — see that what we've had in recent days is exactly what I had anticipated…"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "\n{{chart:BTC;time:3m;date:2026-03-17;type:line;ema:100w-cyan,200w-purple;line:77000|2026-02-04||red|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This is exactly the text I sent in my last analysis:"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Between $75,000 and $79,000 we have an interesting "
+        },
+        {
+          "text": "volume region",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " of trading activity. It could act as resistance."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "If we can see buying pressure coming in, the $84,000 range is another one to watch: it represents the "
+        },
+        {
+          "text": "100-week moving average",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

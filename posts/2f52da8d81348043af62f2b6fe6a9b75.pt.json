@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "2f52da8d81348043af62f2b6fe6a9b75",
+  "locale": "pt",
+  "slug": "macroeconomia",
+  "date": "2025-11-21T15:00:00.000Z",
+  "updated": "2026-03-02T18:52:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ffaff17675a7c0b4.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🌎"
+  },
+  "title": [
+    {
+      "text": "Macroeconomia"
+    }
+  ],
+  "excerpt": "Ontem tivemos a divulgação do último dado relevante antes da reunião do FED em Dezembro. 👀",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ontem tivemos a divulgação do "
+        },
+        {
+          "text": "último dado relevante",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "antes da reunião do FED",
+          "bold": true
+        },
+        {
+          "text": " em Dezembro. 👀"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O dado em questão foi o Payroll: a economia criou cerca de 119 mil vagas de trabalho (acima do que o mercado esperava) mas a taxa de desemprego subiu para 4,4% ("
+        },
+        {
+          "text": "nível mais alto em cerca de quatro anos",
+          "bold": true
+        },
+        {
+          "text": "), sinalizando um mercado de trabalho esfriando... Ou seja, gerou uma reação mista e mais incertezas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Apesar disso, os dados são referentes ao mês de Setembro (beeem atrasados). Por conta do shutdown, outros dados foram cancelados."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com isso o momento de "
+        },
+        {
+          "text": "incerteza",
+          "bold": true
+        },
+        {
+          "text": " segue. E, por hora, o mercado segue "
+        },
+        {
+          "text": "precificando Dezembro sem novos cortes de juros",
+          "bold": true
+        },
+        {
+          "text": ". 😟"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A falta de dados também dificulta a análise para entendermos se é um momento de recessão ou não... o cenário é ruim e a gente vê isso sendo representado no preço do Bitcoin. É a prova de como o ciclo de política monetária dos EUA segue sendo o principal fio condutor de apetite (ou aversão) ao mercado cripto."
+        }
+      ]
+    }
+  ]
+}

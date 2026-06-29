@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "12c25e794f914fc1a580b637c0044ec9",
+  "locale": "en",
+  "slug": "volatility-week",
+  "date": "2026-01-26T21:00:00.000Z",
+  "updated": "2026-03-26T15:01:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Volatility Week!"
+    }
+  ],
+  "excerpt": "Watch out for this week's macroeconomic events!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Watch out for this week's macroeconomic events!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Wednesday will be action-packed!! 👇🏻"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Tuesday",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Trump Speech"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Wednesday",
+          "bold": true
+        },
+        {
+          "text": " 🔥"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Trump Speech"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Crude Oil Inventory Data"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Fed Funds Target Rate"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "FOMC and Press Conference"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Thursday",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Unemployment Insurance Claims"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Fed Balance Sheet"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Update"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "chart:BTC;time:4d;date:2026-01-30;type:line",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "chart:ETH;time:4d;date:2026-01-30;type:line",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "chart:SOL;time:4d;date:2026-01-30;type:line;size:half",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "chart:XRP;time:4d;date:2026-01-30;type:line;size:half",
+          "code": true
+        }
+      ]
+    }
+  ]
+}

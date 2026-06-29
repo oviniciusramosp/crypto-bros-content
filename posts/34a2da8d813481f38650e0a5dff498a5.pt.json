@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "34a2da8d813481f38650e0a5dff498a5",
+  "locale": "pt",
+  "slug": "strategy-acumula-10-vezes-mais-bitcoin-que-todos-os-etfs-em-2026",
+  "date": "2026-04-24T12:09:00.000Z",
+  "updated": "2026-04-24T13:15:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/3695024336b66da1.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Strategy Acumula 10 Vezes Mais Bitcoin que Todos os ETFs em 2026"
+    }
+  ],
+  "excerpt": "A Strategy, controladora da ação STRC, revelou que adquiriu 77 mil Bitcoin no acumulado de 2026. O volume é dez vezes maior do que as entradas em todos os ETFs ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Strategy, controladora da ação STRC, revelou que adquiriu "
+        },
+        {
+          "text": "77 mil Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " no acumulado de 2026. O volume é dez vezes maior do que as entradas em todos os ETFs spot combinados, que somaram cerca de "
+        },
+        {
+          "text": "8 mil Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " no mesmo período. O dado evidencia uma concentração institucional expressiva que começa a pressionar a oferta disponível no mercado."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Demanda em Escala Corporativa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto o mercado acompanha semanalmente os fluxos para ETFs, a Strategy opera num ritmo completamente diferente. Analistas apontam que a empresa dobrou o desempenho do Bitcoin desde as mínimas recentes, comprando de forma constante e volumosa. Na prática, essa atuação cria um piso de demanda que absorve parte significativa da oferta circulante."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin negocia a "
+        },
+        {
+          "text": "$78.355",
+          "bold": true
+        },
+        {
+          "text": " nesta quarta-feira, acumulando alta de "
+        },
+        {
+          "text": "+2,48%",
+          "color": "green"
+        },
+        {
+          "text": " nas últimas 24 horas. O volume no período foi de "
+        },
+        {
+          "text": "$1,42 bilhão",
+          "bold": true
+        },
+        {
+          "text": ", com máxima em "
+        },
+        {
+          "text": "$78.452",
+          "bold": true
+        },
+        {
+          "text": ". Desde a mínima de "
+        },
+        {
+          "text": "$73.802",
+          "bold": true
+        },
+        {
+          "text": " no domingo, o ativo recuperou mais de "
+        },
+        {
+          "text": "+6%",
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:30d;date:now;type:candle;candle:1D}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Uma análise on-chain publicada nesta quarta aponta uma lacuna de "
+        },
+        {
+          "text": "$35.000",
+          "bold": true
+        },
+        {
+          "text": " entre o preço de mercado e métricas de valor realizado da rede. Isso indica que a alta recente é sustentada mais pelo fluxo institucional do que pela atividade orgânica de transações, o que pode tornar o movimento vulnerável caso as compras corporativas desacelerem."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Esperar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Como havíamos observado nos últimos dias, a faixa dos $77.000 era o próximo objetivo, e o preço superou esse nível com impulso das compras institucionais. O próximo alvo técnico fica na região dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista ganha relevância apenas com reversão nos fluxos de compra ou perda do suporte na região dos "
+        },
+        {
+          "text": "$73.000",
+          "bold": true
+        },
+        {
+          "text": ", o que abriria caminho para a faixa dos "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": ". A concentração em um único comprador institucional sustenta o preço enquanto dura, mas amplifica o risco caso desacelere."
+        }
+      ]
+    }
+  ]
+}

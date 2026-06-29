@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "3572da8d81348185893fddac5e42b5ed",
+  "locale": "en",
+  "slug": "bitcoin-tops-80k-on-629m-etf-inflows",
+  "date": "2026-05-05T18:18:00.000Z",
+  "updated": "2026-05-05T18:19:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/73e66a785bdd8507.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0056aa06823621cd.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Tops $80k on $629M ETF Inflows"
+    }
+  ],
+  "excerpt": "Bitcoin climbed back above $80,000 on Tuesday, supported by a combination of institutional demand via ETFs and progress in the U.S. Congress on the crypto secto",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin climbed back above $80,000 on Tuesday, supported by a combination of institutional demand via ETFs and progress in the U.S. Congress on the crypto sector's regulatory framework. The asset is trading near "
+        },
+        {
+          "text": "$81,220",
+          "bold": true
+        },
+        {
+          "text": ", up "
+        },
+        {
+          "text": "1.27%",
+          "bold": true
+        },
+        {
+          "text": " on the day with a high of "
+        },
+        {
+          "text": "$81,712",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Spot Bitcoin ETFs recorded net inflows of approximately "
+        },
+        {
+          "text": "$629.37 million",
+          "bold": true
+        },
+        {
+          "text": " during the session, reestablishing the product as the primary channel for spot supply absorption. The figures arrive alongside progress on a bipartisan bill in the U.S. Congress that defines the market structure for digital assets."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Institutional Demand"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The ETF flow reinforces a thesis that has been building throughout the year: long-term institutional demand remains present even during windows of lower euphoria among retail investors. The fact that the allocation came right after the technical breakout above $79,500 indicates that managers are using breakouts to scale positions, not just to initiate them."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This behavior helps confirm the "
+        },
+        {
+          "text": "bullish scenario outlined in recent analyses",
+          "color": "green"
+        },
+        {
+          "text": ", with institutional targets still in the "
+        },
+        {
+          "text": "$82,400",
+          "bold": true
+        },
+        {
+          "text": " range (100-week EMA) and then in the "
+        },
+        {
+          "text": "$85,900",
+          "bold": true
+        },
+        {
+          "text": " area. The move is occurring on above-average volume, a condition needed to confirm the reversal."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Regulatory Progress"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the regulatory front, the bipartisan bill under discussion reduces some of the uncertainty that had been keeping institutional capital out of the sector. The text draws the line between SEC and CFTC jurisdiction over digital assets, a point that had been blocking regulated custody at scale."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "When the legal framework becomes clearer, pension funds, insurers, and wealth managers can allocate to Bitcoin without entering a regulatory gray zone, expanding the potential buyer base throughout the cycle."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Scenario Ahead"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The short-term bullish scenario remains intact as long as Bitcoin sustains closes above $79,500, with the next supply zone expected in the "
+        },
+        {
+          "text": "$85,900",
+          "bold": true
+        },
+        {
+          "text": " area. The ETF flow and the technical reversal create pressure on short sellers still holding positions to cover, a dynamic that tends to amplify upside moves."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the other hand, any stumble in the progress of the U.S. regulatory bill or a slowdown in ETF inflows could push the price back to the range seen in recent weeks. For the reader, the main yardstick remains the combination of institutional flow and regulatory clarity — two factors that tend to outweigh short-term noise."
+        }
+      ]
+    }
+  ]
+}

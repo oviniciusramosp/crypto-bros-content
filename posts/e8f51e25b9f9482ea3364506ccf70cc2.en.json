@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "e8f51e25b9f9482ea3364506ccf70cc2",
+  "locale": "en",
+  "slug": "bitcoin-rises-6-and-returns-to-75k-on-institutional-signal",
+  "date": "2026-04-14T13:30:00.000Z",
+  "updated": "2026-04-14T19:12:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🚀"
+  },
+  "title": [
+    {
+      "text": "Bitcoin Rises 6% and Returns to $75K on Institutional Signal"
+    }
+  ],
+  "excerpt": "Bitcoin rose nearly 6% in the last 24 hours and is trading above $75,000 again this Tuesday. The move comes amid signs of renewed institutional interest, with D",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin rose nearly "
+        },
+        {
+          "text": "6%",
+          "bold": true
+        },
+        {
+          "text": " in the last 24 hours and is trading above "
+        },
+        {
+          "text": "$75,000",
+          "bold": true
+        },
+        {
+          "text": " again this Tuesday. The move comes amid signs of renewed institutional interest, with Deutsche Börse investing "
+        },
+        {
+          "text": "$200 million",
+          "bold": true
+        },
+        {
+          "text": " in the Kraken exchange."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "After closing the previous week at ~"
+        },
+        {
+          "text": "$70,730",
+          "bold": true
+        },
+        {
+          "text": " on Saturday, Bitcoin began a recovery that accelerated in the last few hours. The asset moved from a low of "
+        },
+        {
+          "text": "$70,600",
+          "bold": true
+        },
+        {
+          "text": " to reach "
+        },
+        {
+          "text": "$75,889",
+          "bold": true
+        },
+        {
+          "text": ", accumulating a gain of "
+        },
+        {
+          "text": "+5.96%",
+          "color": "green"
+        },
+        {
+          "text": " in 24 hours and "
+        },
+        {
+          "text": "+2.03%",
+          "color": "green"
+        },
+        {
+          "text": " in the last two hours."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the institutional front, Deutsche Börse, one of Europe's largest exchange operators, announced a "
+        },
+        {
+          "text": "$200 million",
+          "bold": true
+        },
+        {
+          "text": " investment in Kraken. Additionally, the Republic of Nauru hired a Bitcoin market professional for a government position, signaling state-level interest in the sector."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "Fear & Greed Index",
+          "italic": true
+        },
+        {
+          "text": " remains at "
+        },
+        {
+          "text": "21",
+          "bold": true
+        },
+        {
+          "text": ", classified as Extreme Fear, despite the significant rally. This disconnect between price and sentiment suggests that much of the market is still not positioned for upside. The "
+        },
+        {
+          "text": "funding rate",
+          "italic": true
+        },
+        {
+          "text": " on BTC futures turned positive for the first time in days ("
+        },
+        {
+          "text": "+0.0027%",
+          "color": "green"
+        },
+        {
+          "text": " at 8 AM today), and "
+        },
+        {
+          "text": "open interest",
+          "italic": true
+        },
+        {
+          "text": " rose from "
+        },
+        {
+          "text": "$6.72 billion",
+          "bold": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "$7.12 billion",
+          "bold": true
+        },
+        {
+          "text": " over the last 20 hours, indicating "
+        },
+        {
+          "text": "new capital inflows",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ethereum followed the move strongly, rising "
+        },
+        {
+          "text": "+8.81%",
+          "color": "green"
+        },
+        {
+          "text": " and trading at "
+        },
+        {
+          "text": "$2,406",
+          "bold": true
+        },
+        {
+          "text": ". Solana advanced "
+        },
+        {
+          "text": "+5.50%",
+          "color": "green"
+        },
+        {
+          "text": " and XRP posted "
+        },
+        {
+          "text": "+4.09%",
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What's Next"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If BTC can hold above "
+        },
+        {
+          "text": "$75,000",
+          "bold": true
+        },
+        {
+          "text": " in the coming hours, the next level to watch is resistance at "
+        },
+        {
+          "text": "$77,000",
+          "bold": true
+        },
+        {
+          "text": ", a region where there was rejection earlier in April. If the price loses "
+        },
+        {
+          "text": "$73,000",
+          "bold": true
+        },
+        {
+          "text": ", the most relevant support sits at "
+        },
+        {
+          "text": "$71,600",
+          "bold": true
+        },
+        {
+          "text": ", which was the 24-hour low. The fact that sentiment remains at Extreme Fear, even with the rally, makes this level an important barometer: a quick breakdown could accelerate selling from those who entered during today's move."
+        }
+      ]
+    }
+  ]
+}

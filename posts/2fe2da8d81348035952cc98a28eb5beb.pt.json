@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "2fe2da8d81348035952cc98a28eb5beb",
+  "locale": "pt",
+  "slug": "analise-bitcoin---05-fev",
+  "date": "2026-02-05T16:10:00.000Z",
+  "updated": "2026-03-02T18:52:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Análise Bitcoin - 05 FEV"
+    }
+  ],
+  "excerpt": "Bem amigos… acabou! ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bem amigos… acabou! "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Brincadeiras a parte, o momento é de tensão para grande maioria dos adeptos ao mundo cripto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para os mais experientes, é só mais uma queda. Chegamos a quase "
+        },
+        {
+          "text": "-50%",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " do topo histórico."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Na minha "
+        },
+        {
+          "text": "Análise Bitcoin - 19 NOV",
+          "href": "https://app.notion.com/p/2f42da8d813480feba46d26624b96e85"
+        },
+        {
+          "text": ", havia comentado que o Bitcoin poderia retestar a média das últimas 50 semanas e que se não rompesse ela, estaria decretado o Bear Market… e aqui estamos!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os gatilhos para a queda "
+        },
+        {
+          "text": "já foram explicados (",
+          "bold": true
+        },
+        {
+          "text": "Bitcoin abaixo de $80,000!",
+          "bold": true,
+          "href": "https://app.notion.com/p/2f92da8d813480d28c2dd90f1ed69a81"
+        },
+        {
+          "text": ")",
+          "bold": true
+        },
+        {
+          "text": ", mas é engraçado ver como os ciclos continuam se correlacionando tão bem… E olhando para eles podemos mapear os possíveis cenários daqui para frente:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/5649db44c5627905.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Por hora, estamos perdendo o suporte da "
+          },
+          {
+            "text": "média de 200 semanas",
+            "bold": true,
+            "color": "blue"
+          },
+          {
+            "text": ". Como é um suporte no semanal, precisamos esperar o fechamento da semana para entender se realmente foi perdido ou não."
+          }
+        ],
+        [
+          {
+            "text": "Uma queda de mais "
+          },
+          {
+            "text": "12%",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " (do preço atual) já nos colocaria na região que eu mapeei como possível fundo de ciclo. Isso representaria o Bitcoin em cerca de $58,500."
+          }
+        ],
+        [
+          {
+            "text": "PORÉM podemos ver uma queda de até mais "
+          },
+          {
+            "text": "37%",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " em cenários mais críticos. "
+          },
+          {
+            "text": "Isso representaria o Bitcoin em cerca de $42,500!!"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E aí? você tem estômago para isso? Está preparado para ver o mercado sangrar mais um pouco?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se sua resposta for não, recomendo olhar para o passado! Bear Markets geralmente representam quedas gigantes e em TODOS eles o Bitcoin se recuperou e buscou novos recordes."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Isso quer dizer que o momento de pânico é também o momento onde surgem as melhores oportunidades de compra. Quem não se alavancou demais, quem teve paciência e gerenciamento correto, vai poder surfar a próxima onde de alta com um preço médio invejável."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A intenção aqui não é assustar ninguém, mas mostrar que o mercado é volátil e que você precisa estar preparado para todos os cenários."
+        }
+      ]
+    }
+  ]
+}

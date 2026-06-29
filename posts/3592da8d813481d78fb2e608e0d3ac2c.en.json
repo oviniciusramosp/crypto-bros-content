@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "3592da8d813481d78fb2e608e0d3ac2c",
+  "locale": "en",
+  "slug": "analysis-may-06",
+  "date": "2026-05-07T03:00:00.000Z",
+  "updated": "2026-05-09T01:16:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/fd1abbf23b2fcb14.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/bb8a8b3b6b798a7f.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis May 06"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed at "
+        },
+        {
+          "text": "$81,447",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0.67%",
+          "color": "green"
+        },
+        {
+          "text": " on the day)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$82,850",
+          "color": "green"
+        },
+        {
+          "text": " • Low: "
+        },
+        {
+          "text": "$80,731",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The 100-Week EMA"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed its third consecutive day of gains, rising 2.25% and tagging $82,850 before pulling back to close at $81,447. Since April 29, price has been forming higher highs, and the last three days printed upper wicks, signaling "
+        },
+        {
+          "text": "mild resistance to continuing higher.",
+          "bold": true
+        },
+        {
+          "text": " All three, however, came on above-average daily volume."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The push came from outside the crypto market. The Nasdaq rose 2.02% and the S&P 500 advanced 1.46%, closing the day in clearly bullish mode. At the same time, the DXY (US dollar index) remained weak around 98.48, and the White House confirmed that the formal announcement of the Strategic Bitcoin Reserve should come in the next few weeks."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ever since the touch on the 200-week EMA, we've been talking here about the possibility of a retest of the 100-week EMA before the bear market bottom (standard, expected behavior). And that's exactly what happened. Fear & Greed printed 47, staying in neutral territory: when price rises while sentiment still hesitates, there's usually more fuel left in the rally before euphoria kicks in."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-05-07;type:candle;candle:1d;ema:50w-green,100w-orange,200w-blue;line:78200|||green|0.5|dashed,82400|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Buyers' Moment"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For the bullish scenario to confirm, a daily close above "
+        },
+        {
+          "text": "$82,500",
+          "color": "green"
+        },
+        {
+          "text": " isn't enough. What really validates the breakout is a weekly close above the 100-week EMA. Ideally that close happens on Sunday, followed by at least one more week of confirmation… patience is part of the process."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the breakout comes with strength, price can move quickly through the zone between "
+        },
+        {
+          "text": "$83,125",
+          "color": "green"
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "$85,000",
+          "color": "green"
+        },
+        {
+          "text": ", where the accumulated max pain of the last few months sits. A good portion of the short positions that would trigger liquidations is in this range, creating a trampoline effect. The immediate target is the 50-week EMA, currently around "
+        },
+        {
+          "text": "$85,800",
+          "color": "green"
+        },
+        {
+          "text": " (but falling week by week)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Polymarket is pricing in a "
+        },
+        {
+          "text": "64.5%",
+          "color": "green"
+        },
+        {
+          "text": " chance that Bitcoin tags $85,000 still in May, near the 50-week EMA target. Most of the prediction market is betting on the bullish scenario in the short term."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "EMA Holds the Momentum"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Even with daily and weekly closes above the 100-week EMA, it's natural for price to form a higher low, and that low can sit temporarily below the EMA line. Since this is a weekly time frame, even a correction within the weekly candle itself would be expected. This is something readers should keep on their radar."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The most immediate support sits in the "
+        },
+        {
+          "text": "$76,000",
+          "color": "red"
+        },
+        {
+          "text": " range, tested at the end of April. The triggers to get there are macro: a new round of tariffs, any geopolitical escalation capable of pulling Wall Street out of its current bullish mood, or frustration with the Strategic Reserve announcement timeline."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Polymarket is pricing in a "
+        },
+        {
+          "text": "42.5%",
+          "color": "red"
+        },
+        {
+          "text": " chance that Bitcoin tags $75,000 in May. For now, the prediction market doesn't expect a sharp drop, but the risk exists and shouldn't be ignored."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "No Rush, With Patience"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We had a solid recovery in the rally, but we're still in a bear market. That would only change with weekly candles closing above the 50-week EMA — a level that is still distant and may take months to reach with the necessary confirmations."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Even during crypto winter, it's natural for price to test the 100-week and 50-week EMAs. But without weekly closes with strength and confirmation, it's too early to call it and say bullish sentiment has taken over again. The market may be getting excited ahead of time."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The biggest driver in the current scenario lies with US government announcements, a potential de-escalation of international conflicts, and continued dollar weakness. These are the real triggers — not short-term enthusiasm."
+        }
+      ]
+    }
+  ]
+}

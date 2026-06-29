@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "id": "3332da8d813481e9b966da184cd91d32",
+  "locale": "pt",
+  "slug": "analise-tecnica-29-mar",
+  "date": "2026-03-30T00:43:00.000Z",
+  "updated": "2026-03-30T03:10:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/3227d1ffe83c81d9.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/81ed460273a48900.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise Técnica: 29 Mar"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin:",
+          "bold": true
+        },
+        {
+          "text": " $66.010 ("
+        },
+        {
+          "text": "-0,55%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: ",
+          "bold": true
+        },
+        {
+          "text": "$67.130",
+          "color": "green"
+        },
+        {
+          "text": " • "
+        },
+        {
+          "text": "Min:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "$65.000",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Cenário Atual"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin fechou mais um domingo no vermelho, testando o suporte psicológico de $65.000 com precisão cirúrgica antes de recuperar para $66.010. Foram quatro fechamentos consecutivos de baixa: quinta e sexta caíram -3,51% cada, sábado praticamente estacionou, e o domingo trouxe mais -0,55%."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para quem tem acompanhado as análises aqui, o gatilho não é novidade: a Guerra EUA-Irã mantém o risk-off ativo desde 28/02. O S&P 500 fechou na sexta com queda de -1,67%, o dólar segura perto de 100,19 e o ouro segue como refúgio preferido do mercado tradicional enquanto o BTC cede."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário técnico, o quadro não melhorou. O BTC opera abaixo da EMA 50 e 100 semanas ($83.300), "
+        },
+        {
+          "text": "bear market confirmado sem ambiguidade",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". A EMA 200 semanas ($68.200) foi perdida em 26/03 e virou resistência desde então, rejeitando cada tentativa de recuperação desta semana. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fear & Greed está em 8 (Medo Extremo), nível de capitulação histórica. Em ciclos anteriores, leituras abaixo de 10 marcaram fundos de curto prazo. Não é garantia de reversão, mas é onde compradores de longo prazo historicamente começam a aparecer."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O paralelo com ciclos anteriores exige atenção: No ciclo de 2021, quando o BTC estava em posição semelhante, os três meses seguintes trouxeram o colapso de LUNA e 3AC, levando o preço de ~$45.000 para ~$17.000. Em 2017, resultou em um lateralização antes do colapso final para $3.200 em dezembro de 2018. Em ambos os ciclos, essa fase "
+        },
+        {
+          "text": "não representou o fundo definitivo.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-30;type:line;line:65000|||red|0.2|||4,69000|||green|0.2|||4}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O BTC atual está -47,7% do ATH de $126.200. O script histórico sugere cautela: o risco de repetir esse padrão existe, especialmente com o "
+        },
+        {
+          "text": "contexto macro adverso que temos hoje",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Otimista"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para que o cenário positivo se materialize, o BTC precisa fechar no diário acima de $68.200, a EMA 200 semanas, reconquistando o terreno perdido em 26/03. Fechar acima de $67.500 já seria um sinal intermediário de força. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Três catalisadores concretos podem mudar o quadro na próxima semana: "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O discurso de Powell amanhã é o mais imediato: se o Fed Chair sinalizar abertura para cortes de juros antes do esperado, o mercado pode interpretar como injeção de liquidez futura e reagir com compra de risco. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Na quinta (02/04), se Trump suavizar ou adiar as tarifas do 'Liberation Day', a pressão sobre ativos de risco cede parcialmente."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O terceiro catalisador é o menos provável, mas o mais impactante: qualquer sinalização de cessar-fogo formal na Guerra EUA-Irã. A Polymarket precifica apenas 1,85% de chance de um acordo até 31/03. Não espere isso, mas saiba que qualquer notícia nessa direção seria um choque positivo desproporcional para o BTC."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o cenário otimista se confirmar, os alvos são $68.000 a $70.000. "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Pessimista"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "bear case",
+          "italic": true
+        },
+        {
+          "text": " é direto: fechamento diário abaixo de $65.000. Lembra que apontamos esse nível como linha de defesa imediata desde sexta? Hoje ele foi testado, o terceiro teste da região em poucos dias. Cada reteste esgota os compradores marginais que sustentam esse suporte."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho macro mais poderoso da semana vem na quinta (02/04): o 'Liberation Day' de Trump, com anúncios de tarifas recíprocas. Se as tarifas forem mais agressivas do que o esperado, pode desencadear sell-off global similar ao de fevereiro, empurrando capital para dólar e ouro. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A combinação de guerra ativa sem perspectiva de cessar-fogo (98,15% de probabilidade segundo o Polymarket) e sem corte do Fed em abril (99,55%) mantém o ambiente hostil para cripto em todos os horizontes visíveis."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Open Interest caiu de ~95.200 para ~93.200 BTC nas últimas 48 horas enquanto o preço também cedia, sinal de saída de longs, não de acumulação agressiva de shorts. Com 68% das contas ainda compradas, uma quebra abaixo de $65.000 no fechamento diário poderia desencadear liquidações em cascata."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se $65.000 for perdido, os alvos são $63.000 a $60.000, próximo ao fundo provisório de fevereiro/2026."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dois gatilhos imediatos definem o caminho de curto prazo.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "O discurso de Powell na segunda (30/03), o tom da leitura do mercado vai mover o BTC imediatamente. "
+          }
+        ],
+        [
+          {
+            "text": "O 'Liberation Day' de Trump na quinta (02/04), qualquer anúncio de tarifas mais duras do que o esperado pressiona todos os ativos de risco ao mesmo tempo."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Olhando para os "
+        },
+        {
+          "text": "próximos meses",
+          "bold": true
+        },
+        {
+          "text": ", o cenário é dominado por quatro variáveis encadeadas:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "A Guerra EUA-Irã com pausa humanitária até 06/04 mas sem perspectiva de paz, "
+          }
+        ],
+        [
+          {
+            "text": "O PCE de fevereiro em 09/04 (inflação persistente afasta cortes de juros), "
+          }
+        ],
+        [
+          {
+            "text": "O FOMC de 28 a 29/04 (sem corte esperado, mas o tom do comunicado importa para precificação de junho) "
+          }
+        ],
+        [
+          {
+            "text": "e os efeitos econômicos do escalonamento tarifário."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O paralelo histórico é honesto: estamos -47,7% do ATH de $126.200, e nos ciclos de 2017 e 2021, essa fase "
+        },
+        {
+          "text": "não foi o fundo definitivo",
+          "bold": true
+        },
+        {
+          "text": ". Recuperação sustentada exigiria reconquistar a EMA 100 semanas (~$83.000), o que está condicionado à resolução do contexto macro adverso. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A zona estrutural de fundo de ciclo, onde fundos foram formados em 2015, 2018, 2020 e 2022, começa em ~$58.900 (EMA 250w low) e vai até ~$43.100 (EMA 450w low)."
+        }
+      ]
+    }
+  ]
+}

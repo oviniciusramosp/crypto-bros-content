@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "id": "3192da8d813480a8a3e1c6b2fdda19a2",
+  "locale": "pt",
+  "slug": "o-mundo-em-guerra-e-o-bitcoin-subindo",
+  "date": "2026-03-04T18:30:00.000Z",
+  "updated": "2026-03-17T21:01:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0a5a3c0d0f083458.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/75e64fa8eb2e50f1.jpg",
+  "icon": {
+    "emoji": "🚀"
+  },
+  "title": [
+    {
+      "text": "O Mundo em Guerra e o Bitcoin… subindo?!"
+    }
+  ],
+  "excerpt": "É isso mesmo! Bitcoin acordou hoje rompendo uma resistência importante. Os próximos dias vão nos mostrar se teremos um respiro ou se foi apenas uma armadilha. C",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É isso mesmo! Bitcoin acordou hoje "
+        },
+        {
+          "text": "rompendo uma resistência importante",
+          "bold": true
+        },
+        {
+          "text": ". Os próximos dias vão nos mostrar se teremos um respiro ou se foi apenas uma armadilha. Confira a análise completa:"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Os $70,000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Faz cerca de 1 mês que tivemos o último fechamento diário acima de $70k. Ainda assim, do dia 7 de Fevereiro para frente, vimos movimentos de queda que não confirmaram uma reação no preço."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;from:2026-01-01;date:2026-03-05;type:line;line:70000|||green|0.6|dashed||1.5}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dessa vez vai ser diferente? Ainda é muito cedo para dizer! Precisamos aguardar o fechamento do dia (de preferência mantendo perto do $72,000), e confirmar durante a semana que o preço não volte para menos de $70,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em outras palavras, estamos em uma região extremamente importante, que agiu como resistência e agora pode começar a agir como suporte."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "E a guerra?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tanto a guerra como o não corte de juros em Março são eventos que foram "
+        },
+        {
+          "text": "antecipados pelo mercado",
+          "bold": true
+        },
+        {
+          "text": " ao longo das últimas semanas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Podemos notar isso quando olhamos para Polymarket, que desde metade de 2025 já considerava a possibilidade de guerra entre Iran e EUA."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No momento, as apostas são de que a guerra irá acabar só depois do dia 15 de Maio."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/8d469bd423719752.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Como o Bitcoin é mais sensível a notícias do que outros ativos, a queda veio muito antes. Precisaremos que a guerra se agrave muito para impactar mais o preço do mercado Cripto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Conflitos, no geral, derrubam o preço com antecedência, mas depois funcionam como combustível para o Bitcoin - afinal, ele é uma alternativa muito boa nesses momentos, garantindo negociações sem depender de outras moedas e políticas."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Vamos subir até aonde?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Entre $75,000 e $79,000 temos uma "
+        },
+        {
+          "text": "região de volume",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " de negociações interessante. Ela pode servir de resistência. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se conseguirmos ver força compradora entrando, a faixa dos $84,000 é outra para ficar atento: ela representa a "
+        },
+        {
+          "text": "média de 100 semanas",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-05;type:line;ema:100w-cyan,200w-purple;line:77000|2026-02-04||red|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mas "
+        },
+        {
+          "text": "atenção",
+          "bold": true
+        },
+        {
+          "text": ":"
+        },
+        {
+          "text": " seguimos em Bear Market e a maio tendência é de continuarmos caindo, formando alguns topos descendentes no caminho. Mesmo os $84,000 ainda está um pouco distante. Cuidado com a afobação achando que vamos voltar para os $100,000 pois as chances de irmos a $60,000 seguem maiores."
+        }
+      ]
+    }
+  ]
+}

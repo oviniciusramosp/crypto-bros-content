@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "id": "3452da8d81348162824ec35eb6d4bc4d",
+  "locale": "en",
+  "slug": "analysis-april-16",
+  "date": "2026-04-17T02:50:00.000Z",
+  "updated": "2026-04-17T03:26:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ea15aed778c2b6ae.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/9bc2daec04e81a4b.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis April 16"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed at "
+        },
+        {
+          "text": "$75,061",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0.48%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$75,534",
+          "color": "green"
+        },
+        {
+          "text": " • Low: "
+        },
+        {
+          "text": "$73,309",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Hot RSI, Cold F&G"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin is trading at $75,061 after testing the $73,300 region, marking eight consecutive sessions of higher lows since ~$65,000. Price remains below the 50-week EMA (~$86,700) and the 100-week EMA (~$82,600), confirming that the "
+        },
+        {
+          "text": "medium-term structure remains bearish",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". It still holds a comfortable distance from the 200-week EMA (~$68,300), the last structural support."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:candle;candle:1d;ema:200w-blue,50w-green;line:65000|2026-03-27||green|0.5|dashed,76000|2026-03-17||red|0.5|dashed}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The daily RSI has reached 76.6, a zone that historically precedes short-term pullbacks. Meanwhile, the Fear & Greed index sits at 21, still in extreme fear. This divergence between rising price and deeply negative sentiment suggests the market hasn't shifted to bullish positioning yet."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:now;type:rsi;rsi:14d}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "$76K and Shorts in the Crosshairs"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "To confirm a continuation of the rally, Bitcoin needs a daily close above ~$76,000 with volume exceeding 25,000 BTC. With 57.5% of futures positions short and the funding rate near neutral (+0.0033%), a breakout above this resistance could trigger a "
+        },
+        {
+          "text": "liquidation cascade of short positions, accelerating the move",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Upside targets are the 100-week EMA (~$82,600) as the primary objective and the 50-week EMA (~$86,700) as the secondary. The macro backdrop is supportive: the S&P 500 and NASDAQ surged 3.17% and 5.61% respectively. Bitcoin lagged with just +0.48%, a disconnect that typically resolves within 24 to 72 hours."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What if It Rejects?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish scenario is confirmed with a daily close below ~$73,300, a region that coincides with today's low. Losing this level would open the path to the 200-week EMA (~$68,300), the last major structural support before ~$65,000, tested three times between late March and early April."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The RSI in overbought territory reinforces the possibility of a short-term pullback, especially if risk appetite in U.S. equities cools off. This scenario would be invalidated by a strong daily close above ~$76,000 with conviction volume."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Eyes on the Trigger"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The most important level for tomorrow is resistance at ~$76,000. Bitcoin is caught between this ceiling and support at ~$73,300, and the resolution of this range should define direction for the coming days. The DXY remains below 100 at 98.2, removing a headwind for risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If U.S. equities maintain today's momentum, Bitcoin is likely to follow. Watch the volume closely: a session with over 25,000 BTC traded near ~$76,000 would be the clearest breakout signal."
+        }
+      ]
+    }
+  ]
+}

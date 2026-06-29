@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "3332da8d8134816db058ec24e65e58ca",
+  "locale": "pt",
+  "slug": "trump-negocia-com-novo-regime-do-ira-e-bitcoin-reage-r",
+  "date": "2026-03-30T13:00:00.000Z",
+  "updated": "2026-03-31T03:28:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/54089101863bfc1b.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇮🇷"
+  },
+  "title": [
+    {
+      "text": "Trump Negocia com Novo Regime do Irã e Bitcoin Reage r"
+    }
+  ],
+  "excerpt": "Donald Trump publicou no Truth Social que os EUA estão em discussões sérias com um novo e mais razoável regime no Irã para encerrar as operações militares. O BT",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Donald Trump publicou no Truth Social que os EUA estão em discussões sérias com um novo e mais razoável regime no Irã para encerrar as operações militares. O BTC "
+        },
+        {
+          "text": "subiu para $67.900",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " e o mercado cripto reagiu com uma onda de liquidações de shorts que somaram $340 milhões nas últimas 24 horas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump revelou que Washington está negociando com uma liderança diferente em Teerã, sugerindo uma mudança de governo no Irã desde o início do conflito, há cinco semanas. No mesmo post, ele exigiu a reabertura imediata do Estreito de Ormuz e ameaçou destruir usinas elétricas, poços de petróleo e a Ilha Kharg se as negociações falharem, alvos que os EUA deliberadamente evitaram durante todo o conflito. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O mercado leu o sinal como positivo: BTC +1.6%, ETH +3.7% e SOL +2.5%. Paralelamente, a Ethereum Foundation depositou 20.470 ETH (cerca de $42 milhões) para staking, em um dos maiores lotes já feitos pela fundação segundo a Arkham Intelligence. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A CoinGlass registrou $340 milhões em liquidações de shorts nas últimas 24h, com uma liquidação isolada de $9,8 milhões em uma ordem BTCUSD na Bybit."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A guerra EUA-Irã tem sido o "
+        },
+        {
+          "text": "principal vetor de pressão sobre os ativos de risco desde fevereiro",
+          "bold": true
+        },
+        {
+          "text": ". Um sinal de cessar-fogo alivia o risco geopolítico, abre o Estreito de Ormuz e, em tese, derruba o preço do petróleo, liberando pressão inflacionária. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mas a leitura é ambígua: ao mesmo tempo que Trump fala em paz, ele lista cada alvo de infraestrutura civil que está disposto a destruir caso as conversas fracassem. Há também um risco adicional no radar: o Banco do Japão pode subir juros em 28 de abril, o que forçaria o desfazimento de posições de carry trade em iene e pressionaria os ativos de risco globalmente."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "id": "9f9c490b7b374c588635037f216fe9f4",
+  "locale": "en",
+  "slug": "april-2026-calendar",
+  "date": "2026-04-02T01:00:00.000Z",
+  "updated": "2026-04-02T01:10:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/5bb4296305086e48.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "April 2026 Calendar"
+    }
+  ],
+  "excerpt": "Calendar of macroeconomic and crypto events in April that could impact prices.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Calendar of macroeconomic and crypto events in April that could impact prices."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Watch out for the final week of the month!"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Week 1 — Payroll and PMI"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "04/01 (Wednesday) — ISM PMI (U.S. Manufacturing Activity)\n",
+          "bold": true
+        },
+        {
+          "text": "The first major data release of the month. Above 50 indicates economic expansion, which could pressure the Fed to "
+        },
+        {
+          "text": "keep rates higher for longer and weigh on crypto",
+          "bold": true
+        },
+        {
+          "text": ". Below 50 signals a slowdown and increases bets on rate cuts, which tends to favor Bitcoin and altcoins."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "⭐ 04/03 (Friday) — March 2026 Payroll + Good Friday (stock market closed)\n",
+          "bold": true
+        },
+        {
+          "text": "The U.S. employment report comes out at 8:30 AM ET, but the stock market is closed for the holiday. Crypto operates 24/7 and will react in real time, increasing volatility: without major institutional players present to absorb flow, moves of 3% to 5% in minutes are possible."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "04/04-06 (Sat-Mon) — NCAA Final Four and Championship Game\n",
+          "bold": true
+        },
+        {
+          "text": "Not a crypto event, but it reduces trading volume in the U.S. with attention focused on sports. Expect lower liquidity and more erratic moves over the weekend."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Week 2 — CPI and Fed Minutes"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "04/08 (Wednesday) — FOMC Minutes (March 17-18 Meeting)\n",
+          "bold": true
+        },
+        {
+          "text": "The minutes from the last Fed meeting reveal the details of internal discussions on monetary policy. The market looks for clues about the timing of upcoming cuts. Any language tougher than expected could trigger a drop in crypto; softer language tends to be positive for Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "⭐ 04/10 (Friday) — March 2026 CPI\n",
+          "bold": true
+        },
+        {
+          "text": "The most important inflation data of the month, and probably the most relevant for Bitcoin in April. Released at 8:30 AM ET. Historically, BTC reacts more sharply to CPI than to any other macro event: over the past 18 months, Bitcoin moved an average of 4.2% in the hour following the CPI release."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Week 3 — PPI, Beige Book, and Tax Day"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "04/14 (Tuesday) — March 2026 PPI\n",
+          "bold": true
+        },
+        {
+          "text": "The wholesale price index is a leading indicator for CPI. Falling producer inflation suggests that future CPI will also decline, which tends to favor crypto. It arrives 4 days after CPI, so the market will already have a bias formed."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "04/15 (Wednesday) — Fed Beige Book + U.S. Tax Day\n",
+          "bold": true
+        },
+        {
+          "text": "The Beige Book provides a qualitative overview of the American economy by region. It can move markets if it reveals significant slowdown. Tax Day is the deadline for filing U.S. tax returns. Historically, some investors sell crypto to pay taxes, creating temporary selling pressure."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "04/16 (Thursday) — ECB (European Central Bank) Meeting\n",
+          "bold": true
+        },
+        {
+          "text": "The ECB meets approximately every 6 weeks. A rate cut decision in Europe weakens the euro and could strengthen flows into Bitcoin as a store of value. If rates are kept unchanged, the impact tends to be limited."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Week 4 — FOMC, BOJ, and Options Expiration"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "⭐ 04/24 (Friday) — BTC/ETH Monthly Options Expiration (Deribit)\n",
+          "bold": true
+        },
+        {
+          "text": "The monthly options expiration on Deribit is an exclusively crypto event, with no equivalent in traditional markets. Billions in contracts expire on this date, and Bitcoin's price tends to gravitate toward \"max pain,\" the point of maximum loss for options buyers, in the days leading up to expiration."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "⭐ 04/27-28 (Mon-Tue) — Bank of Japan (BOJ) Meeting + Outlook Report\n",
+          "bold": true
+        },
+        {
+          "text": "The BOJ is the central bank that scares the crypto market the most for one specific reason: the yen carry trade. For years, investors borrowed cheaply in yen to invest in risk assets worldwide, including crypto. When the BOJ raises rates, this trade unwinds rapidly and violently, as happened in August 2024, when Bitcoin dropped 22% in three days after a BOJ signal."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "⭐ 04/28-29 (Tue-Wed) — FOMC Meeting + Fed Rate Decision + Powell Press Conference\n",
+          "bold": true
+        },
+        {
+          "text": "The most important event of the month, and possibly the quarter. The rate decision comes out at 2:00 PM ET on the 29th, followed by Jerome Powell's press conference at 2:30 PM. This is when the Fed communicates its reading of the state of the American economy and signals its next steps on monetary policy. The entire crypto market stops to listen to Powell."
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "⭐ 04/30 (Thursday) — March 2026 PCE + Q1 Employment Cost Index\n",
+          "bold": true
+        },
+        {
+          "text": "The PCE (Personal Consumption Expenditures) is the Fed's preferred inflation indicator, more relevant to monetary policy than CPI itself. It arrives one day after the FOMC decision, creating a risk window: if the data contradicts Powell's tone from yesterday's press conference, the market will reprice quickly."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Crypto Events to Watch in April"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Major token unlocks: follow "
+        },
+        {
+          "text": "Tokenomist.ai",
+          "href": "http://tokenomist.ai/"
+        },
+        {
+          "text": " for ARB, OP, APT, SEI, and other unlocks. Months with large unlocks tend to create selling pressure on the respective tokens."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Paris Blockchain Week: the conference traditionally takes place in April. Keep an eye out for partnership announcements and launches that could move the altcoin market."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Crypto company earnings: Coinbase (COIN), MicroStrategy (MSTR), Marathon Digital (MARA), and Riot Platforms (RIOT) report Q1 results between late April and early May. Strong results validate the institutional thesis for the sector."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "SEC regulatory decisions: deadlines for approval or denial of altcoin ETFs such as SOL and XRP may fall in April. Monitor the Federal Register for specific dates."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "schemaVersion": 1,
+  "id": "c4fb17e8016440f293d4694731e655eb",
+  "locale": "en",
+  "slug": "technical-analysis-mar-29",
+  "date": "2026-03-30T00:43:00.000Z",
+  "updated": "2026-03-30T03:10:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Technical Analysis: Mar 29"
+    }
+  ],
+  "excerpt": "Our technical analysis for the day:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our technical analysis for the day:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin:",
+          "bold": true
+        },
+        {
+          "text": " $66,010 ("
+        },
+        {
+          "text": "-0.55%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: ",
+          "bold": true
+        },
+        {
+          "text": "$67,130",
+          "color": "green"
+        },
+        {
+          "text": " • "
+        },
+        {
+          "text": "Low:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "$65,000",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Current Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed yet another Sunday in the red, testing the psychological support at $65,000 with surgical precision before recovering to $66,010. There were four consecutive bearish closes: Thursday and Friday each dropped -3.51%, Saturday practically flatlined, and Sunday brought another -0.55%."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For those who have been following the analyses here, the trigger is nothing new: the US-Iran War has kept risk-off active since 02/28. The S&P 500 closed Friday down -1.67%, the dollar holds near 100.19, and gold remains the traditional market's preferred safe haven while BTC gives ground."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the technical front, the picture hasn't improved. BTC is trading below the 50 and 100-week EMAs ($83,300), "
+        },
+        {
+          "text": "bear market confirmed without ambiguity",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". The 200-week EMA ($68,200) was lost on 03/26 and has turned into resistance since then, rejecting every recovery attempt this week."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fear & Greed Index is at 8 (Extreme Fear), a level of historic capitulation. In previous cycles, readings below 10 marked short-term bottoms. It's no guarantee of a reversal, but it's where long-term buyers have historically started to appear."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The parallel with previous cycles demands attention: In the 2021 cycle, when BTC was in a similar position, the following three months brought the collapse of LUNA and 3AC, taking the price from ~$45,000 to ~$17,000. In 2017, it resulted in a consolidation before the final collapse to $3,200 in December 2018. In both cycles, this phase "
+        },
+        {
+          "text": "did not represent the definitive bottom.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-30;type:line;line:65000|||red|0.2|||4,69000|||green|0.2|||4}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The current BTC is -47.7% from the ATH of $126,200. The historical script suggests caution: the risk of repeating this pattern exists, especially with the "
+        },
+        {
+          "text": "adverse macro context we have today",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bullish Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For the positive scenario to materialize, BTC needs to close on the daily above $68,200, the 200-week EMA, reclaiming the ground lost on 03/26. Closing above $67,500 would already be an intermediate sign of strength."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Three concrete catalysts could change the picture next week:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Powell's speech tomorrow is the most immediate: if the Fed Chair signals openness to rate cuts sooner than expected, the market could interpret it as future liquidity injection and react with risk buying."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On Thursday (04/02), if Trump softens or delays the 'Liberation Day' tariffs, the pressure on risk assets partially eases."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The third catalyst is the least likely but the most impactful: any signal of a formal ceasefire in the US-Iran War. Polymarket prices only a 1.85% chance of a deal by 03/31. Don't expect this, but know that any news in that direction would be a disproportionately positive shock for BTC."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the bullish scenario confirms, the targets are $68,000 to $70,000."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bearish Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bear case is straightforward: a daily close below $65,000. Remember we've been pointing to this level as the immediate line of defense since Friday? Today it was tested, the third test of this region in just a few days. Each retest exhausts the marginal buyers sustaining this support."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The most powerful macro trigger of the week comes on Thursday (04/02): Trump's 'Liberation Day,' with reciprocal tariff announcements. If the tariffs are more aggressive than expected, it could trigger a global sell-off similar to February's, pushing capital toward the dollar and gold."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The combination of an active war with no ceasefire in sight (98.15% probability according to Polymarket) and no Fed cut in April (99.55%) keeps the environment hostile for crypto across all visible time horizons."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Open Interest dropped from ~95,200 to ~93,200 BTC over the past 48 hours while the price also declined — a sign of longs exiting, not aggressive short accumulation. With 68% of accounts still long, a break below $65,000 on the daily close could trigger cascading liquidations."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If $65,000 is lost, the targets are $63,000 to $60,000, near the provisional bottom of February 2026."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Two immediate triggers define the short-term path.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Powell's speech on Monday (03/30) — the market's reading of the tone will move BTC immediately."
+          }
+        ],
+        [
+          {
+            "text": "Trump's 'Liberation Day' on Thursday (04/02) — any announcement of tariffs harsher than expected pressures all risk assets simultaneously."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Looking at the "
+        },
+        {
+          "text": "coming months",
+          "bold": true
+        },
+        {
+          "text": ", the scenario is dominated by four interconnected variables:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "The US-Iran War with a humanitarian pause until 04/06 but no peace in sight,"
+          }
+        ],
+        [
+          {
+            "text": "The February PCE on 04/09 (persistent inflation pushes rate cuts further away),"
+          }
+        ],
+        [
+          {
+            "text": "The FOMC on 04/28 to 04/29 (no cut expected, but the statement's tone matters for June pricing)"
+          }
+        ],
+        [
+          {
+            "text": "and the economic effects of tariff escalation."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The historical parallel is honest: we're -47.7% from the ATH of $126,200, and in the 2017 and 2021 cycles, this phase "
+        },
+        {
+          "text": "was not the definitive bottom",
+          "bold": true
+        },
+        {
+          "text": ". A sustained recovery would require reclaiming the 100-week EMA (~$83,000), which is contingent on the resolution of the adverse macro context. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The structural cycle bottom zone, where bottoms were formed in 2015, 2018, 2020, and 2022, starts at ~$58,900 (250w EMA low) and goes up to ~$43,100 (450w EMA low)."
+        }
+      ]
+    }
+  ]
+}

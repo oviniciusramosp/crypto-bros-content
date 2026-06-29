@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "ee84329cfc7d48419660f32533003514",
+  "locale": "en",
+  "slug": "trump-negotiates-with-new-iranian-regime-and-bitcoin-reacts",
+  "date": "2026-03-30T13:00:00.000Z",
+  "updated": "2026-03-30T15:27:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/54089101863bfc1b.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇮🇷"
+  },
+  "title": [
+    {
+      "text": "Trump Negotiates with New Iranian Regime and Bitcoin Reacts"
+    }
+  ],
+  "excerpt": "Donald Trump posted on Truth Social that the U.S. is in serious discussions with a new and more reasonable regime in Iran to end military operations. BTC surged",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Donald Trump posted on Truth Social that the U.S. is in serious discussions with a new and more reasonable regime in Iran to end military operations. BTC "
+        },
+        {
+          "text": "surged to $67,900",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " and the crypto market reacted with a wave of short liquidations totaling $340 million in the last 24 hours."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump revealed that Washington is negotiating with a different leadership in Tehran, suggesting a change of government in Iran sometime in the five weeks since the conflict began. In the same post, he demanded the immediate reopening of the Strait of Hormuz and threatened to destroy power plants, oil wells, and Kharg Island if negotiations fail — targets the U.S. had deliberately avoided throughout the conflict. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The market read the signal as positive: BTC +1.6%, ETH +3.7%, and SOL +2.5%. Meanwhile, the Ethereum Foundation deposited 20,470 ETH (approximately $42 million) for staking, in one of the largest batches the foundation has ever made, according to Arkham Intelligence. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "CoinGlass recorded $340 million in short liquidations over the past 24 hours, with a single liquidation of $9.8 million on a BTCUSD order on Bybit."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The U.S.-Iran war has been the "
+        },
+        {
+          "text": "main source of pressure on risk assets since February",
+          "bold": true
+        },
+        {
+          "text": ". A ceasefire signal would ease geopolitical risk, reopen the Strait of Hormuz, and — in theory — push oil prices down, taking some pressure off inflation. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But the reading is ambiguous: at the same time Trump talks about peace, he lists every piece of civilian infrastructure he's willing to destroy if talks fall through. There is also an additional risk on the radar: the Bank of Japan may raise interest rates on April 28, which would force the unwinding of yen carry trade positions and pressure risk assets globally."
+        }
+      ]
+    }
+  ]
+}

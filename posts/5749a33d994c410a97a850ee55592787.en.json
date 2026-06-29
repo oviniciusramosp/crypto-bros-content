@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "5749a33d994c410a97a850ee55592787",
+  "locale": "en",
+  "slug": "btc-loses-70k-amid-geopolitical-shock-and-oil-surge",
+  "date": "2026-03-26T11:00:00.000Z",
+  "updated": "2026-03-26T13:04:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e035521306882a31.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🪖"
+  },
+  "title": [
+    {
+      "text": "BTC Loses $70K Amid Geopolitical Shock and Oil Surge"
+    }
+  ],
+  "excerpt": "Bitcoin lost the $70,000 support level this morning after Iran rejected an American peace proposal, intensifying the conflict in the Middle East. The drop was a",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin lost the "
+        },
+        {
+          "text": "$70,000 support level",
+          "bold": true,
+          "color": "gray"
+        },
+        {
+          "text": " this morning after Iran rejected an American peace proposal, intensifying the conflict in the Middle East. The drop was accompanied by $193 million in liquidations and an oil spike that threatens to stall the Fed's rate cuts."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1m;date:now;type:line;line:70000|||silver|0.6|dotted||1.5;icon:2026-03-26|alert-circle|red|bottom}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Iranian state media reported earlier today that Iranian authorities rejected a 15-point U.S. proposal to end the conflict in the Middle East. The Strait of Hormuz has remained blocked for the fourth consecutive day, disrupting the flow of millions of barrels of oil. WTI rose 3.3% to above $93 per barrel and Brent climbed 3.7% to over $106. The impact spread across Asian stock markets, and even gold dropped 2.9%."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "More expensive oil means stickier inflation, which reduces the chances of the Federal Reserve cutting rates in 2026. Prolonged high rates are negative for risk assets, and crypto is one of the first to suffer in this scenario. The market recorded $193 million in long liquidations over the past 24 hours: Bitcoin accounted for $49 million and Ethereum for $76 million. These forced liquidations amplify the decline. The Fear & Greed Index plummeted to 10 (Extreme Fear)."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What's Next"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If geopolitical tensions remain elevated, the next support level to watch is the $68,000 to $69,000 range. A diplomatic resolution or a pullback in oil prices could open room for a recovery toward $71,000. The Fear & Greed at extreme levels has historically signaled short-term seller exhaustion, but it doesn't guarantee an immediate reversal without a change in the macro outlook."
+        }
+      ]
+    }
+  ]
+}

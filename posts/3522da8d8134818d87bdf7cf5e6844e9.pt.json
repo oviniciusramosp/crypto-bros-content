@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "3522da8d8134818d87bdf7cf5e6844e9",
+  "locale": "pt",
+  "slug": "analise-29-abril",
+  "date": "2026-04-30T00:50:00.000Z",
+  "updated": "2026-05-03T03:34:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/231553db7090203b.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/9e77426a788a8655.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 29 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$75.868,51",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "-0,615%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$77.904,93",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$74.937,52",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Recuo Após Decisão do Fed"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin caiu pelo terceiro dia seguido e fechou na casa dos "
+        },
+        {
+          "text": "$75.800",
+          "bold": true
+        },
+        {
+          "text": ". O preço tocou a máxima em "
+        },
+        {
+          "text": "$77.904,93",
+          "bold": true
+        },
+        {
+          "text": " antes de voltar para a mínima em "
+        },
+        {
+          "text": "$74.937,52",
+          "bold": true
+        },
+        {
+          "text": ". O volume veio acima da média dos últimos sete dias, sinal de que houve participação real na queda, e não apenas mercado parado. No fim do dia, o preço formou uma vela de indecisão, com abertura e fechamento praticamente colados, mostrando que compradores e vendedores empataram a queda de braço bem perto da mínima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho do dia veio do Fed: o comitê manteve a taxa básica em "
+        },
+        {
+          "text": "3,75%",
+          "bold": true
+        },
+        {
+          "text": ", decisão já esperada pelo mercado, mas o comunicado reforçou o tom de preocupação com a volta da inflação. A reação foi clássica de aversão a risco. Bitcoin recuou, ouro caiu "
+        },
+        {
+          "text": "3,19%",
+          "bold": true
+        },
+        {
+          "text": " e prata cedeu "
+        },
+        {
+          "text": "5,17%",
+          "bold": true
+        },
+        {
+          "text": " no mesmo dia. O dólar (DXY) avançou para "
+        },
+        {
+          "text": "98,83",
+          "bold": true
+        },
+        {
+          "text": ". Quando os três caem juntos e o dólar sobe, é porque o dinheiro está saindo de ativos de risco e de proteção para parquear em caixa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-04-30;type:candle;candle:1d;ema:50w-green,100w-orange;line:73800|||green|0.5|dashed,79500|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O movimento confirma a rejeição que vínhamos mapeando na casa dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": ". Foi a terceira tentativa frustrada de romper essa região nas últimas duas semanas. Como adiantamos na análise de 26/04, o fechamento abaixo de "
+        },
+        {
+          "text": "$77.100",
+          "bold": true
+        },
+        {
+          "text": " abriu o caminho para o reteste do suporte em "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": ", que agora é o nível decisivo do curtíssimo prazo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário de Alta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o cenário otimista voltar à mesa, Bitcoin precisa fechar um candle diário acima de "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " com volume acima da média dos últimos sete dias. Sem volume confirmando, qualquer alta forte nessa região tende a virar mais uma rejeição, exatamente como aconteceu em 17/04, 22/04 e 27/04."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores que destravariam esse cenário são todos macro. Recuo do dólar de volta para baixo dos "
+        },
+        {
+          "text": "98",
+          "bold": true
+        },
+        {
+          "text": ", retomada do apetite por risco em Wall Street e qualquer sinal de que o Fed voltará a discutir cortes de juros nas próximas reuniões. A reversão rápida por liquidação das posições vendidas, hoje crescentes nos derivativos, ajudaria a empurrar o preço para cima de forma acelerada."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O primeiro alvo seria "
+        },
+        {
+          "text": "$82.500",
+          "bold": true
+        },
+        {
+          "text": ", na região da EMA de 100 semanas, e o segundo "
+        },
+        {
+          "text": "$86.000",
+          "bold": true
+        },
+        {
+          "text": ", na região da EMA de 50 semanas. "
+        },
+        {
+          "text": "A Polymarket precifica como improvável que Bitcoin alcance os $80.000 ainda em abril",
+          "color": "yellow"
+        },
+        {
+          "text": ", então esse cenário ganha mais peso só na virada do mês."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário de Baixa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No lado pessimista, o gatilho é a perda do suporte em "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": " em fechamento diário. Esse nível foi a defesa do mercado em 19/04 e segura o caminho para o último grande suporte antes do piso de ciclo, na região da EMA de 200 semanas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores aqui também são macro. Dólar rompendo os "
+        },
+        {
+          "text": "100",
+          "bold": true
+        },
+        {
+          "text": ", escalada das tensões comerciais entre Estados Unidos e China, ou novas sinalizações do Fed de que os juros vão ficar altos por mais tempo. Com a alavancagem elevada nos futuros, aumenta o risco de uma onda de liquidações caso o suporte ceda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O alvo primário seria o suporte psicológico em "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": " e o secundário a região dos "
+        },
+        {
+          "text": "$68.500",
+          "bold": true
+        },
+        {
+          "text": ". A Polymarket também precifica como improvável uma ida aos "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": " ainda em abril, o que reforça que esse cenário, se vier, deve se desenrolar nas primeiras semanas de maio. Qualquer retomada com fechamento acima de "
+        },
+        {
+          "text": "$77.500",
+          "bold": true
+        },
+        {
+          "text": " desfaz o setup pessimista."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Acompanhar Amanhã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O nível mais importante para o curtíssimo prazo é o reteste da casa dos "
+        },
+        {
+          "text": "$74.000",
+          "bold": true
+        },
+        {
+          "text": ". Se o suporte em "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": " segurar com aumento de volume comprador, abre espaço para uma volta na direção da resistência em "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": ". Se ceder, o caminho fica livre para os "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-30;type:line;ema:200w-blue,50w-green}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A leitura de mercado da Polymarket sugere uma semana de variação dentro de uma faixa entre "
+        },
+        {
+          "text": "$74.000",
+          "bold": true
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": ", o que combina com a indecisão deixada pela vela de hoje e com o sentimento ainda em medo. Amanhã tem sessão normal nas bolsas americanas, então a abertura de Wall Street vai ditar o tom da próxima vela diária do Bitcoin."
+        }
+      ]
+    }
+  ]
+}

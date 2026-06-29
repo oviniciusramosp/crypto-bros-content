@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "32e2da8d813481b3a13bf5331a6a9f7f",
+  "locale": "pt",
+  "slug": "analise-24-mar",
+  "date": "2026-03-25T00:30:00.000Z",
+  "updated": "2026-03-25T02:38:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/06441621fff79f2f.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 24 MAR"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia, feita pela IA do Crypto Bros:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia, feita pela IA do Crypto Bros:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": ":crypto-btc:"
+        },
+        {
+          "text": " Bitcoin: $70.557 "
+        },
+        {
+          "text": "-0,49% no dia",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Máxima: "
+        },
+        {
+          "text": "$71.400",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " | Mínima: "
+        },
+        {
+          "text": "$68.923",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Cenário Atual"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Estamos no mês 11 pós-halving de abril de 2024. Para dar contexto histórico: no mesmo ponto do ciclo de 2021, o Bitcoin estava acima de $55.000 a caminho do topo de $69.000; em 2017, estava próximo dos $2.000 antes de explodir para $20.000 no fim do ano. Hoje, o BTC opera em $70.557, acima da média de 200 semanas ($59.000), o que sinaliza bull market estrutural preservado, mas 28% abaixo da média de 50 semanas ($98.000), uma distância que não se via desde a capitulação de 2022. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O candle de 24 de março fechou levemente negativo (-0,49%) após testar novamente a zona de resistência dos $71.400, marcando a quarta rejeição consecutiva nesse nível. O noticiário do dia foi dominado por dois eventos: o Digital Asset Summit em Nova York, onde BlackRock e Morgan Stanley detalharam planos de tokenização de ativos reais, e o rumor de cessar-fogo entre Israel e Irã, que jogou o petróleo abaixo de $100 e provocou um salto rápido do BTC de $68.900 para $70.600. Esse movimento, porém, não conseguiu sustentar um rompimento acima da resistência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-24;type:line;candle:1d;line:67000|||red|0.2|||4,72000|||green|0.2|||4}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se As Coisas Correrem Bem"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho principal é o PCE de sexta-feira, 28 de março. Se o índice de inflação preferido do Fed vier abaixo do esperado, o mercado pode reduzir o prêmio de risco sobre ativos de risco e o BTC ganha espaço para romper os $71.400 com volume acima da média. Esse rompimento abriria caminho para um gap de CME na faixa dos $73.800 a $74.500, e um fechamento semanal acima dos $73.000 seria o primeiro sinal concreto de reversão do viés baixista de curto prazo. O avanço institucional discutido no Digital Asset Summit adiciona suporte estrutural ao movimento: com Morgan Stanley preparando ações tokenizadas e BNY Mellon expandindo produtos digitais, há uma camada de demanda institucional que pode amplificar qualquer impulso de alta nos próximos dias."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se As Coisas Complicarem"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O principal risco é o excesso de longs no mercado de futuros: o Long/Short Ratio está em 1,70, o que significa que há compradores demais posicionados no lado comprado. Cada rejeição em $71.400 aumenta a pressão sobre essas posições e, se o BTC perder o suporte de $69.300 com um fechamento diário confirmado, a cascata de liquidações pode acelerar a queda para $68.200 e, no pior caso, $67.400. Há ainda um vetor regulatório a considerar: o Clarity Act americano, que proíbe yield em saldos de stablecoins, já derrubou a Circle -20% e a Coinbase -10% nesta semana. Um PCE acima do esperado somado à pressão sobre stablecoins seria o gatilho para deterioração mais rápida do sentimento, num mercado que já está em Extreme Fear há sete dias consecutivos."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar Amanhã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O ponto central é o comportamento em $71.400: qualquer fechamento de candle de 4h acima desse nível com volume relevante muda a narrativa para o lado positivo. Se não houver rompimento, o suporte em $69.300 se torna a linha divisória entre consolidação e deterioração. Com o Fear & Greed em 14 pelo sétimo dia consecutivo, a capitulação emocional já está instalada. Historicamente, zonas de Extreme Fear prolongadas como essa costumam preceder movimentos de alta nos 30 a 60 dias seguintes, mas é o PCE de sexta que vai dar o sinal de largada ou de espera."
+        }
+      ]
+    }
+  ]
+}

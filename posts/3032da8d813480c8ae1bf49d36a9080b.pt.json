@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "3032da8d813480c8ae1bf49d36a9080b",
+  "locale": "pt",
+  "slug": "novo-imposto-em-cripto",
+  "date": "2026-02-10T22:36:00.000Z",
+  "updated": "2026-03-02T18:52:00.000Z",
+  "categories": [
+    "Mercado",
+    "Video"
+  ],
+  "tags": [
+    {
+      "name": "Notícias",
+      "color": "gray"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Altcoins",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/c559a1aa639ec2f0.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇧🇷"
+  },
+  "title": [
+    {
+      "text": "Novo Imposto em Cripto!"
+    }
+  ],
+  "excerpt": "Vídeo que explica as últimas notícias sobre mais essa palhaçadinha do governo brasileiro! 🤡",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/watch?v=jgnf_pM1z60"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vídeo que explica as últimas notícias sobre mais essa palhaçadinha do governo brasileiro! 🤡"
+        }
+      ]
+    }
+  ]
+}

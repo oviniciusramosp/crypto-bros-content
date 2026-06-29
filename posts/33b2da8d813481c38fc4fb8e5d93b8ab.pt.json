@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "33b2da8d813481c38fc4fb8e5d93b8ab",
+  "locale": "pt",
+  "slug": "analise-06-abril",
+  "date": "2026-04-07T01:08:00.000Z",
+  "updated": "2026-04-07T03:49:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b00cf2655d02f1e0.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0131c09767f8c1bf.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 06 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$68,853",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "-0.26%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: ",
+          "bold": true
+        },
+        {
+          "text": "$70,351",
+          "color": "green"
+        },
+        {
+          "text": " • "
+        },
+        {
+          "text": "Min: ",
+          "bold": true
+        },
+        {
+          "text": "$68,300",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Rally Que Durou Um Fim de Semana"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fim de semana foi promissor: Bitcoin saltou de $66,800 para $70,350 em 24 horas, um ganho de 5.3% que levou o preço à máxima dos últimos 10 dias. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mas a segunda-feira contou uma história diferente... A máxima de $70,351 foi alcançada logo cedo, e"
+        },
+        {
+          "text": " a partir daí o preço só caiu",
+          "bold": true
+        },
+        {
+          "text": ", fechando o dia em $68,853."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para quem acompanha as análises aqui, esse movimento não é surpresa: já apontamos que a EMA 200w em $68,205 era a linha divisória entre recuperação e nova perna de baixa. O preço passou o dia inteiro oscilando exatamente nessa zona, fechando apenas $600 acima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O rally do fim de semana teve um motor claro: um short squeeze que liquidou $145 milhões em posições vendidas. Não foi uma alta fundamentada em fluxos novos, e sim uma "
+        },
+        {
+          "text": "correção forçada de quem estava apostando contra.",
+          "bold": true
+        },
+        {
+          "text": " Quando os shorts foram eliminados, o preço perdeu força. A rejeição em $70,350 confirma que os vendedores ainda controlam o ritmo acima de $70,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No contexto macro, o S&P 500 subiu +0.4% (ainda -3.4% no ano), e o BTC mostrou divergência negativa: caiu enquanto a bolsa subia. A dominância do Bitcoin em 56.65% mostra que o mercado está concentrado em BTC, comportamento clássico de fuga para qualidade em momento de estresse."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;from:2026-02-01;date:now;type:candle;candle:1d;line:65000|2026-03-01||green|0.6|dashed||2,71500|2026-03-20||red|0.6|dashed||2;icon:2026-04-04|caret-up|green|bottom|14,2026-04-06|caret-down|red|top|8}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Falta Para os $75k"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário otimista passa por um fechamento diário acima de $70,400 "
+        },
+        {
+          "text": "com volume acima da média",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": ". Esse seria o "
+        },
+        {
+          "text": "sinal",
+          "bold": true
+        },
+        {
+          "text": " de que a rejeição foi temporária, abrindo caminho para testar $71,000 a $72,000…"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se romper, o próximo alvo é a resistência em torno de $75,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores existem. A Strategy (empresa de Michael Saylor) comprou 4,871 BTC por $330 milhões na última semana, acumulando 767,000 BTC no total. Saylor declarou que Bitcoin já venceu e aposta em 1 milhão de BTC até o fim do ano. O SEC anunciou que regulamentações positivas para cripto estão chegando. E o Paquistão propôs um cessar-fogo de 45 dias na tensão EUA-Irã."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Strategy comprou o lote mais recente a um preço médio de $67,718, abaixo do preço atual. Isso sugere confiança institucional nesse nível. Se o conflito geopolítico desacelerar e os dados de inflação cooperarem, Bitcoin tem fundamentos para uma recuperação sustentável."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "E Se a EMA 200w Não Segurar Desta Vez?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista é direto: fechamento diário abaixo de $68,200 com volume acima da média. A EMA 200w já foi perdida em fevereiro e março deste ano, e em ambas as vezes o preço recuou para a zona de $65,000. Se perder novamente, os alvos são $67,000 a $65,000 (zona de consolidação recente) e, em cenário mais grave, $61,000 a $60,000 (fundo provisório de fevereiro)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os riscos são concretos: forças americanas já entraram no Irã, e a probabilidade de cessar-fogo amanhã é de apenas 3% na Polymarket."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump estendeu o prazo para o Irã reabrir o Estreito de Ormuz, mas não recuou na pressão militar. Israel atacou uma petroquímica iraniana no domingo. Qualquer escalada empurra investidores para fora de ativos de risco como Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fed deve manter juros inalterados na reunião de 29/04 (98% de probabilidade), o que significa sem alívio de liquidez no curto prazo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Geopolítica, CPI e a Batalha dos $68,000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nos próximos dias, tudo gira em torno de três fatores:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "Primeiro, a EMA 200w em ~$68,250: qualquer vela diária que feche abaixo dela é um sinal claro de fraqueza. "
+          }
+        ],
+        [
+          {
+            "text": "Segundo, a evolução geopolítica: Trump estendeu o prazo para o Irã, e o Paquistão propôs cessar-fogo de 45 dias. Uma desescadação seria o melhor catalisador possível. "
+          }
+        ],
+        [
+          {
+            "text": "Terceiro, o possível CPI na sexta-feira que pode definir o tom para a reunião do Fed."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para os próximos meses, a questão central é: "
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Bitcoin está 45% abaixo do topo de outubro ($126,200) e em correção há 6 meses. "
+          }
+        ],
+        [
+          {
+            "text": "A resistência nos $75k é o divisor de águas. Segurar acima mantém viva a possibilidade de recuperar $74,000 e eventualmente $80,000. Perder reabre o caminho para $60,000. "
+          }
+        ],
+        [
+          {
+            "text": "Abril é historicamente um dos melhores mês do Bitcoin, mas o cenário macro pesa contra. A compra institucional da Strategy é o contrapeso."
+          }
+        ]
+      ]
+    }
+  ]
+}

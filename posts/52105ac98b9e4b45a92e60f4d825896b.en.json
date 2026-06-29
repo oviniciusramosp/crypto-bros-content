@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "52105ac98b9e4b45a92e60f4d825896b",
+  "locale": "en",
+  "slug": "technical-analysis-apr-01",
+  "date": "2026-04-02T00:58:00.000Z",
+  "updated": "2026-04-02T01:43:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/c1a97cd3cf174dce.webp",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/14bc706604ba7e38.webp",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Technical Analysis: Apr 01"
+    }
+  ],
+  "excerpt": "Our technical analysis for the day:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our technical analysis for the day:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin:",
+          "bold": true
+        },
+        {
+          "text": " $68,114 ("
+        },
+        {
+          "text": "-0.25%",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "$69,310",
+          "color": "green"
+        },
+        {
+          "text": " • "
+        },
+        {
+          "text": "Min:",
+          "bold": true
+        },
+        {
+          "text": "$67,579",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Walking the Tightrope on the 200w EMA"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The day's high reached $69,310, testing exactly the resistance zone we've been flagging in recent days: $69,000–$69,500 rejected price once again."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The technical picture is one of an active bear market. BTC sits 22% below the 50w EMA and 18% below the 100w EMA. The 200w EMA ($68,238) is the only relevant short-term dynamic level: BTC closed below it for the second time this week, reinforcing the bearish bias. At this same point in the previous cycle (April 2022), BTC was at $40,0"
+        },
+        {
+          "text": "00 and still dropped another 56% over the next three months",
+          "bold": true
+        },
+        {
+          "text": " before bottoming at $17,600."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The day's headline was ETH rising 5% while BTC held the $68k region: the relative strength of altcoins reflects the fact that BTC is stuck at the 200w EMA resistance. Market sentiment is at Extreme Fear — for 14 straight days now. This reading historically creates conditions for reversals, but "
+        },
+        {
+          "text": "the timing depends on external catalysts",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The market is watching a single event: "
+        },
+        {
+          "text": "Liberation Day tomorrow",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:75d;date:2026-04-01;type:candle;candle:1d;ema:250w-red-l;line:63000|2026-02-06||green|0.3|||8,72000|2026-03-19||red|0.3|||8}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If the Tariffs Disappoint"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bullish scenario requires two simultaneous elements: a daily close above the 200w EMA ($68,200-$68,500) and "
+        },
+        {
+          "text": "reciprocal tariffs lower than what the market has priced in",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", whether due to limited scope or delayed implementation."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If Trump surprises with moderation, BTC could react with a quick rally to $69,000-$69,500. The extended target is the $70,000-$71,000 zone, but breaking through won't be easy: this zone was tested and rejected repeatedly between March 23 and 26, and any breakout above $71,000 would require an additional catalyst."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The March NFP on Friday (04/03) is the second trigger in this window: weak jobs data would reinforce expectations of a Fed rate cut in June, which is a tailwind for BTC. The DXY below 99.5 and a softening dollar add to that backdrop, and the prospect of rate cuts throughout 2026 supports the recovery thesis for H2 2026."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What If Trump Goes Beyond What's Priced In?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish scenario starts with fragile immediate support: $67,500-$68,000 (today's low was $67,579). A daily close below $67,500, combined with broad and aggressive reciprocal tariffs on Liberation Day, is the trigger that opens the path to $65,000 (or lower)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Losing that level opens a direct path to $63,000–$63,500, and below that, the next meaningful reference is the historical cycle bottom zone: 250w EMA low ($58,900) to 450w EMA low ($43,200). This is not a support line — it's the region where the 2018, 2020, and 2022 cycles each found their floor."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The immediate vulnerability lies in derivatives: 60% of the market is long. If the price drops sharply to the $67,000 region, cascading liquidations could accelerate the decline to $65,000 within hours, with no need for a new external catalyst."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The geopolitical backdrop amplifies the risk. There is an elevated probability of U.S. forces entering Iran by April 30, with no ceasefire expected before April 15. A full-scale conflict would trigger a global flight to the dollar and gold and a broad exit from risk assets."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Liberation Day Tomorrow and NFP on Friday"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The central event is Liberation Day tomorrow (04/02). Trump announces the reciprocal tariffs: their scope and severity will determine whether BTC closes tomorrow above or below the 200w EMA."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Technically, the read is straightforward: BTC above $68,200 keeps the recovery scenario alive; below it, the bearish bias is confirmed."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On Friday (04/03), the March NFP rounds out the macro picture: strong jobs numbers keep the Fed on hold and pressure risk assets; weak numbers open the door to a rate cut in June."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Zooming out, the past two cycles show that, at this stage of the post-ATH correction, the bottom has rarely already been set. In 2022, price kept falling for another six months before finding the floor. The historical bottom zone still sits between the 250w EMA low ($58,900) and the 450w EMA low ($43,200)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The building blocks for a second-half 2026 recovery are taking shape: Fed rate cuts throughout the year, improving global liquidity, and a potential resolution to the U.S.-Iran conflict. The historically strong seasonality of October and November may be the window for a sustained rally."
+        }
+      ]
+    }
+  ]
+}

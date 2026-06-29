@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 1,
+  "id": "38a2da8d8134811095b6ff1fad0fb1e9",
+  "locale": "en",
+  "slug": "bitcoin-hits-new-cycle-low-below-60k",
+  "date": "2026-06-25T02:27:00.000Z",
+  "updated": "2026-06-25T03:08:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🔻"
+  },
+  "title": [
+    {
+      "text": "Bitcoin Hits New Cycle Low, Below $60k"
+    }
+  ],
+  "excerpt": "Bitcoin lost the $60,000 level this Wednesday (the 24th), returning to a level we hadn't seen since October 2024. That was roughly a 4.4% drop in 24 hours, with",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin "
+        },
+        {
+          "text": "lost the $60,000 level",
+          "color": "red"
+        },
+        {
+          "text": " this Wednesday (the 24th), returning to a level we hadn't seen since October 2024. That was roughly a "
+        },
+        {
+          "text": "4.4%",
+          "bold": true
+        },
+        {
+          "text": " drop in 24 hours, with the price reaching the "
+        },
+        {
+          "text": "$59,200",
+          "bold": true
+        },
+        {
+          "text": " range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The correction didn't come cheap. More than "
+        },
+        {
+          "text": "166,000 traders",
+          "bold": true
+        },
+        {
+          "text": " were liquidated in the past day, totaling over "
+        },
+        {
+          "text": "$845 million",
+          "bold": true
+        },
+        {
+          "text": " in wiped-out positions. Most of it, around "
+        },
+        {
+          "text": "$780 million",
+          "bold": true
+        },
+        {
+          "text": ", came from "
+        },
+        {
+          "text": "leveraged buyers betting on the upside.",
+          "color": "red"
+        },
+        {
+          "text": " And the drop was broad-based: Ethereum fell "
+        },
+        {
+          "text": "5.4%",
+          "bold": true
+        },
+        {
+          "text": " toward "
+        },
+        {
+          "text": "$1,500",
+          "bold": true
+        },
+        {
+          "text": ", while Solana and XRP also closed in the red."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What's Behind the Drop"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bigger pressure came from outside the crypto market. The new Fed chair signaled a tighter monetary policy, and the U.S. central bank's projections now point to at least one rate hike in 2026."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Higher rates crush risk appetite. The yield on the U.S. 10-year Treasury, the main benchmark for risk assets, rose to near "
+        },
+        {
+          "text": "4.5%",
+          "bold": true
+        },
+        {
+          "text": ", and that has historically worked against Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Add to that the decline in big tech. The "
+        },
+        {
+          "text": "Nasdaq",
+          "bold": true
+        },
+        {
+          "text": " pulled back roughly "
+        },
+        {
+          "text": "4%",
+          "bold": true
+        },
+        {
+          "text": " over five sessions, with investors questioning the heavy spending on artificial intelligence. Since Bitcoin has been trading in lockstep with that sector, it followed the drop instead of leading a turnaround."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Support That Needs to Hold"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the daily chart, Bitcoin gave back almost all the gains it had been building since the early-June low. Along the way, it lost important Fibonacci levels — drawn from the May high, up in the $82,900 range — such as the $64,000 area, which analysts saw as the last major defense before $60,000."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/9895a62d60abccb2.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Now the price is sitting right on top of the most important support on the chart: the $59,000 to $60,000 band, which lines up with the early-June low and the 250W EMA. This is where buyers stepped in at the start of the month and pushed Bitcoin back above $70,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The trouble is the structure. Since the May high, every recovery attempt has been forming lower highs, stuck below a downtrend line. Until that changes, the advantage stays with the sellers."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why the Drop May Not Hold"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But there's an important counterweight in the buyers' favor. Binance's liquidation map shows "
+        },
+        {
+          "text": "$1.17 billion",
+          "color": "green"
+        },
+        {
+          "text": " in short positions stacked above the current price, versus roughly "
+        },
+        {
+          "text": "$649 million",
+          "bold": true
+        },
+        {
+          "text": " in leveraged longs below."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That imbalance is fuel. If the price reacts, those shorts could be forced to buy back, triggering a quick reversal as those positions get liquidated. It also helps that the bearish breakout came with declining sell volume, a sign that the drop may be losing steam."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It's no guarantee — it's just one side of the scale. The broader trend remains bearish, and touching a support doesn't mean it will hold. But ignoring all that short volume positioned against the market would be naive too."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Comes Next"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "What will decide the direction isn't on the chart — it's in Washington. As long as the Fed keeps its high-rate tone, institutional money keeps flowing out: spot Bitcoin ETFs saw roughly "
+        },
+        {
+          "text": "$180 million",
+          "bold": true
+        },
+        {
+          "text": " in net outflows between Monday and Tuesday alone."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the corporate side, Strategy fell as much as 11% on the day, and industry skeptics floated the idea that the company might sell part of its Bitcoin to buy back shares. Wallets linked to BlackRock also moved about 2,700 BTC to Coinbase — a move some tie to possible sales, though without any confirmation."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "And here's the reminder: "
+        },
+        {
+          "text": "Polymarket",
+          "bold": true
+        },
+        {
+          "text": " is still pricing in a drop to "
+        },
+        {
+          "text": "$55,000",
+          "color": "red"
+        },
+        {
+          "text": " before the year is out. So I don't want anyone here caught off guard or liquidated. The "
+        },
+        {
+          "text": "$59,000",
+          "bold": true
+        },
+        {
+          "text": " level is the line that separates a bounce from a deeper plunge. Let's take it slow, tracking every step, no FOMO."
+        }
+      ]
+    }
+  ]
+}

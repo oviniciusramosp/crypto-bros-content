@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "34f2da8d813481c48ca0f0ae4dafcdbe",
+  "locale": "pt",
+  "slug": "bc-proibe-polymarket-e-kalshi-enquanto-b3-lanca-contratos-de-bitcoin",
+  "date": "2026-04-27T19:18:00.000Z",
+  "updated": "2026-04-28T00:50:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/40b4ca35f79df174.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/54abaecc4ea10603.jpg",
+  "icon": {
+    "emoji": "🇧🇷"
+  },
+  "title": [
+    {
+      "text": "BC proíbe Polymarket e Kalshi enquanto B3 lança contratos de Bitcoin"
+    }
+  ],
+  "excerpt": "Em um mesmo dia, o Brasil deu dois sinais opostos sobre cripto: o Banco Central proibiu plataformas de prediction markets de operar apostas em eleições e esport",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em um mesmo dia, o Brasil deu dois sinais opostos sobre cripto: o Banco Central proibiu plataformas de prediction markets de operar "
+        },
+        {
+          "text": "apostas em eleições",
+          "color": "yellow"
+        },
+        {
+          "text": " e esportes, enquanto a B3 iniciou a negociação de contratos de eventos referenciados em Bitcoin, Ibovespa e dólar."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A decisão do Banco Central afeta diretamente a Polymarket e a Kalshi, duas das maiores plataformas de mercados de previsão do mundo. A proibição se aplica a apostas em resultados de eleições e eventos esportivos — categorias populares nessas plataformas. O movimento segue a tendência global de reguladores que buscam enquadrar produtos de predição dentro das regras de jogos e valores mobiliários."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A B3 na outra ponta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto o Banco Central restringia um lado, a B3 dava um passo de institucionalização. Os novos contratos de eventos lançados pela bolsa brasileira permitem exposição a Bitcoin, ao Ibovespa e ao dólar dentro do ambiente regulado. Para o mercado cripto, isso representa a entrada do ativo em mais uma camada do sistema financeiro tradicional brasileiro."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A dualidade é reveladora: ao mesmo tempo em que plataformas descentralizadas sofrem restrições, o Bitcoin ganha espaço na infraestrutura regulada. Isso não é contraditório — é o padrão histórico de como mercados emergentes absorvem inovação financeira."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O que esperar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário mais provável, a tendência regulatória no Brasil segue o caminho de outros países: aceitar o ativo em estruturas reguladas e controlar ou proibir produtos fora desse perímetro. A B3 ter lançado contratos referenciados em Bitcoin é um sinal de que a demanda institucional existe e cresce no país."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário de risco, um endurecimento regulatório mais amplo poderia alcançar outras plataformas cripto que operam na zona cinzenta da regulação brasileira. Plataformas de prediction markets são apenas a ponta mais visível desse processo. O avanço do Banco Central sobre o Polymarket e o Kalshi pode sinalizar apetite por regular outros serviços descentralizados com usuários brasileiros."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin opera a "
+        },
+        {
+          "text": "$76.880",
+          "bold": true
+        },
+        {
+          "text": ", com queda de "
+        },
+        {
+          "text": "2,06%",
+          "bold": true
+        },
+        {
+          "text": " nas últimas 24 horas. O mercado responde ao cenário macro global, mas eventos regulatórios locais como este tendem a movimentar o debate sobre o futuro do cripto no Brasil mais do que o preço de curto prazo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "id": "32b2da8d813481558c29c794115581fc",
+  "locale": "pt",
+  "slug": "relatorio-21-mar",
+  "date": "2026-03-22T00:12:00.000Z",
+  "updated": "2026-03-25T02:38:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Relatório 21 MAR"
+    }
+  ],
+  "excerpt": "Nosso relatório feito pela IA do Crypto Bros:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nosso relatório feito pela IA do Crypto Bros:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": ":crypto-bitcoin:"
+        },
+        {
+          "text": " Bitcoin: "
+        },
+        {
+          "text": "$68.881",
+          "bold": true
+        },
+        {
+          "text": "  "
+        },
+        {
+          "text": "-2.36% no dia",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Máxima: "
+        },
+        {
+          "text": "$71.100",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " | Mínima: "
+        },
+        {
+          "text": "$68.228",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " (mínima da semana)"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Moveu o Mercado"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O grande acontecimento desta tarde não veio de uma notícia, mas do próprio mercado. O Bitcoin perdeu o suporte de "
+        },
+        {
+          "text": "$70.400",
+          "bold": true
+        },
+        {
+          "text": ", nível que identificamos no último relatório como crítico para a continuidade da alta. A queda não foi gradual: um único candle de 4 horas derrubou o preço de $70.396 até $68.571, com o maior volume do dia (4.574 BTC negociados naquele candle). Em seguida, o preço chegou à mínima de "
+        },
+        {
+          "text": "$68.228",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Esse tipo de movimento rápido e volumoso costuma indicar liquidação em cascata, onde posições alavancadas sendo fechadas forçam o preço para baixo e acionam mais fechamentos em sequência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A reação dos mercados de apostas foi imediata. No Polymarket, as probabilidades de uma queda do Bitcoin a "
+        },
+        {
+          "text": "$65.000",
+          "bold": true
+        },
+        {
+          "text": " antes do fim de março passaram de "
+        },
+        {
+          "text": "32,6%",
+          "bold": true
+        },
+        {
+          "text": " (no relatório da manhã) para "
+        },
+        {
+          "text": "57%",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " em poucas horas. Uma inversão expressiva: de menos provável para mais provável em um único dia, com $844 mil movimentados nessas apostas. O Índice de Medo e Ganância chegou a "
+        },
+        {
+          "text": "10 pontos",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " (Medo Extremo), o nível mais baixo da semana. Altcoins acompanharam a queda: Ethereum recuou 3,3%, Solana caiu 3% e XRP perdeu 2,5%."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No front de notícias, a "
+        },
+        {
+          "text": "Gemini",
+          "bold": true
+        },
+        {
+          "text": " (exchange fundada pelos irmãos Tyler e Cameron Winklevoss) enfrenta uma ação coletiva alegando que a empresa ocultou planos de migrar do trading de criptomoedas para mercados de previsão durante o processo de IPO. O impacto é mais regulatório do que de preço. A "
+        },
+        {
+          "text": "Ripple",
+          "bold": true
+        },
+        {
+          "text": " emitiu alerta sobre contas falsas no Telegram se passando por funcionários da empresa, um lembrete de que golpes de impersonation se intensificam em momentos de volatilidade. Por fim, o "
+        },
+        {
+          "text": "JPMorgan",
+          "bold": true
+        },
+        {
+          "text": " alertou que o S&P 500 ficaria vulnerável se o petróleo tipo Brent ultrapassar $110 por barril, sinal de que tensões geopolíticas seguem no radar macro."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Análise Técnica"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O piso mais importante agora é "
+        },
+        {
+          "text": "$68.200",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". O Bitcoin testou esse nível hoje chegando a $68.228, e os compradores conseguiram segurar até o momento. Se o preço fechar um candle de 4 horas abaixo desse valor, abre espaço para uma queda adicional de $2.000 a $3.000 nos próximos dias. Os antigos suportes de "
+        },
+        {
+          "text": "$69.500-$70.000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " agora funcionam como teto: preços que antes eram piso viraram resistência quando são perdidos e retestados por baixo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os dados de derivativos mostram sinais mistos. O Open Interest (volume total de contratos em aberto no mercado futuros) caiu de $6,17 bilhões para "
+        },
+        {
+          "text": "$5,95 bilhões",
+          "bold": true
+        },
+        {
+          "text": ", indicando que alavancagem está sendo reduzida de forma organizada, sem explosão de liquidações forçadas. Relativamente saudável. Por outro lado, o funding rate (taxa que traders pagam para manter posições alavancadas) oscila perto de zero, o que significa ausência de convicção em qualquer direção. Sem taxas negativas relevantes, não existe o mecanismo de short squeeze, que seria quando vendedores alavancados são forçados a recomprar e empurram o preço para cima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Long/Short ratio está em "
+        },
+        {
+          "text": "1,57",
+          "bold": true
+        },
+        {
+          "text": ", ou seja, 61% das posições abertas são compradas (apostas na alta). O ponto de atenção: esse número subiu enquanto o preço caía. Compradores entraram apostando no fundo com Medo Extremo em 10, o que é compreensível. O risco é que, se o preço continuar caindo, esses longs funcionam como combustível para nova onda de baixa: serão liquidados automaticamente e forçarão mais vendas em sequência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-21;type:line;line:68200|||red|0.35|||8,67500|||red|0.25|||8,65900|||red|0.25|||8,69750|||green|0.25|||8,70750|||green|0.25|||8}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário mais provável neste momento (30% de chance) é uma "
+        },
+        {
+          "text": "consolidação entre $68.000 e $70.500",
+          "bold": true
+        },
+        {
+          "text": " pelas próximas 24 a 48 horas. Sem um catalisador externo claro para a queda de hoje, o mercado tende a absorver o movimento e operar lateralmente enquanto processa o que aconteceu. O medo está alto, mas os dados de derivativos não mostram pânico generalizado, o que sugere que ainda não houve a capitulação total que costuma marcar fundos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o Bitcoin conseguir segurar acima de "
+        },
+        {
+          "text": "$68.200",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " e reconquistar a faixa de $69.500-$70.000, o caminho natural seria um retorno gradual aos $70.500-$71.000. Para isso acontecer (25% de chance), seria necessário algum catalisador positivo: fluxo relevante nos ETFs americanos na abertura de segunda-feira, dado macroeconômico favorável ou simplesmente uma estabilização que incentive os compradores nas margens a entrarem com mais convicção."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O risco principal está no nível de "
+        },
+        {
+          "text": "$68.200",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Uma perda confirmada desse piso (fechamento de candle de 4h abaixo) coloca o próximo suporte em $67.500, e depois na faixa de "
+        },
+        {
+          "text": "$65.800-$66.000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Com 61% das posições compradas e funding rate em zero, um escorregão abaixo de $68.200 pode acionar uma cascata de liquidações. O Polymarket já precifica 57% de chance de vermos $65.000 antes do fim de março. O analista avalia que o risco/retorno não favorece compra aqui ainda."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Amanhã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É final de semana, e o Bitcoin opera 24 horas por dia, mas com liquidez reduzida. Sem eventos econômicos relevantes na agenda para domingo, o mercado deve seguir guiado pelo momentum interno. Finais de semana com Medo Extremo e pouca liquidez podem amplificar movimentos em ambas as direções. A decisão do Fed sobre juros em abril está precificada com 94,8% de probabilidade de manutenção, então o banco central não deve ser um catalisador imediato."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O nível mais importante para acompanhar é o "
+        },
+        {
+          "text": "$68.200",
+          "bold": true
+        },
+        {
+          "text": ". Se o Bitcoin passar o final de semana acima desse piso, a abertura dos ETFs americanos na segunda-feira pode ser decisiva para determinar a direção da próxima semana. Um dia de entrada líquida nos ETFs seria sinal de que instituições estão aproveitando a queda. Um dia de saída confirmaria pressão de venda ainda presente."
+        }
+      ]
+    }
+  ]
+}

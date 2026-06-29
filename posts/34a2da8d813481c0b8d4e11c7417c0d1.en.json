@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "34a2da8d813481c0b8d4e11c7417c0d1",
+  "locale": "en",
+  "slug": "analysis-april-21",
+  "date": "2026-04-22T01:16:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/06a44ea04a1bf137.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e02283d6ad14722c.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis April 21"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed at "
+        },
+        {
+          "text": "$76,305",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0.49%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$76,927",
+          "color": "green"
+        },
+        {
+          "text": " • Low: "
+        },
+        {
+          "text": "$74,821",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A Rally Without an Audience"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin advanced quietly on Tuesday, closing near $76,300 after touching an intraday high of $76,927. Volume came in below the seven-day average, indicating that few market participants followed the move."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The momentum came from traditional markets: the Nasdaq rose 2.63% and the S&P 500 gained 1.39%, lifting risk assets. The dollar remains weak, with the DXY holding steady around 98 — a level that has historically favored Bitcoin. US-Iran tensions remain on the radar, with JD Vance canceling his trip to Pakistan amid escalating diplomatic tensions, limiting risk appetite in crypto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-22;type:candle;candle:1d;ema:50w-green,100w-orange;line:73800|2026-04-14||green|0.5|dashed,78000|2026-04-17||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bullish scenario we mapped out yesterday partially materialized: support in the $73,000 range held firm and Bitcoin reached $76,927, less than $100 away from the $77,000 target we had projected. In the bigger picture, price remains 13% below the 50-week EMA, confirming that the recovery is unfolding within a bearish market structure."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The $78,000 Gate"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The trigger for continued upside is a breakout above the $78,000 resistance — a level that rejected price last Friday when Bitcoin hit $78,322 and reversed. A daily close above that level with above-average volume would open the path to $80,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If Bitcoin clears $80,000, the next target would be in the $82,500 range, where the 100-week EMA sits. Reclaiming that moving average would shift the market classification from confirmed bearish to caution zone — an important step in the structural recovery."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The catalysts that could unlock this scenario include a de-escalation of US-Iran tensions, continued institutional flows like those from Strategy, and futures positioning: with most traders positioned short (long/short ratio at 0.86), any upside breakout could trigger a liquidation cascade that accelerates the move."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The $73,000 Risk"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Support at $73,800 has been tested five times in recent weeks and held every time. Each test, however, weakens the level. A daily close below that mark would send Bitcoin toward the $70,500 area, a support zone tested in early April."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If $70,500 fails to hold, the next target would be around $68,400, where the 200-week EMA sits — the last long-term support before the cycle floor."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Risks that could trigger this scenario: military escalation between the US and Iran in the Strait of Hormuz, a reversal of Bitcoin ETF flows, or higher-than-expected US employment and inflation data. In the crypto ecosystem, the transfer of 1.32 million Solana to exchanges signals potential selling, and the $292 million attack on KelpDAO adds caution to the DeFi segment."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Weekly Radar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The levels to watch are clear: resistance at $78,000 on the upside and support at $73,800 on the downside. Bitcoin is compressed between these two levels, and a breakout in either direction should define the path for the coming days. The daily RSI sits at 68, approaching the zone that signals price stretched in the short term."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the calendar, the next FOMC meeting is on May 7. Until then, the US-Iran geopolitical factor will be the main external catalyst. For the long-term investor, price remains 11.5% above the 200-week EMA, the last structural support of the cycle."
+        }
+      ]
+    }
+  ]
+}

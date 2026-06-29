@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "33a2da8d81348100b7abd6bbb41c439c",
+  "locale": "en",
+  "slug": "short-squeeze-takes-btc-from-666k-to-702k-in-24-hours",
+  "date": "2026-04-06T17:54:00.000Z",
+  "updated": "2026-04-06T18:00:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a5d8937d0237224f.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Short Squeeze Takes BTC from $66.6K to $70.2K in 24 Hours"
+    }
+  ],
+  "excerpt": "The past 24 hours were intense for Bitcoin. After touching $66,624 early yesterday (Apr 5), BTC started a firm recovery that pushed it to $70,219 this morning, ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The past 24 hours were intense for Bitcoin. After touching $66,624 early yesterday (Apr 5), BTC started a firm recovery that pushed it to $70,219 this morning, a swing of more than 5% in under a day."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The current price hovers around $69,500, up approximately 3% over the last 24 hours."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Geopolitical Context: Iran, Trump, and Oil at $110"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The weekend was marked by escalating tensions between the US and Iran. President Donald Trump threatened to strike Iranian energy facilities if the Strait of Hormuz remained blocked, pushing crude oil to $110 a barrel."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Meanwhile, reports emerged of negotiations for a 45-day ceasefire involving the US, Iran, and regional mediators, described as a \"last-ditch effort\" to prevent massive strikes on Iranian civilian infrastructure."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This news brought brief relief to risk markets, contributing to BTC's bounce."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Derivatives Short Squeeze: The Engine Behind the Rally"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The main force behind today's jump was not the spot market, but the derivatives market. Perpetual contract funding rates climbed to 0.00213%, signaling rapid accumulation of leveraged long positions. This forced buying in the futures market, triggering a short squeeze that pushed the price above $70K for the first time in 10 days."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As recently as early March, funding rates were negative, reflecting dominant short positioning and pessimistic sentiment. The sharp reversal to positive in just 24 hours suggests a rapid shift in institutional positioning."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Technical Outlook"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "BTC broke the downtrend line on the daily chart and the 200-week EMA."
+          }
+        ],
+        [
+          {
+            "text": "Key resistance: $71,000. A sustained break above this level would be a clear reversal signal."
+          }
+        ],
+        [
+          {
+            "text": "Next target: $75,000, if $71K is overcome with volume."
+          }
+        ],
+        [
+          {
+            "text": "Support: $66,500. Losing this level opens the door to tests at $63,000."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The picture is mixed: a Fear & Greed reading of 12 suggests excessive pessimism (historically a buying opportunity), but geopolitical tensions with Iran and oil at $110 create real contagion risk for all risk assets."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "id": "35b2da8d813480e39e97e609f1a2b572",
+  "locale": "pt",
+  "slug": "4-criptos-para-comprar-na-baixa",
+  "date": "2026-05-09T14:10:00.000Z",
+  "updated": "2026-05-09T15:29:00.000Z",
+  "categories": [
+    "Video"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Altcoins",
+      "color": "gray"
+    },
+    {
+      "name": "SOL",
+      "color": "blue"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0e434baf42cd711f.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "4 Criptos para Comprar na Baixa"
+    }
+  ],
+  "excerpt": "Segue um vídeo do Defiverso sobre 4 criptos que você pode cogitar incluir na sua carteira antes da volta do Bull Market.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/watch?v=Nruqdp8-O3k"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Segue um vídeo do Defiverso sobre 4 criptos que você pode cogitar incluir na sua carteira antes da volta do Bull Market."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-btc:"
+        },
+        {
+          "text": " Bitcoin (BTC)",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Eu vou começar pelo óbvio, porque a maioria ignora o óbvio: "
+        },
+        {
+          "text": "a base sólida da carteira é Bitcoin",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A minha cabeça é simples: estamos em período de bear market. É agora que faz sentido fazer DCA em Bitcoin, ir acumulando posição enquanto o mercado está desanimado. No ciclo passado, BTC andou coisa de 500–600%. Mesmo que não repita isso, só o fato de voltar para a região de topo anterior já dá 100–200% pra quem comprou nas faixas de correção."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se você quiser um beta de Bitcoin, existem empresas expostas a BTC que são tokenizadas on-chain, que tendem a andar mais que o ativo em si, com mais risco também. Mas isso, pra mim, é camada extra. Primeiro eu resolvo a posição direta em BTC, depois penso em alavancar a tese."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-sol:"
+        },
+        {
+          "text": " Solana (SOL)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Solana entra como a L1 com maior potencial de upside nesse ciclo. O foco está no mercado de RWA/tokenização: a rede já figura entre as principais em ativos do mundo real tokenizados, atraindo fluxos de ações, ouro, prata e outros papéis para dentro do ecossistema. Em paralelo, grandes players de tech, pagamentos e finanças já usam Solana para pagamentos com stablecoins, remessas, yield em dólar via DeFi e outras aplicações, o que mostra uso real e não só narrativa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nas métricas on‑chain, Solana supera Ethereum em transações e usuários ativos diários, ainda que uma parte disso venha de bots, e teve ciclos fortes de adoção com memecoins, Pump.fun e dApps diversos. O risco mais técnico citado é a vulnerabilidade à computação quântica em comparação a BTC e ETH, o que provavelmente será uma grande narrativa de segurança nos próximos anos. Mesmo assim, ele continua vendo Solana como ótimo cavalo de médio e longo prazo, com melhor momento para acumular quando o Bitcoin estiver acima das faixas de bull market, entrando naquela janela de acumulação em que ainda há tempo para montar posição sem depender de acertar o fundo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-hype:"
+        },
+        {
+          "text": " Hyperliquid (HYPE)",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Hyperliquid aparece como um dos destaques DeFi: não apenas uma DEX de perpétuos, mas um ecossistema com TVL em crescimento, receita forte e positiva e uso orgânico – traders usam porque o produto é bom, e não só por incentivo inflacionário. A atualização HIP3 trouxe ouro, prata, ações e outros ativos tradicionais on‑chain, com volumes diários relevantes, reforçando a tese de que o mercado financeiro está migrando para dentro da blockchain."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A HIP4 é a grande virada atual: mercados preditivos nativos integrados ao mesmo colateral dos perpétuos, com criação de mercados permissionless (mediante stake de HYPE), margem cruzada entre direcional e hedge macro e liquidez nativa unificada. Isso aumenta muito a eficiência de capital e cria um flywheel de produto → volume → receita → buybacks de HYPE e demanda de stake. Do lado de risco, o alerta principal é um cliff massivo de desbloqueio de tokens a partir de julho (muita oferta nova), a centralização em poucos validadores, risco de oráculo e regulação de prediction markets ainda indefinida. No balanço, ele dá algo como “nota 8/10”: narrativa forte e fundamentos bons, mas com esses riscos bem claros."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-pendle:"
+        },
+        {
+          "text": " Pendle (PENDLE)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pendle aparece como um protocolo DeFi que passou por uma queda importante de TVL, mas começa a mostrar recuperação em termos de price action. Quando se compara preço e market cap, não há uma distorção enorme, o que sugere que o token não está completamente fora de sintonia com os fundamentos. Ainda assim, o histórico recente de fuga de liquidez exige cuidado, porque um protocolo de derivativos de yield depende diretamente de volume e capital travado para sustentar a tese."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A leitura geral é de “watchlist com cautela”: há sinais de que o mercado volta a olhar para Pendle, mas ainda não com a mesma convicção dos ciclos anteriores. Então entra mais como opcional de alta volatilidade, para quem quer um satélite em DeFi e acompanha de perto métrica de TVL e receita antes de aumentar exposição."
+        }
+      ]
+    }
+  ]
+}

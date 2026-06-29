@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "2f52da8d813480da96a5fdd2fe92fc76",
+  "locale": "pt",
+  "slug": "analise-de-momento",
+  "date": "2025-11-21T17:51:00.000Z",
+  "updated": "2026-03-02T18:54:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/7f9468a45b72282b.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🔍"
+  },
+  "title": [
+    {
+      "text": "Análise de Momento"
+    }
+  ],
+  "excerpt": "Bitcoin apanhou bem nas últimas semanas: saiu do topo histórico perto de US$ 126 mil no começo de outubro pra faixa dos 80 e poucos mil, muito porque o mercado ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin apanhou bem nas últimas semanas: saiu do topo histórico perto de US$ 126 mil no começo de outubro pra faixa dos 80 e poucos mil, muito porque o mercado praticamente "
+        },
+        {
+          "text": "desistiu da ideia de corte de juros já em dezembro",
+          "bold": true
+        },
+        {
+          "text": " e passou a precificar “juros altos por mais tempo”…"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A boa notícia é o "
+        },
+        {
+          "text": "fim do QT no dia 1 de Dezembro",
+          "bold": true
+        },
+        {
+          "text": ": o Fed para de esvaziar o ‘tanque de dinheiro’ da economia e passa a reaplicar o que recebe. Ainda não é a ‘impressora de dólar ligada no máximo’, mas já é um "
+        },
+        {
+          "text": "alívio importante",
+          "bold": true
+        },
+        {
+          "text": " — e, com o tempo, ajuda a criar um ambiente menos apertado pra ativos de risco, como o Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Do lado político, o secretário do Tesouro Scott Bessent já falou que Trump deve se reunir com os "
+        },
+        {
+          "text": "finalistas ao cargo de novo presidente do Fed depois do Thanksgiving",
+          "bold": true
+        },
+        {
+          "text": " e que a ideia é ter um nome de preferência antes do Natal. Um chair escolhido por Trump tende a defender "
+        },
+        {
+          "text": "cortes mais rápidos a partir de 2026",
+          "bold": true
+        },
+        {
+          "text": " e ser mais aberto à inovação cripto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Isso pode trazer mais otimismo ao mercado antes do Natal, mas a troca só seria efetivada em "
+        },
+        {
+          "text": "Maio de 2026",
+          "bold": true
+        },
+        {
+          "text": ". Lembrando também que final de ano costuma ser um momento de menos volume e mais volatilidade (pois há mais manipulações). O volume costuma voltar apenas em Fevereiro."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Portanto o curto prazo é mais turbulento, porém entre Fevereiro e Março podemos ver o mercado mais otimista.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E importante sempre lembrar: "
+        },
+        {
+          "text": "ninguém",
+          "bold": true
+        },
+        {
+          "text": " aqui tem bola de cristal. Nem eu, nem vocês, nem nenhum influencer cripto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nós trabalhamos com as POSSIBILIDADES e tentamos traçar cenários otimistas e pessimistas para sempre navegarmos com um plano em mente. O mercado é dinâmico por isso fazemos análises e revisamos elas com frequência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Não podemos deixar o emocional tomar conta. O imediatismo e a necessidade de acertar sempre costumam resultar em grandes prejuízos."
+        }
+      ]
+    }
+  ]
+}

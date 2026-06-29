@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "3342da8d813481edb7ebd0a57c29bfb3",
+  "locale": "pt",
+  "slug": "ira-sinaliza-cessar-fogo-e-bitcoin-dispara",
+  "date": "2026-03-31T17:05:00.000Z",
+  "updated": "2026-03-31T17:19:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2dd6b01dce9f7f36.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇮🇷"
+  },
+  "title": [
+    {
+      "text": "Irã Sinaliza Cessar-Fogo e Bitcoin Dispara"
+    }
+  ],
+  "excerpt": "O presidente do Irã, Masoud Pezeshkian, declarou hoje que o país está disposto a encerrar o conflito com os EUA caso receba garantias de segurança. ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O presidente do Irã, Masoud Pezeshkian, declarou hoje que o país está disposto a encerrar o conflito com os EUA caso receba garantias de segurança. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A notícia chegou ao mercado por volta das 13h e provocou reação imediata: Bitcoin subiu de $67k para $68k em menos de 15 minutos, petróleo caiu e ações globais avançaram."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1m;date:now;type:line}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Irã mantém o Estreito de Ormuz fechado desde o início do conflito com os EUA, rota por onde passa cerca de 20% do petróleo mundial. O bloqueio tem mantido o petróleo acima de $100 e pressionado ativos de risco globalmente. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A declaração de Pezeshkian foi a abertura diplomática mais concreta até agora: o país disse estar pronto para negociar, com a condição de garantias de segurança por parte dos americanos. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No candle de 15 minutos das 13h, o volume no BTC foi quatro vezes acima da média, confirmando que os traders reagiram ao headline geopolítico."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O conflito no Oriente Médio tem sido um dos principais fatores de pressão no mercado cripto em 2026. Com o petróleo alto, o Fed fica com menos espaço para cortar juros, o que pesa sobre ativos de risco. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin precisa fechar março acima de $67.300 para evitar seis meses consecutivos de perdas, e às 14h está em $67.764. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nos derivativos, o funding rate inverteu de positivo (+0.00012) para negativo (-0.00028), indicando que shorts dominam no futuro e podem amplificar alta se a narrativa de cessar-fogo se confirmar."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o cessar-fogo for confirmado, o próximo nível a observar no BTC é a região de $68.000, topo do spike de hoje. Um fechamento mensal acima de $67.300 mudaria o tom do mercado para abril. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se não houver avanço concreto, o sentiment permanece em Medo Extremo (Fear & Greed: 11) e o suporte mais próximo a vigiar é $66.000."
+        }
+      ]
+    }
+  ]
+}

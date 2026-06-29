@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "3582da8d81348163b5f0fe5318a406fc",
+  "locale": "pt",
+  "slug": "bitcoin-testa-a-ema-100w",
+  "date": "2026-05-06T13:11:00.000Z",
+  "updated": "2026-05-06T14:34:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2f0557d80c1140bf.png",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Testa a EMA 100W"
+    }
+  ],
+  "excerpt": "O Bitcoin acabou de tocar a EMA de 100 semanas, uma das médias móveis mais respeitadas pelo mercado para definir o pulso do ciclo. Não é exagero dizer que o que",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin acabou de tocar a "
+        },
+        {
+          "text": "EMA de 100 semanas",
+          "bold": true
+        },
+        {
+          "text": ", uma das médias móveis mais respeitadas pelo mercado para definir o pulso do ciclo. Não é exagero dizer que o que acontece nas próximas semanas em torno desse nível pode definir se ainda estamos num bull market ou se o ciclo já começou a virar."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Essa EMA Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tanto a EMA de 100 semanas quanto a EMA de 50 semanas são pontos fundamentais no ciclo do Bitcoin pois costumam representar regiões de suporte ou resistência. E é por isso que costumamos dar atenção a elas: um rompimento acima dessa média pode deixar o mercado muito mais otimista, enquanto uma falha nessa tentativa de rompimento pode fazer o mercado voltar a mirar mais para baixo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Estamos exatamente nesse teste agora."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Otimista"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " segurar na EMA de 100 semanas e iniciar uma reação com volume crescente, o próximo objetivo natural é a "
+        },
+        {
+          "text": "EMA de 50 semanas",
+          "color": "green"
+        },
+        {
+          "text": ". O rompimento dessa média, com fechamentos semanais sustentados acima dela, sinalizaria a retomada de um ambiente otimista."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nesse cenário, esperaríamos ver alguns sinais técnicos clássicos: aumento de volume nas altas, recuos rasos sendo comprados rapidamente e o RSI semanal voltando a subir sem perder a região central. A combinação desses fatores costuma marcar a transição de uma fase de acumulação para uma fase de avanço."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Pessimista"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A leitura inverte se a reação na EMA de 100 semanas falhar. Uma perda confirmada dessa zona, com fechamentos semanais abaixo dela, abre caminho para voltarmos a "
+        },
+        {
+          "text": "EMA de 200 semanas",
+          "color": "red"
+        },
+        {
+          "text": ", que historicamente é o último suporte antes do fundo do ciclo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse movimento não é incomum em ciclos passados. A média de 200 semanas já serviu de fundo em correções estruturais e funcionaria, no quadro atual, como o ponto onde o mercado costuma testar a paciência dos compradores antes de uma nova fase de acumulação."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Observar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A primeira referência é o fechamento semanal em relação à EMA de 100 semanas. Um fechamento claro acima reforça o cenário otimista, enquanto um fechamento abaixo valida o cenário pessimista."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É importante salientar que mesmo fechando acima dela, precisaríamos de mais algumas semanas para garantir que não seja uma armadilha ou um falso rompimento. Como estamos falando de uma análise semanal, uma validação poderia levar um ou dois meses."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em segundo lugar, vale acompanhar o volume nas reações e o comportamento do índice DXY, dos juros americanos e da liquidez global. Quando esses três fatores apontam na mesma direção do movimento técnico do "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": ", a probabilidade do cenário se confirmar aumenta de forma significativa."
+        }
+      ]
+    }
+  ]
+}

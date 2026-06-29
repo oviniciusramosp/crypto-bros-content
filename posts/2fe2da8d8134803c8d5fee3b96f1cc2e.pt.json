@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "2fe2da8d8134803c8d5fee3b96f1cc2e",
+  "locale": "pt",
+  "slug": "o-cenario-do-bitcoin",
+  "date": "2026-02-05T03:42:00.000Z",
+  "updated": "2026-04-06T17:46:00.000Z",
+  "categories": [
+    "Mercado",
+    "Video"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "O Cenário do Bitcoin"
+    }
+  ],
+  "excerpt": "Mais um vídeo analisando o momento do Bitcoin e do mercado cripto.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/watch?v=6c7BkVGjhq4"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mais um vídeo analisando o momento do Bitcoin e do mercado cripto."
+        }
+      ]
+    }
+  ]
+}

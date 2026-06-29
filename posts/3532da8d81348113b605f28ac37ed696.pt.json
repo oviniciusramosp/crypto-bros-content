@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "id": "3532da8d81348113b605f28ac37ed696",
+  "locale": "pt",
+  "slug": "analise-30-abril",
+  "date": "2026-05-01T00:52:00.000Z",
+  "updated": "2026-05-01T16:20:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/7e9728ef33e21093.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/53a116e569ae61ed.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 30 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$76.560",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0,94%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$76.669",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$75.323",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Alta Tímida sob Risco"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin teve um dia morno. O volume de hoje veio acima da média recente, mas o quadro semanal segue preocupante. Desde 6 de fevereiro, a média de 20 dias do volume vem caindo enquanto o preço escalava até a região dos "
+        },
+        {
+          "text": "$79.000",
+          "bold": true
+        },
+        {
+          "text": ", um descompasso clássico entre alta e participação que costuma desenhar uma armadilha de compra."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O dia foi de apetite por risco: o S&P 500 avançou "
+        },
+        {
+          "text": "1,42%",
+          "bold": true
+        },
+        {
+          "text": " e a Nasdaq subiu "
+        },
+        {
+          "text": "1,86%",
+          "bold": true
+        },
+        {
+          "text": ". O dólar cedeu "
+        },
+        {
+          "text": "0,31%",
+          "bold": true
+        },
+        {
+          "text": " no DXY, e em condições assim o Bitcoin normalmente acompanharia as ações. Desta vez, a alta tímida ficou muito aquém, sinal de que o apetite por cripto segue contido após o FOMC de 29 de abril, que manteve os juros diante de uma inflação que ainda incomoda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista mapeado na semana passada se confirmou parcialmente, com fechamento abaixo do gatilho de "
+        },
+        {
+          "text": "$77.100",
+          "bold": true
+        },
+        {
+          "text": " em 28/04. O alvo primário na região dos "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": " ainda não foi tocado, mas o caminho segue aberto enquanto a resistência em "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " não cair. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-05-01;type:candle;candle:1d;ema:50w-green,100w-orange;line:73800|||green|0.5|dashed,80500|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se Romper $79.500"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o cenário otimista virar tese, o Bitcoin precisa fechar um candle diário acima de "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " com volume acima da média de 20 dias. Sem volume, o rompimento seria suspeito, dado o aviso sobre a perda de participação desde fevereiro. A confirmação abriria espaço para um movimento de busca pela EMA de 100 semanas, na casa dos "
+        },
+        {
+          "text": "$82.400",
+          "bold": true
+        },
+        {
+          "text": ", com extensão até a EMA de 50 semanas, na região dos "
+        },
+        {
+          "text": "$85.900",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O posicionamento dos derivativos favorece uma reversão rápida por liquidação de posições caso a resistência ceda. O long/short ratio em "
+        },
+        {
+          "text": "0,899",
+          "bold": true
+        },
+        {
+          "text": " mostra mais traders vendidos do que comprados, e o funding rate ligeiramente negativo confirma esse desequilíbrio. Combinado com o open interest elevado, qualquer surpresa positiva pode forçar o fechamento de muitas posições vendidas em sequência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No campo dos catalisadores, a Polymarket precifica que o Bitcoin alcança a faixa dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " antes da casa dos "
+        },
+        {
+          "text": "$60.000",
+          "bold": true
+        },
+        {
+          "text": ", leitura compatível com um reteste da EMA de 100 semanas. A continuidade do enfraquecimento do dólar abaixo de "
+        },
+        {
+          "text": "98",
+          "bold": true
+        },
+        {
+          "text": " no DXY e a retomada da correlação com a Nasdaq seriam os gatilhos macro que sustentariam o movimento."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Perder os $73.800"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista exige um fechamento diário abaixo de "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": ", suporte testado duas vezes em abril. A Polymarket reforça esse nível: o mercado aponta Bitcoin acima de "
+        },
+        {
+          "text": "$74.000",
+          "bold": true
+        },
+        {
+          "text": " em 06/05. A perda abriria caminho para o suporte psicológico em "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": ", com extensão até a EMA de 200 semanas, na região dos "
+        },
+        {
+          "text": "$68.500",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A EMA de 200 semanas não é o piso do ciclo, é o último grande amparo antes dele. Historicamente, fundos de ciclo se formam mais abaixo, na faixa entre "
+        },
+        {
+          "text": "$50.000",
+          "bold": true
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$60.000",
+          "bold": true
+        },
+        {
+          "text": ". Os catalisadores que poderiam acelerar uma queda nesse caminho são a manutenção do tom do FOMC em favor de juros altos por mais tempo, o retorno da força do DXY e a continuidade da divergência entre cripto e ações de risco."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A própria Polymarket reforça a cautela: poucas apostas dão conta de Bitcoin fechando acima de "
+        },
+        {
+          "text": "$78.000",
+          "bold": true
+        },
+        {
+          "text": " em 06/05. Isso sugere expectativa de movimento lateral entre "
+        },
+        {
+          "text": "$73.000",
+          "bold": true
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " nas próximas semanas. O que invalidaria o cenário pessimista é um fechamento diário acima de "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " com volume confirmando."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O que Acompanhar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Amanhã é "
+        },
+        {
+          "text": "1º de maio",
+          "bold": true
+        },
+        {
+          "text": ", Dia Internacional do Trabalho. Ao contrário do que pode parecer, o Labor Day americano só ocorre em setembro, então a NYSE e a Nasdaq abrem normalmente. O que muda é que bolsas de vários países europeus e o Brasil ficam fechadas, o que reduz a participação global e tende a deixar o livro de ofertas em cripto mais raso, favorecendo movimentos amplificados em qualquer direção rumo ao fim de semana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No painel técnico, os dois níveis a vigiar continuam sendo a resistência em "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " e o suporte em "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": ". Enquanto o preço variar entre os dois, o jogo é de paciência. Movimentos rápidos com pouco volume, em qualquer ponta, devem ser tratados com ceticismo até que um fechamento diário confirme a direção."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:2y;date:2026-05-01;type:line;ema:200w-blue,50w-green}}"
+        }
+      ]
+    }
+  ]
+}

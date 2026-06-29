@@ -1,0 +1,335 @@
+{
+  "schemaVersion": 1,
+  "id": "38a2da8d8134817fab08f26861bbdd1f",
+  "locale": "pt",
+  "slug": "bitcoin-renova-minima-do-ciclo-abaixo-de-60k",
+  "date": "2026-06-25T02:04:00.000Z",
+  "updated": "2026-06-25T02:24:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🔻"
+  },
+  "title": [
+    {
+      "text": "Bitcoin renova mínima do ciclo, abaixo de $60k"
+    }
+  ],
+  "excerpt": "O Bitcoin perdeu os $60.000 nesta quarta (24) e voltou para um nível que não víamos desde outubro de 2024. Foram cerca de 4,4% de queda em 24 horas, com o preço",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin "
+        },
+        {
+          "text": "perdeu os $60.000",
+          "color": "red"
+        },
+        {
+          "text": " nesta quarta (24) e voltou para um nível que não víamos desde outubro de 2024. Foram cerca de "
+        },
+        {
+          "text": "4,4%",
+          "bold": true
+        },
+        {
+          "text": " de queda em 24 horas, com o preço chegando à casa dos "
+        },
+        {
+          "text": "$59.200",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A correção não saiu barata. Mais de "
+        },
+        {
+          "text": "166 mil traders",
+          "bold": true
+        },
+        {
+          "text": " foram liquidados no último dia, somando mais de "
+        },
+        {
+          "text": "$845 milhões",
+          "bold": true
+        },
+        {
+          "text": " em posições zeradas. A maior parte, cerca de "
+        },
+        {
+          "text": "$780 milhões",
+          "bold": true
+        },
+        {
+          "text": ", era de "
+        },
+        {
+          "text": "compradores alavancados apostando na alta.",
+          "color": "red"
+        },
+        {
+          "text": " E o tombo foi geral: o Ethereum caiu "
+        },
+        {
+          "text": "5,4%",
+          "bold": true
+        },
+        {
+          "text": " rumo aos "
+        },
+        {
+          "text": "$1.500",
+          "bold": true
+        },
+        {
+          "text": ", enquanto Solana e XRP também fecharam no vermelho."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Está Por Trás da Queda"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A pressão maior veio de fora do mercado cripto. O novo presidente do Fed sinalizou uma política monetária mais apertada, e as projeções do banco central americano já apontam pelo menos uma alta de juros em 2026."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Juros mais altos derrubam o apetite por risco. O rendimento do título de 10 anos dos Estados Unidos, principal referência para ativos de risco, subiu para perto de "
+        },
+        {
+          "text": "4,5%",
+          "bold": true
+        },
+        {
+          "text": ", e isso historicamente joga contra o Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Some a isso a queda das grandes empresas de tecnologia. A "
+        },
+        {
+          "text": "Nasdaq",
+          "bold": true
+        },
+        {
+          "text": " recuou cerca de "
+        },
+        {
+          "text": "4%",
+          "bold": true
+        },
+        {
+          "text": " em cinco sessões, com investidores questionando os gastos pesados em inteligência artificial. Como o Bitcoin anda colado nesse setor, ele acompanhou a queda em vez de liderar uma virada."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Suporte Que Precisa Segurar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No gráfico diário, o Bitcoin devolveu quase toda a alta que vinha construindo desde o fundo do início de junho. Pelo caminho, perdeu níveis importantes de Fibonacci, traçados a partir da máxima de maio, lá na região dos $82.900, como a região dos $64.000, que analistas viam como a última grande defesa antes dos $60.000."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/9895a62d60abccb2.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Agora o preço está sentado bem em cima do suporte mais importante do gráfico: a faixa dos $59.000 aos $60.000, que coincide com o fundo do início de junho e a EMA de 250W. Foi daqui que os compradores reagiram no começo do mês e levaram o Bitcoin de volta acima dos $70.000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O incômodo é a estrutura. Desde a máxima de maio, cada tentativa de recuperação vem formando topos cada vez mais baixos, presa abaixo de uma linha de tendência de baixa. Enquanto isso não mudar, a vantagem segue com os vendedores."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que a Queda Pode Não Se Sustentar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mas existe um contrapeso importante a favor dos compradores. O mapa de liquidação da Binance mostra "
+        },
+        {
+          "text": "$1,17 bilhão",
+          "color": "green"
+        },
+        {
+          "text": " em posições vendidas acumuladas acima do preço atual, contra cerca de "
+        },
+        {
+          "text": "$649 milhões",
+          "bold": true
+        },
+        {
+          "text": " em compras alavancadas abaixo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse desequilíbrio é combustível. Se o preço reagir, esses vendidos podem ser obrigados a recomprar, gerando uma reversão rápida por liquidação de posições. Ajuda também o fato de o rompimento de baixa ter vindo com o volume de venda diminuindo, sinal de que a queda pode estar perdendo força."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Não é garantia de nada, é só um lado da balança. A tendência mais ampla continua de baixa, e tocar num suporte não quer dizer que ele vá segurar. Mas ignorar todo esse volume de vendidos posicionados contra o mercado também seria ingenuidade."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que vai decidir a direção não está no gráfico, está em Washington. Enquanto o Fed mantiver o tom de juros altos, o dinheiro institucional segue saindo: os ETFs de Bitcoin à vista tiveram cerca de "
+        },
+        {
+          "text": "$180 milhões",
+          "bold": true
+        },
+        {
+          "text": " em saídas líquidas só entre segunda e terça."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No mundo das empresas, a Strategy chegou a cair 11% no dia, e céticos do setor levantaram a hipótese de a companhia vender parte do seu Bitcoin para recomprar ações. Carteiras ligadas à BlackRock também moveram cerca de 2.700 BTC para a Coinbase, movimento que alguns associam a possíveis vendas, mas sem qualquer confirmação."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E fica o lembrete: a "
+        },
+        {
+          "text": "Polymarket",
+          "bold": true
+        },
+        {
+          "text": " segue precificando uma queda até os "
+        },
+        {
+          "text": "$55.000",
+          "color": "red"
+        },
+        {
+          "text": " ainda este ano. Por isso, não quero ninguém aqui surpreendido nem liquidado. Os "
+        },
+        {
+          "text": "$59.000",
+          "bold": true
+        },
+        {
+          "text": " são a linha que separa uma reação de um mergulho mais fundo. Vamos com calma, acompanhando cada passo e sem FOMO."
+        }
+      ]
+    }
+  ]
+}

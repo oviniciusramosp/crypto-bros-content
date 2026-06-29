@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "32f2da8d81348119b272f5e092b7042b",
+  "locale": "pt",
+  "slug": "btc-perde-70k-com-choque-geopolitico-e-alta-do-petroleo",
+  "date": "2026-03-26T11:00:00.000Z",
+  "updated": "2026-03-26T13:04:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e035521306882a31.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🪖"
+  },
+  "title": [
+    {
+      "text": "BTC Perde $70K com Choque Geopolítico e Alta do Petróleo"
+    }
+  ],
+  "excerpt": "O Bitcoin perdeu o suporte dos $70.000 nesta manhã após o Irã rejeitar uma proposta americana de paz, intensificando o conflito no Oriente Médio. A queda foi ac",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin perdeu o "
+        },
+        {
+          "text": "suporte dos $70.000 nesta manhã",
+          "bold": true,
+          "color": "gray"
+        },
+        {
+          "text": " após o Irã rejeitar uma proposta americana de paz, intensificando o conflito no Oriente Médio. A queda foi acompanhada de $193 milhões em liquidações e um spike no petróleo que ameaça travar os cortes de juros do Fed."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1m;date:now;type:line;line:70000|||silver|0.6|dotted||1.5;icon:2026-03-26|alert-circle|red|bottom}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A mídia estatal iraniana divulgou hoje cedo que autoridades do Irã rejeitaram uma proposta de 15 pontos dos EUA para encerrar o conflito no Oriente Médio. O Estreito de Ormuz permanece bloqueado pelo quarto dia seguido, interrompendo o fluxo de milhões de barris de petróleo. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O WTI avançou 3,3% para acima de $93 por barril e o Brent subiu 3,7% para mais de $106. O impacto se espalhou pelas bolsas asiáticas, e até o ouro cedeu 2,9%."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Petróleo mais caro significa inflação mais resistente, o que reduz as chances de o Federal Reserve cortar juros em 2026. Juros altos prolongados são negativos para ativos de risco, e cripto é um dos primeiros a sofrer nesse cenário. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O mercado registrou $193 milhões em liquidações de posições compradas nas últimas 24 horas: Bitcoin respondeu por $49 milhões e Ethereum por $76 milhões. Essas liquidações forçadas amplificam a queda. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fear & Greed Index despencou para 10 (Extreme Fear)."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se as tensões geopolíticas continuarem elevadas, o próximo suporte a observar é a faixa de $68.000 a $69.000. Uma resolução diplomática ou recuo no petróleo poderia abrir espaço para recuperação em direção aos $71.000. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fear & Greed em nível extremo historicamente sinaliza esgotamento vendedor de curto prazo, mas não garante reversão imediata sem que o cenário macro mude."
+        }
+      ]
+    }
+  ]
+}

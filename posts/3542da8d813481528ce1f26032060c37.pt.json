@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "id": "3542da8d813481528ce1f26032060c37",
+  "locale": "pt",
+  "slug": "analise-01-maio",
+  "date": "2026-05-02T00:54:00.000Z",
+  "updated": "2026-05-02T02:49:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/9033bd2f9028a506.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/53a116e569ae61ed.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 01 Maio"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$78.288",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+2,26%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$78.914",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$76.402",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bitcoin Volta à Resistência"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin subiu "
+        },
+        {
+          "text": "2,26%",
+          "bold": true
+        },
+        {
+          "text": " nesta sexta-feira e voltou a testar a região dos "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": ", a mesma resistência que vem rejeitando os preços desde 22 de abril. O movimento veio com volume claramente acima da média recente, sinal de que houve participação real na compra, não apenas inércia de fim de semana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O dia foi de apetite por risco em Wall Street. A Nasdaq subiu "
+        },
+        {
+          "text": "+1,12%",
+          "bold": true
+        },
+        {
+          "text": " e o S&P500 avançou "
+        },
+        {
+          "text": "+0,91%",
+          "bold": true
+        },
+        {
+          "text": ". Enquanto isso, o ouro recuou "
+        },
+        {
+          "text": "-1,07%",
+          "bold": true
+        },
+        {
+          "text": " e o dólar (DXY) cedeu "
+        },
+        {
+          "text": "-0,27%",
+          "bold": true
+        },
+        {
+          "text": ". Bitcoin andou no mesmo compasso das bolsas americanas, ampliando o movimento. A narrativa de retomada da expansão monetária nos Estados Unidos voltou ao radar nos últimos dias e ajudou a destravar a compra, mesmo sem nenhuma decisão concreta de política monetária."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por trás desse movimento existe um detalhe importante de posicionamento: nos futuros, "
+        },
+        {
+          "text": "63% dos contratos estão vendidos",
+          "bold": true
+        },
+        {
+          "text": ", contra apenas 37% comprados, com a taxa de financiamento levemente negativa. Esse é o tipo de configuração em que um rompimento técnico costuma ganhar combustível extra, porque obriga quem está vendido a recomprar para fechar a posição."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-05-02;type:line;ema:50w-green,100w-orange,200w-blue;line:80500|||red|0.5|dashed,73500|||green|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Quando a Resistência Vira Rampa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho otimista é simples e mecânico: um fechamento diário acima de "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " com volume acima da média. Esse é o teto que vem segurando o preço há mais de uma semana, e um rompimento confirmado abre espaço para a região da EMA de 100 semanas, na casa dos "
+        },
+        {
+          "text": "$82.400",
+          "bold": true
+        },
+        {
+          "text": ", e em seguida a EMA de 50 semanas, próxima dos "
+        },
+        {
+          "text": "$85.900",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores que podem destravar esse movimento estão fora do gráfico. Continuidade do apetite por risco em Wall Street, com a Nasdaq buscando novas máximas, é o vento de cauda mais provável. Um DXY perdendo o nível de "
+        },
+        {
+          "text": "98",
+          "bold": true
+        },
+        {
+          "text": " sinalizaria enfraquecimento estrutural do dólar, o que historicamente abre porta para Bitcoin. Por fim, qualquer confirmação de retomada da expansão monetária nos Estados Unidos seria combustível direto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O efeito secundário é a reversão rápida por liquidação de posições vendidas. Com quase dois shorts para cada long no mercado, um rompimento técnico costuma ser amplificado. Quem está vendido precisa recomprar para fechar a posição, e essa recompra forçada empurra o preço ainda mais para cima."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Chão que Não Pode Ceder"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho pessimista é a perda do suporte em "
+        },
+        {
+          "text": "$75.300",
+          "bold": true
+        },
+        {
+          "text": " em fechamento diário. Esse nível foi defendido em pelo menos três sessões nas últimas duas semanas, com o preço caindo bastante durante o dia mas sempre fechando mais alto. Um fechamento abaixo dele quebra essa estrutura de defesa e abre caminho para os "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": ", mínima de meados de abril que tem múltiplos toques."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se essa região também ceder, o próximo grande nível técnico é a EMA de 200 semanas, na casa dos "
+        },
+        {
+          "text": "$68.500",
+          "bold": true
+        },
+        {
+          "text": ". É importante entender que essa EMA não é o piso de ciclo, é o último grande suporte antes da zona onde os pisos históricos costumam se formar, geralmente abaixo dela."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores que poderiam empurrar o preço nessa direção são igualmente externos. Uma escalada nas tensões comerciais entre Estados Unidos e China, novos sinais de inflação persistente que adiem cortes de juros, ou simplesmente uma virada de humor nas bolsas americanas. O que invalida esse cenário é um fechamento diário acima de "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " com volume confirmado."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Fim de Semana Sem Redes de Segurança"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A partir de amanhã, sábado, as bolsas americanas estarão fechadas até segunda-feira. Esse é o tipo de janela em que o Bitcoin costuma sofrer movimentos bruscos com mais facilidade, porque a liquidez cai e qualquer ordem grande tem mais impacto no preço. Vale acompanhar de perto qualquer aproximação dos extremos da faixa entre "
+        },
+        {
+          "text": "$75.300",
+          "bold": true
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": ". Movimentos para fora dessa caixa em meio à liquidez baixa do fim de semana podem ser falsos rompimentos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que realmente importa é o que vai acontecer no fechamento diário. Enquanto o preço respeitar a faixa, o cenário segue lateral. A primeira pista forte sobre o rumo só deve aparecer com a abertura das bolsas na segunda-feira, quando o fluxo institucional volta e o mercado decide se o impulso de hoje vira tendência ou só mais um teste falho da resistência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-05-02;type:candle;candle:1d;ema:50w-green;line:79500|||red|0.5|dashed,75300|||green|0.5|dashed}}"
+        }
+      ]
+    }
+  ]
+}

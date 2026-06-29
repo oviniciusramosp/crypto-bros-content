@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "301a1f2369564fb1975144fdd633c99d",
+  "locale": "en",
+  "slug": "app-updates",
+  "date": "2026-03-04T04:56:00.000Z",
+  "updated": "2026-03-26T15:01:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "App Updates!"
+    }
+  ],
+  "excerpt": "While the market generates panic and opportunities… we're updating the app with some pretty cool new features. Check it out!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "While the market generates "
+        },
+        {
+          "text": "panic",
+          "bold": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "opportunities",
+          "bold": true
+        },
+        {
+          "text": "… we're updating the app with some pretty cool new features. Check it out!"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Inside the "
+        },
+        {
+          "text": "More",
+          "bold": true
+        },
+        {
+          "text": " screen, you'll find:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "[Updated Glossary](/glossario)"
+          }
+        ],
+        [
+          {
+            "text": "[Position Calculator](/pos-calc): Ideal for traders who need to manage risk and avoid surprises."
+          }
+        ],
+        [
+          {
+            "text": "[DCA Simulator](/dca-sim): An easy way to simulate what your average price and performance would be if you had started making recurring crypto investments. Great for comparing Bitcoin with alts! 👀"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/419d5b47b4ef1f9a.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In the "
+        },
+        {
+          "text": "Feed",
+          "bold": true
+        },
+        {
+          "text": " you can leave a "
+        },
+        {
+          "text": "like",
+          "bold": true
+        },
+        {
+          "text": " 🧡 and share the post link (for now, the shared link will be the app test link)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Inside the screens, you'll find glossary previews. Read a word you don't know the meaning of? Try clicking on it! You'll probably see the explanation without needing to leave where you are!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ea8ddb82e8acf097.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If you have an Apple Watch, you'll be able to track the prices of the assets we've selected, market indicators, and active trades."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The notification system is better, and the app's overall performance has also been improved."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In upcoming updates:"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Full-screen charts"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "App translated to English (WIP)"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "More complete coin history"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Candlestick charts with dynamic indicators"
+        }
+      ]
+    }
+  ]
+}

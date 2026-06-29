@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 1,
+  "id": "3282da8d813481b895d2c0c3528de3ef",
+  "locale": "pt",
+  "slug": "relatorio-18-mar",
+  "date": "2026-03-19T00:22:00.000Z",
+  "updated": "2026-03-25T02:38:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Relatório 18 MAR"
+    }
+  ],
+  "excerpt": "Nosso relatório feito pela IA do Crypto Bros:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nosso relatório feito pela IA do Crypto Bros:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": ":crypto-bitcoin:"
+        },
+        {
+          "text": " Bitcoin: "
+        },
+        {
+          "text": "$70.900",
+          "bold": true
+        },
+        {
+          "text": " -4,9% no dia",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Máxima: "
+        },
+        {
+          "text": "$74.672",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "  |  Mínima: "
+        },
+        {
+          "text": "$70.800",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Moveu o Mercado"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O evento central do dia foi a decisão do Federal Reserve (Fed), o banco central americano. Como esperado, o Fed "
+        },
+        {
+          "text": "manteve os juros",
+          "color": "yellow"
+        },
+        {
+          "text": " no patamar de 4,25% a 4,50%. O problema foi o tom da coletiva de imprensa de Jerome Powell, presidente do Fed."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Powell reconheceu que o conflito no Irã está fazendo os preços de energia subir, e isso vai aparecer na inflação americana. O Fed "
+        },
+        {
+          "text": "elevou sua projeção de inflação para 2026",
+          "bold": true
+        },
+        {
+          "text": " de 2,4% para 2,7% — e manteve a previsão de "
+        },
+        {
+          "text": "apenas 2 cortes de juros ao longo do ano",
+          "bold": true
+        },
+        {
+          "text": ". Em resumo: juros altos por mais tempo, sem perspectiva de alívio rápido. Powell rejeitou a comparação com estagflação, mas o mercado ouviu o suficiente para vender."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin replicou o padrão clássico de "
+        },
+        {
+          "text": "\"compra o rumor, vende o fato\"",
+          "italic": true
+        },
+        {
+          "text": ": subiu até $72.000 logo após o anúncio, mas a alta durou minutos. Vendedores assumiram o controle e o preço desabou, chegando a tocar "
+        },
+        {
+          "text": "$70.800",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " — a mínima do dia. BTC opera agora em torno de "
+        },
+        {
+          "text": "$70.900",
+          "bold": true
+        },
+        {
+          "text": ", com queda de 4,9% nas últimas 24h. ETH sofreu ainda mais: "
+        },
+        {
+          "text": "-6,5%",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", negociado a $2.198."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Um dado preocupante vem do lado da mineração: o hash rate do Bitcoin — o poder computacional dedicado à rede — caiu 8% em uma semana, chegando a 920 EH/s. A razão? O conflito no Irã encareciou a energia para mineradores naquela região, que respondem por 8 a 10% da mineração global. Com margens espremidas, esses mineradores estão vendendo Bitcoin para cobrir custos — ou até trocando os equipamentos para rodar serviços de inteligência artificial. A dificuldade de mineração deve cair entre 8 e 10% no próximo ajuste, a segunda maior queda dos últimos 5 anos. Historicamente, esse tipo de movimento sinaliza capitulação de mineradores e adiciona pressão de venda no curto prazo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Do lado positivo, a "
+        },
+        {
+          "text": "SEC",
+          "bold": true
+        },
+        {
+          "text": " aprovou a "
+        },
+        {
+          "text": "Nasdaq",
+          "bold": true
+        },
+        {
+          "text": " para negociar ações tokenizadas em blockchain — uma decisão histórica. O modelo é simples: as ações mantêm o mesmo ticker, mesmo código de identificação e mesmos direitos para o acionista, mas a liquidação (transferência de propriedade) acontece via blockchain. É um passo concreto para o movimento de tokenização de ativos reais (RWA) ganhar escala institucional."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Outros destaques do dia: a Polymarket, principal plataforma de apostas em eventos do mundo, comprou a Brahma, empresa de infraestrutura blockchain, expandindo sua capacidade de operar em múltiplas redes. A FTX confirmou que vai distribuir $2,2 bilhões aos credores até o fim de março — uma injeção potencial de liquidez que pode movimentar o mercado. A Hyperliquid lançou o S&P 500 como contrato perpétuo disponível 24 horas por dia, 7 dias por semana, expandindo sua proposta para além do universo crypto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário regulatório, a senadora "
+        },
+        {
+          "text": "Cynthia Lummis",
+          "bold": true
+        },
+        {
+          "text": " disse que o projeto de lei de estrutura de mercado crypto está \"praticamente pronto\" e deve sair do comitê em abril de 2026. A empresa "
+        },
+        {
+          "text": "American Bitcoin",
+          "bold": true
+        },
+        {
+          "text": ", ligada à família Trump, acumulou "
+        },
+        {
+          "text": "6.899 BTC",
+          "bold": true
+        },
+        {
+          "text": " e virou o 16º maior detentor corporativo de Bitcoin, superando a Galaxy Digital, do gestor Mike Novogratz."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por fim, a "
+        },
+        {
+          "text": "Kraken",
+          "bold": true
+        },
+        {
+          "text": " congelou seus planos de abrir capital na bolsa por \"condições adversas de mercado\" — um sinal de que o ambiente não está favorável para novos lançamentos. Toda a cesta CoinDesk 20 encerrou no vermelho: ARB -6,3%, LINK -5,5% e UNI -4,9%."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Análise Técnica"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O dia confirmou o cenário que o relatório matinal apontava como mais provável: pressão do Fed, queda do Bitcoin e teste dos suportes. A sequência de topos e fundos decrescentes no gráfico diário segue intacta: o Bitcoin abriu em $73.909, bateu máxima de $74.672 e fechou próximo das mínimas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O ponto construtivo do dia: o suporte de $70.500 foi testado duas vezes e segurou as duas. Isso cria um possível \"fundo duplo\" — mas sem confirmação de volume acima de $71.500, não é sinal de reversão. O sentimento está em Extreme Fear (23 em 100) e a dominância do Bitcoin continua subindo (56,43%), indicando que investidores estão saindo das altcoins e ficando no Bitcoin como porto seguro dentro do crypto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-19;type:line;line:70000|||red|0.2|||9,73909|||green|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Suportes: "
+          },
+          {
+            "text": "$70.500",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " (nível crítico, testado 2x hoje), "
+          },
+          {
+            "text": "$70.000",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " (psicológico) e "
+          },
+          {
+            "text": "$69.200",
+            "bold": true,
+            "color": "red"
+          }
+        ],
+        [
+          {
+            "text": "Resistências: "
+          },
+          {
+            "text": "$71.500",
+            "bold": true,
+            "color": "green"
+          },
+          {
+            "text": ", "
+          },
+          {
+            "text": "$72.000–$72.270",
+            "bold": true,
+            "color": "green"
+          },
+          {
+            "text": " (pivô principal — rejeitou o bounce pós-Fed) e "
+          },
+          {
+            "text": "$73.400–$73.909",
+            "bold": true,
+            "color": "green"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Amanhã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O foco fica no nível de "
+        },
+        {
+          "text": "$70.500",
+          "bold": true
+        },
+        {
+          "text": ". Se esse suporte ceder, o caminho natural é "
+        },
+        {
+          "text": "$69.200",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", com risco de teste de $67.000. Para uma recuperação se sustentar, o Bitcoin precisa reconquistar "
+        },
+        {
+          "text": "$72.270",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " com volume acima da média — só aí seria razoável considerar qualquer posição comprada."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Fique atento: o mercado americano às vezes reage à decisão do banco central com defasagem. A sexta-feira pode ter movimentos relevantes dependendo de como as grandes instituições ajustam suas posições. A mensagem é clara: preserve capital, evite alavancagem em posições compradas e aguarde confirmação antes de agir."
+        }
+      ]
+    }
+  ]
+}

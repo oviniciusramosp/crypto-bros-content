@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "3482da8d81348123afc0dd36412a1e6b",
+  "locale": "pt",
+  "slug": "bitcoin-ganha-10-mais-investidores-de-longo-prazo",
+  "date": "2026-04-20T12:09:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/3e629b2c3dee3e49.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/f75881fdbbaef780.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Ganha 10% Mais Investidores de Longo Prazo"
+    }
+  ],
+  "excerpt": "Enquanto o Bitcoin opera na casa dos $75.108 com queda de -0,69% nas últimas 24 horas, dados on-chain revelam um movimento contraintuitivo: o número de investid",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto o Bitcoin opera na casa dos "
+        },
+        {
+          "text": "$75.108",
+          "bold": true
+        },
+        {
+          "text": " com queda de "
+        },
+        {
+          "text": "-0,69%",
+          "color": "red"
+        },
+        {
+          "text": " nas últimas 24 horas, dados on-chain revelam um movimento contraintuitivo: o número de investidores de longo prazo cresceu "
+        },
+        {
+          "text": "10%",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " na última semana. Na contramão do sentimento de curto prazo, grandes instituições também ampliam sua presença no setor."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Acumulação Contra a Maré"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O crescimento dos detentores de longo prazo mostra que, para quem olha além da oscilação imediata, a faixa de preço atual é vista como "
+        },
+        {
+          "text": "oportunidade de entrada",
+          "bold": true
+        },
+        {
+          "text": ". É um sinal de confiança que contrasta com as vendas recentes no mercado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Na outra ponta, baleias se desfizeram de mais de 36 mil unidades de Bitcoin em menos de uma semana. A combinação sugere uma rotação: investidores de curto prazo vendem enquanto detentores de longo prazo absorvem a oferta disponível."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin encerrou o fim de semana com vendas, recuando de "
+        },
+        {
+          "text": "$77.072",
+          "bold": true
+        },
+        {
+          "text": " na sexta-feira para uma mínima de "
+        },
+        {
+          "text": "$73.724",
+          "bold": true
+        },
+        {
+          "text": " no domingo. Na manhã desta segunda-feira, o preço se recupera para os "
+        },
+        {
+          "text": "$75.108",
+          "bold": true
+        },
+        {
+          "text": ". A região dos "
+        },
+        {
+          "text": "$73.000",
+          "bold": true
+        },
+        {
+          "text": " segue como suporte relevante: se for perdida, o próximo alvo ficaria na faixa dos "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:30d;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com a abertura dos mercados americanos hoje, o comportamento das bolsas pode definir o tom do próximo movimento. Se a correlação com ativos de risco se mantiver, uma abertura positiva da Nasdaq tende a dar fôlego adicional ao Bitcoin."
+        }
+      ]
+    }
+  ]
+}

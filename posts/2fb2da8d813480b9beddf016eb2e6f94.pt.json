@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "2fb2da8d813480b9beddf016eb2e6f94",
+  "locale": "pt",
+  "slug": "gap-da-cme",
+  "date": "2026-02-02T20:02:00.000Z",
+  "updated": "2026-04-02T01:08:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📈"
+  },
+  "title": [
+    {
+      "text": "Gap da CME"
+    }
+  ],
+  "excerpt": "Abrimos a semana com um ótimo gap na CME.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Abrimos a semana com um ótimo "
+        },
+        {
+          "text": "gap na CME",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Apesar do momento de Medo Extremo, temos um ímã atraindo o preço do Bitcoin para casa dos $81,000 a $84,500 novamente!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/57bcc9ba228b82e8.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "3062da8d813480d9a4a9f510fad43063",
+  "locale": "pt",
+  "slug": "enquanto-o-bitcoin-nao-sai-do-lugar-estude",
+  "date": "2026-02-13T20:56:00.000Z",
+  "updated": "2026-03-03T04:21:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📚"
+  },
+  "title": [
+    {
+      "text": "Enquanto o Bitcoin não sai do lugar… estude!"
+    }
+  ],
+  "excerpt": "É isso mesmo. Não temos muito o que avaliar no momento sobre o Bitcoin, porém o mercado cripto vai muito além de comprar criptomoedas e esperar ficar rico do di",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É isso mesmo. Não temos muito o que avaliar no momento sobre o Bitcoin, porém o mercado cripto vai muito além de comprar criptomoedas e esperar ficar rico do dia para noite."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nesses momentos em que nada acontece, costumam ser "
+        },
+        {
+          "text": "excelente oportunidades de parar e estudar",
+          "bold": true
+        },
+        {
+          "text": " um pouco, identificando outras tendências e aprendendo mais."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por isso, ontem saiu aqui uma nova aula no módulo de DeFi! A Aula sobre "
+        },
+        {
+          "text": "Mercados Preditivos",
+          "href": "https://app.notion.com/p/2732da8d8134803bbf29f658cdec5589"
+        },
+        {
+          "text": "! Uma das grandes tendências de 2026 e que pode te ajudar a entender movimentos e notícias do mundo!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/12ab3eb183040eaa.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

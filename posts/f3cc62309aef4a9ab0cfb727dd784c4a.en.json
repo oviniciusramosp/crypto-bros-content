@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "f3cc62309aef4a9ab0cfb727dd784c4a",
+  "locale": "en",
+  "slug": "welcome",
+  "date": "2026-01-27T03:00:00.000Z",
+  "updated": "2026-03-26T15:01:00.000Z",
+  "categories": [
+    "Mercado",
+    "ATH"
+  ],
+  "tags": [],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Welcome!"
+    }
+  ],
+  "excerpt": "You are one of our first test users and I am SO happy to have you here!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "You are one of our first test users and I am SO happy to have you here!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Feedback will be extremely welcome and necessary for the app to reach its final version."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We'll have some fun surprises coming up for everyone who helps us test the beta version! 😉"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Thank you so much from the start! 🧡"
+        }
+      ]
+    }
+  ]
+}

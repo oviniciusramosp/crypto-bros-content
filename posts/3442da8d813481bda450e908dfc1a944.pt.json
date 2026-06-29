@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "3442da8d813481bda450e908dfc1a944",
+  "locale": "pt",
+  "slug": "dot-sobe-10-e-baleias-acumulam-link",
+  "date": "2026-04-16T14:40:00.000Z",
+  "updated": "2026-04-16T17:08:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Altcoins",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/c048ecd8b428fa57.png",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "DOT Sobe 10% e Baleias Acumulam LINK"
+    }
+  ],
+  "excerpt": "Polkadot registrou alta de mais de ~10% nesta quarta-feira, liderando os ganhos entre as altcoins . Enquanto isso, baleias de Chainlink voltaram a acumular toke",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Polkadot registrou alta de mais de ~10% nesta quarta-feira, liderando os ganhos entre as altcoins . Enquanto isso, baleias de Chainlink voltaram a acumular tokens e o Bitcoin opera próximo dos ~$73.900, com clusters de liquidação se formando em faixas importantes."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Movimentos fortes em altcoins durante períodos de medo extremo costumam indicar rotação de capital entre setores do mercado cripto. Investidores podem estar buscando oportunidades em ativos com menor capitalização enquanto o Bitcoin se mantém em uma faixa estreita."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As taxas de funding negativas no Bitcoin, que atingiram ~-0,007% ontem, mostram que o "
+        },
+        {
+          "text": "mercado de derivativos segue posicionado para queda",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". O open interest subiu para ~$7,4 bilhões, mas recuou nas últimas horas, sugerindo fechamento de posições alavancadas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para as altcoins, o comportamento de acúmulo por baleias em Chainlink e a alta da Polkadot merecem atenção nos próximos dias. Se o sentimento do mercado melhorar, esses ativos podem liderar a recuperação."
+        }
+      ]
+    }
+  ]
+}

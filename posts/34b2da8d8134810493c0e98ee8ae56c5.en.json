@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "id": "34b2da8d8134810493c0e98ee8ae56c5",
+  "locale": "en",
+  "slug": "analysis-april-22",
+  "date": "2026-04-23T01:23:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/35d777fadadeddb6.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b125c1e7418a75ef.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis April 22"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed at "
+        },
+        {
+          "text": "$78,450",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+2.84%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$79,472",
+          "color": "green"
+        },
+        {
+          "text": " • Low: "
+        },
+        {
+          "text": "$76,132",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Global Relief, Bitcoin Rallies"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin rose nearly 3% on Wednesday, renewing Friday's high ("
+        },
+        {
+          "text": "$78,360",
+          "bold": true
+        },
+        {
+          "text": ") and reaching "
+        },
+        {
+          "text": "$79,472",
+          "bold": true
+        },
+        {
+          "text": " at the day's peak. Volume came in above the seven-day average, showing genuine participation in the upward move."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The catalyst was Trump's announcement of an expanded ceasefire between the US and Iran, which triggered risk appetite across global markets. The Nasdaq gained 2.67% and the S&P 500 advanced 1.64%. Gold fell 2.35% and silver dropped 5.43%, confirming capital rotation out of safe-haven assets into risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The $73,000 support held firm across four recent tests, and the geopolitical narrative supported the rally. "
+        },
+        {
+          "text": "The price is now approaching a key barrier in the $80,000 range.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-23;type:candle;candle:1d;ema:50w-green;line:73000|2026-04-02||green|0.5|dashed, 80000|2026-04-07||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Beyond $80,000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bullish scenario confirms if Bitcoin breaks "
+        },
+        {
+          "text": "$80,000",
+          "bold": true
+        },
+        {
+          "text": " with sustained volume and closes the day above that level. Today's high came within less than 1% of that barrier, and buying activity picked up alongside geopolitical optimism."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The catalysts supporting this possibility are the continuation of US-Iran diplomatic relief, positive institutional flows (Strategy continues buying aggressively), and the derivatives setup. The long-to-short ratio in futures stands at 0.51, meaning for every long position there are nearly two shorts, creating conditions for a rapid short squeeze."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If confirmed, "
+        },
+        {
+          "text": "the first target is the $82,000 range",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ". The secondary target sits near "
+        },
+        {
+          "text": "$85,000",
+          "bold": true
+        },
+        {
+          "text": ", in the 100-week EMA zone."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If Optimism Cools"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish scenario activates if Bitcoin is rejected in the $80,000 range and loses support at "
+        },
+        {
+          "text": "$76,000",
+          "bold": true
+        },
+        {
+          "text": ", which corresponds to Wednesday's low. A rejection at that level would bring the price back toward consolidated support."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The first downside target would be "
+        },
+        {
+          "text": "$73,000",
+          "bold": true
+        },
+        {
+          "text": ", the consolidated support. If that level is lost, the next relevant floor sits in the "
+        },
+        {
+          "text": "$70,000",
+          "bold": true
+        },
+        {
+          "text": " range. A daily close above $80,000 would invalidate this scenario."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Risks include a reversal of the diplomatic backdrop with renewed US-Iran tensions and negative surprises in US economic data. There is also on-chain fragility reported in the $78,000–$73,000 range, where buyer support is thin."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Thursday Radar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The key level to watch over the next few hours is the "
+        },
+        {
+          "text": "$80,000",
+          "bold": true
+        },
+        {
+          "text": " barrier. A breakout with strong volume could trigger a liquidation cascade of short positions and accelerate the rally. A rejection could open the door to position closing after a five-day sequence of higher lows."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Market sentiment improved rapidly, with Fear & Greed jumping to 46, still in fear territory. US markets operate normally tomorrow, and the continuation of the move will depend on how price reacts in that range."
+        }
+      ]
+    }
+  ]
+}

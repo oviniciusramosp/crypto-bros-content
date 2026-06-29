@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "34a2da8d8134816db257e866ed3e9852",
+  "locale": "pt",
+  "slug": "bitcoin-se-aproxima-dos-80000-com-cessar-fogo-ampliado-no-golfo",
+  "date": "2026-04-22T16:47:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b9156e7b2516a1be.png",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/896582e72e238e92.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Se Aproxima dos $80.000 com Cessar-Fogo Ampliado no Golfo"
+    }
+  ],
+  "excerpt": "O Bitcoin avançou +4,00% nas últimas 24 horas e atingiu a máxima de $79.473. O gatilho foi a decisão de Donald Trump de ampliar o cessar-fogo com o Irã, alivian",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin avançou "
+        },
+        {
+          "text": "+4,00%",
+          "color": "green"
+        },
+        {
+          "text": " nas últimas 24 horas e atingiu a máxima de "
+        },
+        {
+          "text": "$79.473",
+          "bold": true
+        },
+        {
+          "text": ". O gatilho foi a decisão de Donald Trump de ampliar o cessar-fogo com o Irã, aliviando as tensões geopolíticas que vinham segurando o preço nos últimos dias."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Diplomacia Dita o Ritmo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A extensão do cessar-fogo retirou o principal fator de risco que pesava sobre os mercados. Como havíamos mapeado na cobertura de terça-feira, um sinal de reabertura de diálogo entre EUA e Irã poderia levar o Bitcoin na direção dos $77.000. O cenário se confirmou com folga: o preço superou esse nível e avançou até a região dos $79.000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O movimento marca o terceiro dia consecutivo de recuperação. Desde a mínima de "
+        },
+        {
+          "text": "$73.802",
+          "bold": true
+        },
+        {
+          "text": " no domingo, o Bitcoin acumulou um ganho de cerca de 7%. A amplitude da alta de hoje, que partiu de "
+        },
+        {
+          "text": "$74.822",
+          "bold": true
+        },
+        {
+          "text": ", reforça a disposição compradora. O volume alcançou "
+        },
+        {
+          "text": "$1,61 bilhão",
+          "bold": true
+        },
+        {
+          "text": " em 24 horas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:7d;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Institucional Reforça a Alta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Além do alívio geopolítico, o lado institucional segue aquecido. A Strategy acumulou nas últimas semanas o equivalente a 10 vezes o volume de todos os ETFs de Bitcoin em 2026. Nos bastidores, corretoras americanas se preparam para lançar contratos futuros perpétuos nos EUA, antecipando uma mudança regulatória que pode ampliar o acesso de investidores ao mercado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Futuros perpétuos são contratos que permitem apostar na direção do preço sem data de vencimento. Hoje restritos a plataformas offshore, sua chegada ao mercado americano representaria uma maturação regulatória relevante para o setor."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A barreira dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " é o próximo teste. Se a diplomacia entre EUA e Irã evoluir para negociações concretas, o alívio tende a sustentar o movimento. Qualquer retrocesso no cessar-fogo, por outro lado, pode devolver parte dos ganhos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ethereum subiu "
+        },
+        {
+          "text": "+3,20%",
+          "color": "green"
+        },
+        {
+          "text": " para "
+        },
+        {
+          "text": "$2.391",
+          "bold": true
+        },
+        {
+          "text": ". Solana avançou "
+        },
+        {
+          "text": "+2,15%",
+          "color": "green"
+        },
+        {
+          "text": ", acompanhando o tom positivo generalizado, mas o Bitcoin lidera a recuperação."
+        }
+      ]
+    }
+  ]
+}

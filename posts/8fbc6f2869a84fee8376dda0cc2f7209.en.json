@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "8fbc6f2869a84fee8376dda0cc2f7209",
+  "locale": "en",
+  "slug": "analysts-project-targets-up-to-93000",
+  "date": "2026-05-06T15:44:00.000Z",
+  "updated": "2026-05-07T02:11:00.000Z",
+  "categories": [
+    "Pulso"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🚀"
+  },
+  "title": [
+    {
+      "text": "Analysts Project Targets Up to $93,000"
+    }
+  ],
+  "excerpt": "Bitcoin is trading at $81,653 this Tuesday morning, down -1.05% over the past two hours. The short-term pullback contrasts with a series of analyses published t",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " is trading at "
+        },
+        {
+          "text": "$81,653",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " this Tuesday morning, down "
+        },
+        {
+          "text": "-1.05%",
+          "bold": true
+        },
+        {
+          "text": " over the past two hours. The short-term pullback contrasts with a series of analyses published today that project targets significantly above the current price."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The immediate technical reading points to weakness, but the material released by analysts and fund managers suggests a bullish underlying structure. It's this disconnect between price and narrative that makes this moment worth watching."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Three Targets"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The first reference comes from a technical reading: a moving average crossover suggests that "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " still has room to reach the "
+        },
+        {
+          "text": "$85,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " region in the short term, according to an analysis from "
+        },
+        {
+          "text": "crypto.news",
+          "href": "http://crypto.news/"
+        },
+        {
+          "text": " following the recent test of resistance at "
+        },
+        {
+          "text": "$82,000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The second comes from "
+        },
+        {
+          "text": "CryptoQuant",
+          "bold": true
+        },
+        {
+          "text": ", which points to the "
+        },
+        {
+          "text": "$93,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " region as the main upside target for the current cycle, based on on-chain flow and custody metrics."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The third is macro: "
+        },
+        {
+          "text": "Tom Lee",
+          "bold": true
+        },
+        {
+          "text": ", from "
+        },
+        {
+          "text": "Bitmine",
+          "bold": true
+        },
+        {
+          "text": ", declared that the \"crypto spring\" has officially begun, signaling a structural recovery phase that goes beyond "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " and extends to "
+        },
+        {
+          "text": "Ethereum",
+          "bold": true
+        },
+        {
+          "text": " and the altcoin ecosystem."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Structural Divergence"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The current picture shows two different timeframes playing out in parallel. In the short term, selling dominates and the price pulls back. In the medium term, three independent sources paint a bullish staircase: a breakout above "
+        },
+        {
+          "text": "$85,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", an advance to "
+        },
+        {
+          "text": "$93,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", and in the background, the thesis of a structurally positive season."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This type of divergence often marks accumulation zones. When the price pulls back but the outlook from analysts and institutional managers improves, the tendency is for either sentiment to adjust to price or price to adjust to sentiment — depending on which side gives in first."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The first reference point is "
+        },
+        {
+          "text": "Bitcoin's",
+          "bold": true
+        },
+        {
+          "text": " reaction if it retests the "
+        },
+        {
+          "text": "$80,000",
+          "bold": true
+        },
+        {
+          "text": " region. Buying at that level would reinforce the bullish staircase thesis. Selling that pushes the price below that level would invalidate the short-term scenario."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "At the same time, it's worth monitoring spot ETF flows and the on-chain data supporting "
+        },
+        {
+          "text": "CryptoQuant's",
+          "bold": true
+        },
+        {
+          "text": " projections. If institutional capital follows the narrative, the path to "
+        },
+        {
+          "text": "$93,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " gains traction."
+        }
+      ]
+    }
+  ]
+}

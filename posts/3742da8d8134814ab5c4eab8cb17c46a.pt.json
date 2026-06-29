@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "3742da8d8134814ab5c4eab8cb17c46a",
+  "locale": "pt",
+  "slug": "eua-avancam-reserva-de-bitcoin-e-regulacao-mais-perto-da-realidade",
+  "date": "2026-06-03T20:37:00.000Z",
+  "updated": "2026-06-05T20:07:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/bfa5e6aa01d0489f.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇺🇸"
+  },
+  "title": [
+    {
+      "text": "EUA Avançam: Reserva de Bitcoin e Regulação Mais Perto da Realidade"
+    }
+  ],
+  "excerpt": "O governo dos EUA deu sinais claros de que está acelerando a estruturação do mercado cripto. Com o Tesouro pressionando o Congresso e projetos de lei avançando,",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O governo dos EUA deu sinais claros de que está acelerando a estruturação do mercado cripto. Com o Tesouro pressionando o Congresso e projetos de lei avançando, o foco saiu da retórica e foi para a votação."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Reserva de Bitcoin Ganha Foro Legal"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Secretário do Tesouro, Scott Bessent, reafirmou em audiência no Senado que a "
+        },
+        {
+          "text": "Reserva Estratégica de Bitcoin dos EUA",
+          "color": "green"
+        },
+        {
+          "text": " segue em vigor. Ele classificou a iniciativa como uma questão de segurança nacional e econômica, afirmando que o país está se movendo com \"velocidade deliberada\" para consolidar o projeto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Atualmente, a reserva mantém cerca de 328.000 BTC (aproximadamente $25 bilhões), oriundos de apreensões criminais. A regra atual é simples: o governo não pode vender essas moedas. No entanto, falta ao poder Executivo a autoridade legal para comprar mais Bitcoin com dinheiro público, o que é o ponto central da disputa atual."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A saída apontada por Bessent é legislativa. Ele apoiou publicamente a need de uma lei que dê base permanente ao programa, permitindo que o Tesouro adquira novos ativos sem depender apenas de apreensões. Isso coloca o peso do governo federal atrás da busca por uma estrutura que sobreviva a mudanças de administração."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Projeto de Lei: Duas Vias para a Acumulação"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A batalha agora está no Congresso, onde dois projetos tentam resolver o problema das compras. A senadora Cynthia Lummis lidera a BITCOIN Act, a proposta mais agressiva, que autorizaria o Tesouro a comprar 200.000 BTC por ano durante cinco anos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se aprovada, essa lei transformaria os EUA no primeiro país soberano a acumular Bitcoin ativamente, e não apenas a guardá-lo. O objetivo é chegar a 1 milhão de bitcoins mantidos por pelo menos 20 anos. Já na Câmara, o deputado Nick Begich propõe uma versão alternativa (ARMA), queremoveu a meta de 1 milhão de moedas, mas foca em garantir o bloqueio dos ativos por longo prazo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O calendário aponta para julho. É nessa data que se completa um ano desde que a Casa Branca lançou o \"blueprint\" (plano) da reserva. A expectativa do mercado é de que o Congresso aprove uma das leis até o final do verão, saindo do papel para a operação de compra a partir do quarto trimestre de 2026."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "CLARITY Act: O Próximo Passo Regulatório"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto a reserva avança, o arcabouço legal do mercado também se move. A CLARITY Act, que define regras claras para ativos digitais e divide a jurisdição entre SEC e CFTC, saiu da comissão e foi para o calendário legislativo do Senado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O projeto já tem data marcada para debate e votação em plenário, embora exija 60 votos para aprovação. Ele é visto como crucial para resolver a briga burocrática sobre qual órgão regula o quê no cripto, dando segurança jurídica para empresas e bancos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A aprovação dessa lei é o que Bessent chamou de prioridade para este verão, alinhando a regulação com a nova política de reservas. Juntas, a BITCOIN Act e a CLARITY Act formam a base legal que o setor vinha cobrando há anos."
+        }
+      ]
+    }
+  ]
+}

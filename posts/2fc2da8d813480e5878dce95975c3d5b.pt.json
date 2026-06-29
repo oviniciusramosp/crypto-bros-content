@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "2fc2da8d813480e5878dce95975c3d5b",
+  "locale": "pt",
+  "slug": "o-fundo-do-bear-market",
+  "date": "2026-02-03T19:32:00.000Z",
+  "updated": "2026-03-02T18:50:00.000Z",
+  "categories": [
+    "Mercado",
+    "Video"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🐻"
+  },
+  "title": [
+    {
+      "text": "O Fundo do Bear Market"
+    }
+  ],
+  "excerpt": "A análise desse vídeo é muito parecida com a que estamos fazendo e estamos alinhados.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/watch?v=yovhesEHl3U"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A análise desse vídeo é muito parecida com a que estamos fazendo e estamos alinhados."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Recomendo fortemente assistir para se preparar para os "
+        },
+        {
+          "text": "piores cenários",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "3682da8d81348179ae2dfede6378829e",
+  "locale": "en",
+  "slug": "bitcoin-pizza-day-16-years-of-the-most-expensive-transaction-in-history",
+  "date": "2026-05-22T22:15:00.000Z",
+  "updated": "2026-05-23T02:16:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/84aabacc4724e1ba.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/84aabacc4724e1ba.jpg",
+  "icon": {
+    "emoji": "🍕"
+  },
+  "title": [
+    {
+      "text": "Bitcoin Pizza Day: 16 Years of the Most Expensive Transaction in History"
+    }
+  ],
+  "excerpt": "Today, May 22, marks 16 years since Laszlo Hanyecz posted on the BitcoinTalk forum offering 10,000 Bitcoin for two pizzas. It was 2010, Bitcoin had no exchange ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "$41",
+          "bold": true
+        },
+        {
+          "text": " Pizza That Became a Legend"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Today, May 22, marks 16 years since Laszlo Hanyecz posted on the BitcoinTalk forum offering "
+        },
+        {
+          "text": "10,000 Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " for two pizzas. It was 2010, Bitcoin had no exchange listing, and the coin existed more as an experiment among programmers than as actual money. Jeremy Sturdivant took the deal, ordered two Papa John's pizzas for "
+        },
+        {
+          "text": "$41",
+          "bold": true
+        },
+        {
+          "text": ", and pocketed the 10,000 Bitcoin from the other side of the screen."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It was the first real commercial transaction with Bitcoin. Before it, no one had traded the coin for a good or service in the physical world. After it, the proof was there: you could actually do it."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "With Bitcoin in the "
+        },
+        {
+          "text": "$77,600",
+          "bold": true
+        },
+        {
+          "text": " range today, those two pizzas would be worth somewhere close to "
+        },
+        {
+          "text": "$776 million",
+          "bold": true
+        },
+        {
+          "text": ". It became the most expensive meal ever recorded, and the number tends to shock anyone new to the market trying to grasp what it means to hold an asset for a decade and a half."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why Laszlo Has No Regrets"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The question every beginner asks is the same: how does he sleep at night? Laszlo's own answer, repeated in interviews over the years, is that the transaction was the whole point. He wanted to prove Bitcoin could be used as money, and the only way to prove it was to spend it."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If no one had agreed to trade Bitcoin for something concrete in that moment, the coin would have remained a curious cryptographic experiment. Laszlo's pizza opened the door to everything else, the first exchanges, the first merchants, the thesis that this thing might one day be real money."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Put another way, Bitcoin's value was never in those two pizzas. It was in the proof that the transaction was possible. Without Laszlo spending, maybe the asset you hold today wouldn't even exist at the price it has."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Pizza Day Says About the Current Moment"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin is trading in a correction today, a natural move inside the broader macro bull cycle. Anyone looking at the short-term chart sees the volatility. Anyone looking at the 16-year chart sees a curve that starts at zero, runs through Laszlo's pizzas, and lands here."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The lesson Bitcoin Pizza Day leaves for anyone just starting out isn't about regret, it's about time scale. The guy who spent 10,000 coins in 2010 had no way of knowing where it was going, and no one today knows where it lands another 16 years from now. What you can do is understand what you're holding and why."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enjoy the day. Eat a pizza, remember Laszlo, and look at your portfolio with the patience this market demands. The road is long, and the cycle goes on."
+        }
+      ]
+    }
+  ]
+}

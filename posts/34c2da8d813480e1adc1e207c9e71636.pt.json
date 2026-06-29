@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "34c2da8d813480e1adc1e207c9e71636",
+  "locale": "pt",
+  "slug": "podcast-crypto-never-sleeps",
+  "date": "2026-04-24T13:07:00.000Z",
+  "updated": "2026-04-24T13:12:00.000Z",
+  "categories": [
+    "Video",
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0a718e325eef0f4c.png",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🌎"
+  },
+  "title": [
+    {
+      "text": "Podcast Crypto Never Sleeps"
+    }
+  ],
+  "excerpt": "Um podcast necessário, que vale cada minuto!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://www.youtube.com/watch?v=v_Sfgcy3Tvo"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Um podcast necessário, que vale cada minuto!"
+        }
+      ]
+    }
+  ]
+}

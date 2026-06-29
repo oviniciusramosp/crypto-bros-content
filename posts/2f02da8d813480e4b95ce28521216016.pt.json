@@ -1,0 +1,301 @@
+{
+  "schemaVersion": 1,
+  "id": "2f02da8d813480e4b95ce28521216016",
+  "locale": "pt",
+  "slug": "analise-sol-eth-e-xrp",
+  "date": "2026-01-22T20:47:00.000Z",
+  "updated": "2026-03-02T18:51:00.000Z",
+  "categories": [
+    "Altcoins",
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "SOL",
+      "color": "blue"
+    },
+    {
+      "name": "ETH",
+      "color": "purple"
+    },
+    {
+      "name": "XRP",
+      "color": "gray"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Altcoins",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a58fa5a6c5b99e1d.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Análise SOL, ETH e XRP"
+    }
+  ],
+  "excerpt": "Mapeamos as zonas de liquidação dessas 3 altcoins pra identificar regiões importantes no preço.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mapeamos as zonas de liquidação dessas 3 altcoins pra identificar regiões importantes no preço."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-eth3:"
+        },
+        {
+          "text": " ETH"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Maior "
+        },
+        {
+          "text": "zona de liquidação",
+          "bold": true
+        },
+        {
+          "text": " acima do preço é no ATH da moeda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Abaixo há acúmulos de liquidação em $2895 e em $2369."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/7badbf9196cada67.jpg",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "⏳ Assimetria é favorável para "
+        },
+        {
+          "text": "Long",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " mas "
+        },
+        {
+          "text": "poucos alvos imediatos",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "⏳ Maior "
+        },
+        {
+          "text": "probabilidade",
+          "bold": true
+        },
+        {
+          "text": " de buscar a liquidez nas faixas mais baixas, acumulando zonas de liquidação em cima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Recomendação é de "
+        },
+        {
+          "text": "aguardar",
+          "bold": true
+        },
+        {
+          "text": " para aqueles que não tiverem entrado ainda."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-sol2:"
+        },
+        {
+          "text": " SOL"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/d649443efd7c8293.jpg",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Maior "
+        },
+        {
+          "text": "zona de liquidação",
+          "bold": true
+        },
+        {
+          "text": " em $194 e em $179. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Abaixo do preço temos a região de $132 como "
+        },
+        {
+          "text": "região de interesse (grandes chances de buscar)",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Acumulo maior de liquidez acima do preço aumenta as chances de subir depois."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "✅ Assimetria favorável para "
+        },
+        {
+          "text": "Long",
+          "bold": true
+        },
+        {
+          "text": " com alvos claros."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "✅ Liquidez quase inexistente abaixo de $116."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": ":crypto-xrp:"
+        },
+        {
+          "text": " XRP"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/d21563a7b33031e3.jpg",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "⏳ Maior "
+        },
+        {
+          "text": "probabilidade",
+          "bold": true
+        },
+        {
+          "text": " de buscar abaixo de $2.00 antes de subir até $2.44."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "✅ Assimetria favorável para "
+        },
+        {
+          "text": "Long",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "✅ Liquidez quase inexistente abaixo de $1.75."
+        }
+      ]
+    }
+  ]
+}

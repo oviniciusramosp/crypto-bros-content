@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "3482da8d813481a6b17bd5a076bb3ce5",
+  "locale": "en",
+  "slug": "strategy-makes-its-largest-bitcoin-purchase-since-2024",
+  "date": "2026-04-20T20:16:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/c81f24662e24d0fd.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Strategy Makes Its Largest Bitcoin Purchase Since 2024"
+    }
+  ],
+  "excerpt": "Strategy, Michael Saylor's company, announced on Monday its largest Bitcoin acquisition since 2024. The purchase comes at a moment of recovery: the asset touche",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Strategy, Michael Saylor's company, announced on Monday its largest Bitcoin acquisition since 2024. The purchase comes at a moment of recovery: the asset touched $73,724 over the weekend before bouncing back. On Monday, Bitcoin is trading at "
+        },
+        {
+          "text": "$76,327",
+          "bold": true
+        },
+        {
+          "text": ", up "
+        },
+        {
+          "text": "+1.94%",
+          "color": "green"
+        },
+        {
+          "text": " over the past 24 hours."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Purchase Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Strategy is the world's largest corporate holder of Bitcoin. The company has been accumulating the asset since 2020, and its large-scale purchases are closely watched as a gauge of institutional appetite. This is the company's largest operation in over two years."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The timing of the acquisition is just as relevant as the volume. Buying during a downturn — with the price below $77,000 and retail sentiment in fear territory — reinforces the thesis that large investors treat the correction as an accumulation opportunity."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Institutional accumulation extends beyond Strategy. Last week, crypto ETFs recorded "
+        },
+        {
+          "text": "$1.37 billion",
+          "bold": true
+        },
+        {
+          "text": " in inflows, the largest weekly inflow since January. The contrast between institutional flow and retail fear is one of the most closely watched signals by analysts this cycle."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Stock Tokenization Takes Shape"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On another front, Coinbase and Bybit are working together on the tokenization, custody, and distribution of U.S. stocks via blockchain. The partnership connects traditional markets to crypto infrastructure and could expand the user base of both platforms."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The convergence between traditional finance and crypto has advanced consistently in 2026. Each new project along these lines lowers the barrier to entry for investors who have yet to engage with digital assets."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Support in the $73,000 range was tested over the weekend and held intact. Volume over the past 24 hours came in at "
+        },
+        {
+          "text": "$1.20 billion",
+          "bold": true
+        },
+        {
+          "text": ", with active buyers in Monday's recovery."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the pace of ETF inflows continues, the $77,000 range is the next target. A break below $73,000, on the other hand, would open the door to the $70,000 area."
+        }
+      ]
+    }
+  ]
+}

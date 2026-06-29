@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "id": "36b2da8d813481b88393d71095b8a996",
+  "locale": "en",
+  "slug": "weekly-analysis",
+  "date": "2026-05-25T02:45:00.000Z",
+  "updated": "2026-06-01T17:06:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/f9f24d74b7ee97df.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/75e0f7b9176e6a8f.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Weekly Analysis"
+    }
+  ],
+  "excerpt": "We're kicking off a series of weekly analyses here, consolidating the events and moves of the last few days into a more straight-to-the-point post.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We're kicking off a series of weekly analyses here, consolidating the events and moves of the last few days into a more straight-to-the-point post."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed the week down, but with a very interesting move that we'll break down below:"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The 100-Week EMA"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This past week marked the first rejection at the 100-week EMA. For those who have been following us for a while, you know we had already talked about this retest of the 100W EMA ever since it was lost in January."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/722028f7c867f863.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Whenever an EMA like this is lost, it has a strong tendency to act as resistance, and that's exactly what happened."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This region also lines up with a price zone that showed buying volume in November of last year, and heavy selling volume at the start of this year."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/db90261fce32d53b.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Weekly Low"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The interesting part of the weekly move was the bottom formation at $74k: first, it happened over the weekend, liquidating some of the players and creating a strong expectation of a breakout above the EMA."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The reason for the drop is very simple: rumors involving the U.S. deal with Iran. A rumor of a new American strike was enough to spark panic. But that sentiment didn't last long: Trump spoke about the deal and price quickly reclaimed $77k."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/dd912bb286d3b84e.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "With that, the bottom formation became very interesting, representing a liquidity sweep below the April low."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/207d3f2d94e43c1c.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Now?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This is "
+        },
+        {
+          "text": "still a Bear Market",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " and both the 100W and 50W EMAs act as resistance. In other words, the odds still favor difficulty in reclaiming $85k and $90k."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The market read, via Polymarket, agrees with this: the majority of bets are on BTC targeting $70k before $90k."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "However, pessimism isn't taking over: we have the 200W EMA as imminent support and, week by week, we're advancing in the cycle and reducing the odds of a major leg down."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The cycle bottom range currently sits between ~$60k and $44k, but both values keep rising. "
+        },
+        {
+          "text": "The chance that the bottom was already made on February 6 is also rising",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "With that, for anyone who isn't positioned in the market, "
+        },
+        {
+          "text": "starting to scale into positions from the current price down to the $40k range is an excellent idea",
+          "bold": true
+        },
+        {
+          "text": ". We don't know how far it will fall or if it will fall further, so "
+        },
+        {
+          "text": "don't try to catch the bottom.",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    }
+  ]
+}

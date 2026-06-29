@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "8d48cc4f36d54f79ae953ba31c7c39be",
+  "locale": "en",
+  "slug": "bitcoin-tests-100w-ema",
+  "date": "2026-05-06T13:11:00.000Z",
+  "updated": "2026-05-06T14:34:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Tests 100W EMA"
+    }
+  ],
+  "excerpt": "Bitcoin just touched the 100-week EMA, one of the most respected moving averages the market uses to gauge the cycle's pulse. It's no exaggeration to say that wh",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin just touched the "
+        },
+        {
+          "text": "100-week EMA",
+          "bold": true
+        },
+        {
+          "text": ", one of the most respected moving averages the market uses to gauge the cycle's pulse. It's no exaggeration to say that what happens over the next few weeks around this level could determine whether we're still in a bull market or if the cycle has already started to turn."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This EMA Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Both the 100-week EMA and the 50-week EMA are critical points in Bitcoin's cycle, as they tend to represent support or resistance zones. That's exactly why we pay close attention to them: a breakout above this moving average could make the market far more bullish, while a failure at this breakout attempt could send the market looking back down."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We're right at that test now."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bullish Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " holds at the 100-week EMA and begins to rally with increasing volume, the next natural target is the "
+        },
+        {
+          "text": "50-week EMA",
+          "color": "green"
+        },
+        {
+          "text": ". A breakout above that moving average, with sustained weekly closes above it, would signal the return of a bullish environment."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In this scenario, we'd expect to see some classic technical signals: rising volume on up moves, shallow pullbacks being bought up quickly, and the weekly RSI climbing back up without losing the midline. The combination of these factors usually marks the transition from an accumulation phase to an advance phase."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bearish Scenario"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The reading flips if the reaction at the 100-week EMA fails. A confirmed loss of this zone, with weekly closes below it, opens the door for a return to the "
+        },
+        {
+          "text": "200-week EMA",
+          "color": "red"
+        },
+        {
+          "text": ", which historically is the last line of support before the cycle bottom."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This kind of move isn't uncommon in past cycles. The 200-week moving average has served as the floor during structural corrections and would act, in the current framework, as the point where the market tends to test buyers' patience before a new accumulation phase."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The first reference point is the weekly close relative to the 100-week EMA. A clear close above reinforces the bullish scenario, while a close below validates the bearish one."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It's important to note that even if it closes above, we'd need a few more weeks to confirm it's not a trap or a false breakout. Since we're talking about a weekly analysis, validation could take one to two months."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Secondly, it's worth monitoring the volume on reactions and the behavior of the DXY index, U.S. interest rates, and global liquidity. When all three of these factors point in the same direction as "
+        },
+        {
+          "text": "Bitcoin's",
+          "bold": true
+        },
+        {
+          "text": " technical movement, the probability of the scenario playing out increases significantly."
+        }
+      ]
+    }
+  ]
+}

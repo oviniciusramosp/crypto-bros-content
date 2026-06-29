@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "2f42da8d813480eea9e2e8f50f0f587d",
+  "locale": "pt",
+  "slug": "bem-vindos",
+  "date": "2026-01-27T03:00:00.000Z",
+  "updated": "2026-02-05T19:34:00.000Z",
+  "categories": [
+    "Mercado",
+    "ATH"
+  ],
+  "tags": [],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bem-Vindos!"
+    }
+  ],
+  "excerpt": "Você é um dos nossos primeiros usuários de teste e eu estou MUITO feliz em ter você aqui!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Você é um dos nossos primeiros usuários de teste e eu estou MUITO feliz em ter você aqui!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Feedbacks serão extremamente bem-vindos e necessários para que o app chegue na sua versão final. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Teremos algumas surpresinhas mais à frente para todos que nos ajudarem a testar a versão beta! 😉"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Desde já, obrigado demais! 🧡"
+        }
+      ]
+    }
+  ]
+}

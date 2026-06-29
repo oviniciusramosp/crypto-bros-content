@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "id": "2ff2da8d813480c4b698c9086f27c330",
+  "locale": "pt",
+  "slug": "analise-bitcoin---06-fev",
+  "date": "2026-02-06T16:21:00.000Z",
+  "updated": "2026-03-02T18:52:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Análise Bitcoin - 06 FEV"
+    }
+  ],
+  "excerpt": "Bitcoin caiu até quase $60,000 ontem. Esse foi o pior drawdown em um único dia desde o colapso da FTX em 2022.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin caiu até "
+        },
+        {
+          "text": "quase $60,000 ontem",
+          "bold": true
+        },
+        {
+          "text": ". Esse foi o pior drawdown em um único dia desde o "
+        },
+        {
+          "text": "colapso da FTX em 2022",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Mas hoje o mercado voltou a respirar: estamos próximos de retomar a casa dos $70,000 após formar um fundo."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/131dc4e91af0730f.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Por que isso importa?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pode ser a formação do "
+        },
+        {
+          "text": "primeiro topo ascendente",
+          "bold": true
+        },
+        {
+          "text": " desde os $90k. Se a semana fechar acima de "
+        },
+        {
+          "text": "$68k",
+          "bold": true
+        },
+        {
+          "text": ", confirma o suporte na média "
+        },
+        {
+          "text": "móvel de 200 semanas",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Um reteste na região de "
+        },
+        {
+          "text": "$74k a $79k",
+          "bold": true
+        },
+        {
+          "text": " seria natural, mesmo que depois tenhamos mais quedas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A queda de ontem era "
+        },
+        {
+          "text": "esperada",
+          "bold": true
+        },
+        {
+          "text": ", mas a velocidade dela foi um pouco assustadora. O que vai acontecer agora, ninguém sabe. Mas você pode se preparar para alguns cenários:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Daqui para frente, as chances de cairmos outros 50% são mais baixas do que subirmos 50%. A assimetria é muito boa."
+          }
+        ],
+        [
+          {
+            "text": "As regiões de fundo de ciclo são entre $58k e $42k. Pode gerar mais medo e melhores oportunidades de compra."
+          }
+        ],
+        [
+          {
+            "text": "Se continuar subindo, devemos encontrar resistências começando pela faixa dos $75k."
+          }
+        ],
+        [
+          {
+            "text": "Pensar em um novo ATH agora é loucura. Estamos muito distantes e ainda precisamos passar as médias de 100 e 50 semanas para considerarmos a volta de um bull market."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para quem quiser analisar um pouco mais a fundo:"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Dados on-chain"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "NUPL entrando em zona de capitulação:",
+            "bold": true
+          },
+          {
+            "text": " Isso significa que a maioria dos investidores estão no vermelho e começando a vender no desespero. Historicamente, isso marca fundos de mercado."
+          }
+        ],
+        [
+          {
+            "text": "SOPR abaixo de 1:",
+            "bold": true
+          },
+          {
+            "text": " confirma que holders de Bitcoin estão vendendo no prejuízo."
+          }
+        ],
+        [
+          {
+            "text": "Reservas em exchanges subindo: ",
+            "bold": true
+          },
+          {
+            "text": "pressão vendedora de Bitcoins."
+          }
+        ],
+        [
+          {
+            "text": "Funding rates negativos:",
+            "bold": true
+          },
+          {
+            "text": " isso significa que o mercado está pessimista e tem mais gente shortando (apostando contra) do que comprando."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em resumo:",
+          "bold": true
+        },
+        {
+          "text": " Todos esses sinais juntos mostram medo extremo no mercado. Parece ruim, mas historicamente é nesses momentos que os fundos se formam."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Um pouco do que está acontecendo no mundo e afetando o preço de ativos, incluindo o Bitcoin:"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Contexto Macro"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Correlação com "
+          },
+          {
+            "text": "setor de software/tech em crise",
+            "bold": true
+          },
+          {
+            "text": " aumentando"
+          }
+        ],
+        [
+          {
+            "text": "Traders apostando que Fed mantém taxa em abril"
+          }
+        ],
+        [
+          {
+            "text": "Demissões nos EUA no maior nível em 17 anos — pode pressionar Fed a cortar juros mais cedo (bullish no médio prazo)"
+          }
+        ]
+      ]
+    }
+  ]
+}

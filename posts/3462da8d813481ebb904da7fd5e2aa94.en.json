@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "id": "3462da8d813481ebb904da7fd5e2aa94",
+  "locale": "en",
+  "slug": "analysis-april-17",
+  "date": "2026-04-18T02:14:00.000Z",
+  "updated": "2026-04-18T15:10:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/82098b787a759dde.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b8cbc993209028b9.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis April 17"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed at "
+        },
+        {
+          "text": "$77,250",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+2.90%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$78,333",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " • Low: "
+        },
+        {
+          "text": "$74,529.40",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Engine Started"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin broke through the resistance in the $75,500 range that had been holding the price back for a week, posting the highest high of this recovery cycle at "
+        },
+        {
+          "text": "$78,333",
+          "bold": true
+        },
+        {
+          "text": ". The volume of 25,885 BTC traded was "
+        },
+        {
+          "text": "48% above the 7-day average",
+          "bold": true
+        },
+        {
+          "text": ", confirming that the move has real market participation."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the weekly timeframe, the price remains below the 50 and 100-week EMAs (around $86,700 and $82,600, respectively), which keeps the medium-term structure bearish. However, the cumulative +18.8% recovery from the $65,000 bottom in March and four consecutive weeks of higher closes show that buyers have regained control in the short term."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:line;ema:200w-blue,50w-green;line:73300|2026-03-17||green|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If the Momentum Continues"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The trigger to confirm the bullish scenario is a daily close above "
+        },
+        {
+          "text": "$78,333",
+          "bold": true
+        },
+        {
+          "text": " with sustained volume above 20,000 BTC. The first target sits in the $82,600 range, where the 100-week EMA lies — the first relevant weekly moving average above the current price. The secondary target would be near $86,700 (50-week EMA), a level that, if reclaimed, would shift the weekly structure back to bullish."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The fuel for this rally is lined up: 62.5% of futures accounts are short with a negative funding rate of -0.0081%. This creates potential for a quick reversal through short liquidations above $78,300. Bitcoin rose only 2.90% while the NASDAQ advanced 6.84%, creating room for a convergence move over the next 24 to 48 hours."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fear & Greed Index left \"Extreme Fear\" for the first time in over a week, posting "
+        },
+        {
+          "text": "26",
+          "bold": true
+        },
+        {
+          "text": " (Fear). Price rising while sentiment remains fearful is historically a sign of strength — most traders haven't positioned for the upside yet."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If the Strength Fades"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish trigger is a daily close below "
+        },
+        {
+          "text": "$73,300",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", a support tested three consecutive times between April 14 and 16 that coincides with the weekly low from March 17. Losing this level would open the path to the 200-week EMA in the "
+        },
+        {
+          "text": "$68,300",
+          "color": "red"
+        },
+        {
+          "text": " range, which serves as a cycle-bottom indicator. The secondary target would be "
+        },
+        {
+          "text": "$65,000",
+          "color": "red"
+        },
+        {
+          "text": ", the macro bottom from late March."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The invalidation of this scenario would come with a weekly close above $78,333 accompanied by rising volume and the funding rate flipping positive. The daily RSI at "
+        },
+        {
+          "text": "79.4",
+          "bold": true
+        },
+        {
+          "text": " is the main short-term warning signal — above 70 since early April and still climbing, which signals strong momentum but also warns of possible exhaustion."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "On the Radar Tomorrow"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The decisive level is "
+        },
+        {
+          "text": "$78,333",
+          "bold": true
+        },
+        {
+          "text": ": a close above it could trigger a wave of short liquidations. A rejection with weak volume puts the $73,300 support back in the spotlight. On the macro front, the weak dollar (DXY at 98.2) and the strong rally in U.S. equities (S&P 500 "
+        },
+        {
+          "text": "+4.54%",
+          "color": "green"
+        },
+        {
+          "text": ") keep the environment favorable for risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:rsi;rsi:14d}}"
+        }
+      ]
+    }
+  ]
+}

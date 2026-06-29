@@ -1,0 +1,248 @@
+{
+  "schemaVersion": 1,
+  "id": "36e2da8d813481b5a91edd2a781b3a78",
+  "locale": "pt",
+  "slug": "ataque-dos-eua-ao-ira-derruba-bitcoin-abaixo-dos-73k",
+  "date": "2026-05-28T15:58:00.000Z",
+  "updated": "2026-05-29T17:09:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ffb3a49a7e90b4ec.png",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🔻"
+  },
+  "title": [
+    {
+      "text": "Ataque dos EUA ao Irã Derruba Bitcoin Abaixo dos $73k"
+    }
+  ],
+  "excerpt": "Bitcoin perdeu a faixa de $73.000 pela primeira vez desde Abril depois que os EUA atacaram um alvo militar iraniano próximo ao Estreito de Ormuz. O preço caiu 3",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin perdeu a faixa de $73.000 pela primeira vez desde Abril depois que os EUA atacaram um alvo militar iraniano próximo ao Estreito de Ormuz. O preço "
+        },
+        {
+          "text": "caiu ",
+          "color": "red"
+        },
+        {
+          "text": "3,4%",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " ",
+          "color": "red"
+        },
+        {
+          "text": "nas últimas 24 horas e fechou a sessão asiática em "
+        },
+        {
+          "text": "$72.978",
+          "bold": true
+        },
+        {
+          "text": ", com mínima em $72.912."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ethereum perdeu os "
+        },
+        {
+          "text": "$2.000",
+          "bold": true
+        },
+        {
+          "text": " e foi para $1.976. Solana recuou para $80 e XRP caiu para $1,28. Praticamente todo o topo do ranking caiu."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho foi a operação militar americana, descrita pelo Pentágono como defensiva, contra um sítio iraniano após a interceptação de drones que atacaram navios comerciais na região. O Tesouro dos EUA também aplicou novas sanções à autoridade iraniana que controla parte do tráfego no estreito. "
+        },
+        {
+          "text": "O cessar-fogo que vinha sustentando o otimismo nas últimas semanas evaporou em poucas horas.",
+          "color": "yellow"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que o Mercado Pagou Tão Caro"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "$958 milhões",
+          "bold": true
+        },
+        {
+          "text": " foram liquidados em 24 horas, com "
+        },
+        {
+          "text": "93%",
+          "bold": true
+        },
+        {
+          "text": " vindos de posições compradas. "
+        },
+        {
+          "text": "Foram 167 mil traders afetados",
+          "color": "yellow"
+        },
+        {
+          "text": ", e a maior liquidação individual foi um long de $15 milhões em Bitcoin na Hyperliquid. Quando o mercado se posiciona em massa para um lado e a notícia vem do outro, o ajuste é violento."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A semana já trazia outros gatilhos pesados. Hoje vencem "
+        },
+        {
+          "text": "$6,2 bilhões",
+          "bold": true
+        },
+        {
+          "text": " em opções de Bitcoin, calendário que historicamente traz volatilidade extra. Os ETFs americanos seguem em saídas pesadas, com "
+        },
+        {
+          "text": "$1,3 bilhão",
+          "bold": true
+        },
+        {
+          "text": " retirados do IBIT via dark pool nesta semana."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário de Recuperação"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se a operação americana for um ponto isolado e o cessar-fogo voltar a ser negociado nos próximos dias, o movimento pode ser absorvido como um evento pontual de risco. "
+        },
+        {
+          "text": "A liquidação em massa de longs já tirou parte da alavancagem do sistema, o que reduz o combustível para novas quedas violentas",
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/f31576403b985f60.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Retomar o suporte na região dos $75.000 reabriria caminho para a faixa anterior. Vale lembrar que o mercado vinha segurando esse nível mesmo com a demanda dos ETFs esfriando, então a estrutura técnica de recuperação ainda existe."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se a Escalada Continuar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista combina continuidade das saídas dos ETFs com mais escalada no Oriente Médio. Sem o institucional segurando a queda, o próximo nível a observar fica na região dos $70.000, fundo psicológico que muitos vinham marcando para entrada e próximo da EMA de 200 semanas."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/634c8adec662ea7b.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Petróleo acima dos $100 levaria a inflação para o topo da agenda novamente, dificultando o cenário de cortes de juros do Fed que vinha sustentando o apetite por ativos de risco. Por ora, é acompanhar a reação dos próximos dias e observar se os ETFs voltam a comprar ou seguem vendendo. "
+        }
+      ]
+    }
+  ]
+}

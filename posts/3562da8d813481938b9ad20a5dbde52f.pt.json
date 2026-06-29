@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "id": "3562da8d813481938b9ad20a5dbde52f",
+  "locale": "pt",
+  "slug": "analise-03-maio",
+  "date": "2026-05-04T00:30:00.000Z",
+  "updated": "2026-05-04T13:19:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b4e957519a83c237.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/c24c2f0310b4bffb.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 03 Maio"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$78.568",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "-0,15%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$79.447",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$78.084",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A Muralha dos $79,5 Mil"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin praticamente não saiu do lugar neste domingo. A máxima do dia bateu "
+        },
+        {
+          "text": "$79.447",
+          "bold": true
+        },
+        {
+          "text": " e foi rejeitada de novo, é a terceira tentativa frustrada de furar a faixa dos "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " em duas semanas. O volume ficou bem abaixo da média semanal, comportamento típico de domingo com mercados tradicionais fechados."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-05-04;type:candle;candle:1d;ema:50w-green,100w-orange;line:76000|||green|0.5|dashed,80500|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Sem catalisador novo no fim de semana, o movimento foi inércia da sexta-feira. Naquele dia, o S&P 500 subiu "
+        },
+        {
+          "text": "0,29%",
+          "bold": true
+        },
+        {
+          "text": " e a Nasdaq avançou "
+        },
+        {
+          "text": "0,89%",
+          "bold": true
+        },
+        {
+          "text": ", encerrando dois dias fracos com tom otimista, e o Bitcoin acompanhou esse mesmo apetite por risco. O dólar (DXY) seguiu em queda recente e a prata disparou "
+        },
+        {
+          "text": "3,29%",
+          "bold": true
+        },
+        {
+          "text": " na sexta, sinais de que o investidor americano voltou a procurar hedge metálico."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:2y;date:2026-05-04;type:line;ema:200w-blue,50w-green}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Quando os Shorts Viram Combustível"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o cenário otimista virar realidade, o Bitcoin precisa fechar um dia inteiro acima de "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": ", rompendo simultaneamente a resistência testada três vezes e a barreira psicológica redonda. Confirmado o rompimento, o primeiro alvo fica na casa dos "
+        },
+        {
+          "text": "$82.395",
+          "bold": true
+        },
+        {
+          "text": ", exatamente onde a EMA de 100 semanas oferece resistência estrutural. Acima dali, o segundo alvo é "
+        },
+        {
+          "text": "$85.700",
+          "bold": true
+        },
+        {
+          "text": ", restaurando o quadro otimista no semanal."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O combustível para essa alta está no posicionamento do mercado de futuros: "
+        },
+        {
+          "text": "63,23%",
+          "bold": true
+        },
+        {
+          "text": " das contas estão vendidas. Se o preço furar $80.000, essas posições são fechadas em onda, e cada liquidação compra Bitcoin para se cobrir, alimentando uma reversão rápida por liquidação de posições."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Polymarket precifica "
+        },
+        {
+          "text": "79,5%",
+          "bold": true
+        },
+        {
+          "text": " de chance do Bitcoin fechar em alta nesta segunda-feira. Para romper os "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " ainda hoje, o mercado de previsão dá "
+        },
+        {
+          "text": "39%",
+          "bold": true
+        },
+        {
+          "text": " de chance - distante do certo, mas longe do improvável. Já para ver "
+        },
+        {
+          "text": "$85.000",
+          "bold": true
+        },
+        {
+          "text": " em algum momento de maio, as chances ficam praticamente meio a meio: "
+        },
+        {
+          "text": "50,5%",
+          "bold": true
+        },
+        {
+          "text": ". O dólar enfraquecido e o tom otimista das ações americanas ajudam a sustentar essa leitura."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se o Chão Ceder"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista se confirma se o Bitcoin perder o suporte de "
+        },
+        {
+          "text": "$76.000",
+          "bold": true
+        },
+        {
+          "text": " com fechamento diário abaixo. O primeiro alvo seria "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": ", mínima da semana de 19 de abril e primeiro grande suporte abaixo. Caindo dali, a próxima zona de defesa fica na região psicológica dos "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os ventos contrários macro são pesados. A Polymarket aponta "
+        },
+        {
+          "text": "55,55%",
+          "bold": true
+        },
+        {
+          "text": " de probabilidade de zero cortes do Fed em 2026 e "
+        },
+        {
+          "text": "96,5%",
+          "bold": true
+        },
+        {
+          "text": " de chance da inflação americana fechar acima de 3,5%. Em paralelo, a guerra no Irã está dobrando o custo dos combustíveis, o que reforça a pressão inflacionária e mantém o Fed numa postura de juros altos por mais tempo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Segunda-Feira Decide a Semana"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A abertura de segunda-feira é o evento da semana. Com os mercados americanos voltando a operar plenamente, o vácuo de liquidez do fim de semana se desfaz e o Bitcoin terá um teste real: ou ataca os "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " com volume, ou começa a deslizar em direção ao suporte de "
+        },
+        {
+          "text": "$76.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vale acompanhar a correlação com a Nasdaq na abertura e qualquer reação do mercado às falas do Fed. Sem rompimento nem perda de suporte, o roteiro mais provável é mais um dia dentro da faixa, com a multidão dividida entre dois polos cada vez mais apertados."
+        }
+      ]
+    }
+  ]
+}

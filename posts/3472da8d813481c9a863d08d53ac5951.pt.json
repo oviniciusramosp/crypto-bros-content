@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "3472da8d813481c9a863d08d53ac5951",
+  "locale": "pt",
+  "slug": "bitcoin-cai-para-73900-apos-ira-rejeitar-dialogo-com-eua",
+  "date": "2026-04-19T23:15:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a444b878a57aacbe.png",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2c59d27744ea4899.jpg",
+  "icon": {
+    "emoji": "🇮🇷"
+  },
+  "title": [
+    {
+      "text": "Bitcoin Cai para $73.900 após Irã Rejeitar Diálogo com EUA"
+    }
+  ],
+  "excerpt": "O Bitcoin recuou para $73.915 neste domingo, acumulando queda de -2,54% nas últimas 24 horas. As vendas se intensificaram após o Irã rejeitar propostas de negoc",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin recuou para $73.915 neste domingo, acumulando queda de "
+        },
+        {
+          "text": "-2,54%",
+          "color": "red"
+        },
+        {
+          "text": " nas últimas 24 horas. As vendas se intensificaram após o Irã rejeitar propostas de negociação com os Estados Unidos e acusar o governo Trump de \"sete mentiras\", ampliando a tensão geopolítica no Oriente Médio."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:7d;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Tensão no Oriente Médio"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Na sexta-feira, rumores sobre a abertura do Estreito de Ormuz haviam levado o Bitcoin acima dos $77.000, em um momento de otimismo generalizado nos mercados. No sábado, o Irã endureceu o discurso, classificando as declarações americanas como enganosas e rejeitando qualquer reaproximação. A virada no tom interrompeu a recuperação e devolveu os ganhos da semana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com as bolsas americanas fechadas no fim de semana, o Bitcoin absorveu sozinho o sentimento de aversão ao risco. A mínima do dia foi $73.763, próxima do menor nível da semana."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Fidelity Cobra $100 por ETF"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Outro fator negativo veio da Fidelity, que anunciou a cobrança de $100 por transação em seu ETF de Bitcoin a partir de 1 de junho. A decisão contrasta com a Charles Schwab, que acaba de lançar negociação direta de cripto sem taxas, e com Robinhood e Vanguard, que também operam com custo zero. A mudança pode redirecionar investidores de varejo para plataformas mais baratas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As altcoins acompanharam o recuo. Ethereum liderou com "
+        },
+        {
+          "text": "-3,98%",
+          "color": "red"
+        },
+        {
+          "text": ", seguida por Solana com "
+        },
+        {
+          "text": "-3,25%",
+          "color": "red"
+        },
+        {
+          "text": ". A queda ampla sinaliza aversão ao risco generalizada no mercado cripto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte na região dos $73.000 é o nível mais observado. Se rompido, o próximo alvo seria a faixa dos $70.000. Na abertura dos mercados na segunda-feira, a reação das bolsas americanas às tensões com o Irã vai definir se o Bitcoin encontra alívio ou aprofunda a queda. Um eventual recuo nas hostilidades poderia devolver o preço para a região dos $76.000."
+        }
+      ]
+    }
+  ]
+}

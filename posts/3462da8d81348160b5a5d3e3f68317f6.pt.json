@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "id": "3462da8d81348160b5a5d3e3f68317f6",
+  "locale": "pt",
+  "slug": "analise-17-abril",
+  "date": "2026-04-18T01:28:00.000Z",
+  "updated": "2026-04-18T15:10:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/86b8ae712079b0e2.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/7dffe181a9537ff6.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 17 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$77.250",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+2,90%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$78.333",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$74.529,40",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Ligaram os Motores?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin rompeu a resistência na região dos $75.500 que segurava o preço há uma semana, registrando a maior máxima deste ciclo de recuperação em "
+        },
+        {
+          "text": "$78.333",
+          "bold": true
+        },
+        {
+          "text": ". O volume de 25.885 BTC negociados foi "
+        },
+        {
+          "text": "48% acima da média dos últimos 7 dias",
+          "bold": true
+        },
+        {
+          "text": ", confirmando que o movimento tem participação real do mercado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No panorama semanal, o preço segue abaixo das EMAs de 50 e 100 semanas (na casa dos $86.700 e $82.600, respectivamente), o que mantém a estrutura de médio prazo pessimista. Porém, a recuperação acumulada de +18,8% desde o fundo de $65.000 em março e quatro semanas consecutivas de fechamentos mais altos mostram que os compradores retomaram o controle no curto prazo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:line;ema:200w-blue,50w-green;line:73300|2026-03-17||green|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se o Fôlego Continuar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho para confirmar o cenário otimista é um fechamento diário acima de "
+        },
+        {
+          "text": "$78.333",
+          "bold": true
+        },
+        {
+          "text": " com volume sustentado acima de 20.000 BTC. O primeiro alvo fica na região dos $82.600, onde está a EMA de 100 semanas, a primeira média móvel semanal relevante acima do preço atual. O alvo secundário seria próximo dos $86.700 (EMA de 50 semanas), nível que, se reconquistado, mudaria a estrutura semanal de volta para otimista."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os combustíveis para essa alta estão alinhados: 62,5% das contas em futuros estão vendidas com "
+        },
+        {
+          "text": "funding rate",
+          "italic": true
+        },
+        {
+          "text": " negativo de -0,0081%. Essa combinação cria potencial para uma reversão rápida por liquidação de posições acima dos $78.300. Bitcoin subiu apenas 2,90% enquanto o NASDAQ avançou 6,84%, criando espaço para um movimento de convergência nas próximas 24 a 48 horas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O índice Fear & Greed saiu de \"Medo Extremo\" pela primeira vez em mais de uma semana, marcando "
+        },
+        {
+          "text": "26",
+          "bold": true
+        },
+        {
+          "text": " (Medo). Preço subindo enquanto o sentimento permanece medroso é historicamente um sinal de força: a maioria ainda não se posicionou na compra."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se a Força Acabar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho pessimista é um fechamento diário abaixo de "
+        },
+        {
+          "text": "$73.300",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", suporte testado três vezes consecutivas entre 14 e 16 de abril e que coincide com o fundo semanal de 17 de março. Perder esse nível abriria caminho para a EMA de 200 semanas, na região dos "
+        },
+        {
+          "text": "$68.300",
+          "color": "red"
+        },
+        {
+          "text": ", que funciona como indicador de fundo de ciclo. O alvo secundário seria "
+        },
+        {
+          "text": "$65.000",
+          "color": "red"
+        },
+        {
+          "text": ", o fundo macro de final de março."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A invalidação desse cenário viria com um fechamento semanal acima de $78.333 acompanhado de volume crescente e "
+        },
+        {
+          "text": "funding rate",
+          "italic": true
+        },
+        {
+          "text": " virando para positivo. O RSI diário em "
+        },
+        {
+          "text": "79,4",
+          "bold": true
+        },
+        {
+          "text": " é o principal sinal de alerta no curto prazo, acima de 70 desde o início de abril e ainda subindo, o que sinaliza forte impulso mas também avisa sobre possível exaustão."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "No Radar Amanhã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O nível decisivo é "
+        },
+        {
+          "text": "$78.333",
+          "bold": true
+        },
+        {
+          "text": ": um fechamento acima pode destravar uma onda de liquidações de posições vendidas. Uma rejeição com volume fraco coloca o suporte de $73.300 de volta como protagonista. No macro, o dólar fraco (DXY em 98,2) e a alta forte das bolsas americanas (S&P 500 "
+        },
+        {
+          "text": "+4,54%",
+          "color": "green"
+        },
+        {
+          "text": ") mantêm o ambiente favorável para ativos de risco."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:rsi;rsi:14d}}"
+        }
+      ]
+    }
+  ]
+}

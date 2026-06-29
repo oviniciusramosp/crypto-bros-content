@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "35e2da8d813481b1bd79e431a150a132",
+  "locale": "pt",
+  "slug": "por-que-trump-quer-um-dolar-mais-fraco",
+  "date": "2026-05-12T17:53:00.000Z",
+  "updated": "2026-05-13T01:50:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/777bab3e0047ff28.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "💸"
+  },
+  "title": [
+    {
+      "text": "Por Que Trump Quer um Dólar Mais Fraco?"
+    }
+  ],
+  "excerpt": "Uma das grandes novidades no mercado financeiro global nos últimos meses é o enfraquecimento do dólar. O DXY (índice que mede o dólar contra uma cesta de moedas",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Uma das grandes novidades no mercado financeiro global nos últimos meses é o "
+        },
+        {
+          "text": "enfraquecimento do dólar",
+          "bold": true
+        },
+        {
+          "text": ". O DXY (índice que mede o dólar contra uma cesta de moedas globais) caiu de 110 pontos no início de 2025 para a casa dos 98 pontos em 2026. No Brasil, o dólar chegou a ser negociado abaixo de R$ 4,90. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E não é coincidência: há uma "
+        },
+        {
+          "text": "estratégia clara por trás disso",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Problema do Dólar Forte"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Quando o dólar está muito forte, as fábricas americanas têm dificuldade de vender lá fora. Um produto fabricado nos EUA passa a custar mais em euros, em reais, em yuans, porque cada dólar do preço final exige mais moeda local para ser comprado. Ao mesmo tempo, os produtos vindos de outros países ficam mais baratos dentro dos EUA, porque o dólar forte compra mais. O consumidor americano migra para o importado e a indústria nacional perde espaço."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O resultado disso é o "
+        },
+        {
+          "text": "déficit comercial",
+          "color": "red"
+        },
+        {
+          "text": ": os EUA compram mais do mundo do que vendem para o mundo. Pensa como o saldo da sua conta bancária, só que ao contrário. Se todo mês você gasta mais do que entra, a conta vai ficando negativa. Os EUA têm esse \"saldo negativo\" na ordem de "
+        },
+        {
+          "text": "$1 trilhão por ano",
+          "bold": true
+        },
+        {
+          "text": ". Trump vê isso como uma derrota e um dólar forte piora o quadro."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A China no Centro da Equação"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A China é a maior exportadora do mundo e o principal responsável pelo déficit comercial americano. Só com a China, os EUA compram muito mais do que vendem, uma diferença que chega a centenas de bilhões de dólares por ano. Na visão de Trump, isso acontece em parte porque a China historicamente manteve o yuan (a moeda chinesa) barato de forma proposital, tornando os produtos chineses artificialmente baratos nos EUA e derrubando as fábricas americanas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A estratégia de Trump foi usar tarifas pesadas sobre produtos chineses como pressão para forçar uma renegociação. Mas as tarifas sozinhas não resolvem o problema da competitividade: se o dólar continuar muito forte, os produtos americanos ainda ficam caros lá fora. Um dólar mais fraco fecha essa equação: ao mesmo tempo que as tarifas encarecem o produto chinês dentro dos EUA, o dólar mais fraco barateia o produto americano para o resto do mundo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A Lógica por Trás do Dólar Fraco"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump quer um dólar mais fraco por três razões concretas. A primeira é tornar as exportações americanas mais competitivas: dólar fraco = produto americano mais barato lá fora = mais fábricas, mais empregos nos EUA. A segunda é reduzir o déficit comercial: importação fica mais cara (desestimula comprar de fora) e exportação fica mais barata para o comprador estrangeiro. A terceira é aliviar o peso da dívida americana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse terceiro ponto costuma confundir. Os EUA têm mais de "
+        },
+        {
+          "text": "$36 trilhões em dívida",
+          "bold": true
+        },
+        {
+          "text": " e boa parte dela está nas mãos de outros países (China, Japão, Europa) na forma de títulos do Tesouro americano. Esses títulos são pagos em dólares. Quando o dólar enfraquece, esses países recebem de volta um dólar que vale menos nas suas próprias moedas. É como se você tivesse pegado emprestado R$ 100 e devolvesse R$ 100, mas esse dinheiro comprasse hoje o que antes comprava R$ 80. Quem emprestou saiu perdendo em termos reais."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Dólar Fraco É Sinal de Fraqueza dos EUA?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essa é a dúvida mais comum e a resposta é: depende. Um dólar muito forte não é necessariamente bom para a economia americana. Ele prejudica as exportações, fecha fábricas e transfere empregos para países com moedas mais baratas. Já um dólar mais fraco pode estimular a produção interna, atrair turistas e aumentar a competitividade das empresas americanas. Não é fraqueza, é reequilíbrio."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que cria confusão é que o mundo usou o dólar como a principal moeda de reserva por décadas (praticamente toda compra internacional, incluindo petróleo, é feita em dólar). Isso gerou uma demanda artificial que manteve o dólar forte mesmo quando isso prejudicava a economia americana. Trump quer reverter parte disso, colocando a competitividade industrial acima do prestígio da moeda."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A Reserva de Bitcoin Entra na Jogada"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Aqui é onde a estratégia fica realmente sofisticada. Trump está enfraquecendo deliberadamente a moeda que ele mesmo emite, o que normalmente derreteria o poder de compra do Tesouro americano. A solução para isso é guardar parte das reservas em ativos escassos que sobem quando o dólar cai: ouro e "
+        },
+        {
+          "text": "Bitcoin",
+          "color": "green"
+        },
+        {
+          "text": ". Existe inclusive uma proposta de revalorizar o ouro do Tesouro (contabilizado desde 1973 em $42 por onça, enquanto o mercado paga mais de "
+        },
+        {
+          "text": "$3.000",
+          "bold": true
+        },
+        {
+          "text": ") e usar esse \"lucro contábil\" de centenas de bilhões de dólares para comprar Bitcoin, sem emitir dívida nova."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tem ainda uma dimensão geopolítica forte nisso. Se os EUA enfraquecem o dólar, outros países podem correr para alternativas como ouro e Bitcoin. Acumular Bitcoin agora, antes dos rivais, garante uma vantagem estratégica caso o sistema monetário global passe por uma reconfiguração nos próximos anos. A Reserva Estratégica de Bitcoin e a política de dólar fraco não são jogadas separadas: uma reforça a outra. Quem acumula Bitcoin antes de enfraquecer a moeda emite essa moeda com uma proteção embutida no balanço."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Acordo de Mar-a-Lago"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Economistas próximos ao governo chegaram a discutir um possível \"Acordo de Mar-a-Lago\", uma espécie de Acordo de Plaza 2.0. O Acordo de Plaza original, em 1985, foi um pacto entre países do G5 para enfraquecer o dólar de forma coordenada. A ideia moderna seria parecida: aliados dos EUA aceitariam deixar suas moedas subirem (e o dólar cair) em troca de acesso ao mercado americano e proteção geopolítica."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Isso ainda não virou realidade formal, mas o mercado já antecipou o movimento. O dólar caiu sem precisar de acordo assinado, só com as declarações, as tarifas e a incerteza gerada pelo governo Trump."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Para Onde Isso Tudo Caminha"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O enfraquecimento do dólar não é um acidente nem fraqueza dos EUA, é uma peça central da estratégia econômica de Trump. Une três frentes ao mesmo tempo: recuperar competitividade industrial, pressionar a China em uma guerra comercial de longo prazo e aliviar o peso da maior dívida pública do mundo. E ainda tem a Reserva Estratégica de Bitcoin como hedge contra os próprios efeitos colaterais dessa política."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para quem investe em Bitcoin, entender esse pano de fundo é fundamental. O movimento do DXY é um dos principais ventos que sopram a favor ou contra o mercado cripto. Fiquem espertos com os próximos capítulos, principalmente nas declarações da Casa Branca sobre a reserva de Bitcoin e nas próximas decisões do Fed sobre os juros. Vamos acompanhando juntos."
+        }
+      ]
+    }
+  ]
+}

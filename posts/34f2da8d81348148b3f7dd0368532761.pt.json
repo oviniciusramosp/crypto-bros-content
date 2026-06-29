@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "34f2da8d81348148b3f7dd0368532761",
+  "locale": "pt",
+  "slug": "casa-branca-confirma-anuncio-iminente-sobre-reserva-estrategica-de-bitcoin",
+  "date": "2026-04-27T21:59:00.000Z",
+  "updated": "2026-04-28T00:52:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ffcdf3c3ccddd379.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/38881ed7300a1f00.jpg",
+  "icon": {
+    "emoji": "🇺🇸"
+  },
+  "title": [
+    {
+      "text": "Casa Branca Confirma Anúncio Iminente sobre Reserva Estratégica de Bitcoin"
+    }
+  ],
+  "excerpt": "O Diretor Executivo da Casa Branca declarou nesta segunda-feira que haverá um \"grande anúncio nas próximas semanas\" sobre a Reserva Estratégica de Bitcoin do go",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Diretor Executivo da Casa Branca declarou nesta segunda-feira que haverá um \"grande anúncio nas próximas semanas\" sobre a Reserva Estratégica de Bitcoin do governo americano. O sinal vem direto do centro do poder — não de um legislador, não de um assessor, mas de um executivo da Casa Branca."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A declaração foi reportada pelo Bitcoin Magazine em 27 de abril. Nenhuma data específica foi divulgada, mas o prazo de \"próximas semanas\" indica que o governo Trump está em fase avançada de execução. A Reserva Estratégica de Bitcoin foi anunciada como intenção no início do mandato: agora há uma confirmação explícita de que algo concreto está a caminho."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por que isso importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Uma Reserva Estratégica de Bitcoin pelos Estados Unidos seria um evento sem precedente. Significaria que o governo americano passa a tratar Bitcoin como ativo de reserva de Estado, na mesma categoria que ouro e divisas estrangeiras. O impacto potencial sobre a percepção global do ativo é enorme — outros governos e bancos centrais passariam a reconsiderar suas próprias posições."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O mercado ainda não precificou esse cenário. Bitcoin opera a "
+        },
+        {
+          "text": "$76.843",
+          "bold": true
+        },
+        {
+          "text": ", com queda de "
+        },
+        {
+          "text": "2,02%",
+          "bold": true
+        },
+        {
+          "text": " nas últimas 24 horas, tendo rejeitado a região dos $80.000 e testado os $76.460 na mínima do dia. A fraqueza técnica de curto prazo contrasta com um potencial catalisador macro de primeira grandeza no horizonte imediato."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O que esperar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário otimista, o anúncio concreto nas próximas semanas pode funcionar como um gatilho de demanda institucional em cadeia. Governos, fundos soberanos e corporações que ainda aguardavam um sinal político de endosso estatal teriam esse referencial. Os alvos de curto prazo para Bitcoin, caso o anúncio se confirme e o mercado reaja positivamente, incluem a região dos $88.000 e, em seguida, os $95.000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário de risco, o anúncio pode decepcionar em escala ou prazo — um programa menor do que o esperado, um veto no Congresso, ou um adiamento. Nesse caso, a expectativa criada seria maior do que a entrega, com potencial recuo para a faixa dos $72.000, região de suporte mais antigo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fear & Greed permanece em neutro (47). O mercado está esperando — e a Casa Branca acaba de confirmar que não vai esperar muito mais."
+        }
+      ]
+    }
+  ]
+}

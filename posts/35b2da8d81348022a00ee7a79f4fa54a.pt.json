@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "id": "35b2da8d81348022a00ee7a79f4fa54a",
+  "locale": "pt",
+  "slug": "usamos-ia-e-projetamos-o-preco-do-bitcoin",
+  "date": "2026-05-09T00:38:00.000Z",
+  "updated": "2026-05-09T01:16:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4720bb246fcd9586.png",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🤖"
+  },
+  "title": [
+    {
+      "text": "Usamos IA e Projetamos o Preço do Bitcoin"
+    }
+  ],
+  "excerpt": "Rodamos uma pesquisa diferente nesta semana e o resultado vale a pena compartilhar com vocês:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Rodamos uma pesquisa diferente nesta semana e o resultado vale a pena compartilhar com vocês:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pegamos o "
+        },
+        {
+          "text": "TimesFM",
+          "bold": true
+        },
+        {
+          "text": ", modelo de inteligência artificial da Google feito para previsão de séries temporais, e jogamos toda a história do Bitcoin nele para ver o que a IA projeta para os próximos meses."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que É o TimesFM?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É uma IA parecida com o ChatGPT, mas em vez de aprender padrões em texto, ela aprendeu padrões em números que evoluem no tempo: preços de ações, vendas no varejo, demanda por energia, qualquer coisa que se repete. A Google treinou ele em centenas de bilhões de pontos de dados."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A graça toda é essa: o modelo "
+        },
+        {
+          "text": "não sabe que está olhando para o Bitcoin",
+          "bold": true
+        },
+        {
+          "text": ". Não sabe o que é halving, não sabe o que é ETF, não sabe quem é o Trump. Ele só vê uma sequência de números e tenta identificar os padrões que mais se parecem com o que já viu antes."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Você dá o histórico para ele, ele projeta o que vem a seguir."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Fizemos"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pegamos a versão mais nova e potente (TimesFM 2.0) e alimentamos com "
+        },
+        {
+          "text": "16 anos de histórico semanal do Bitcoin",
+          "bold": true
+        },
+        {
+          "text": ". Isso significa que o modelo viu 3 bear markets completos:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        [
+          {
+            "text": "2014",
+            "bold": true
+          },
+          {
+            "text": " (queda de 85%, fundo do primeiro ciclo)"
+          }
+        ],
+        [
+          {
+            "text": "2018",
+            "bold": true
+          },
+          {
+            "text": " (queda de 83%, ressaca pós-ICO)"
+          }
+        ],
+        [
+          {
+            "text": "2022",
+            "bold": true
+          },
+          {
+            "text": " (queda de 77%, crash da FTX e LUNA)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E também viu todos os bull markets, os halvings de 2012, 2016, 2020, 2024, e o ciclo atual."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Não rodamos só o preço. Alimentamos também a IA com hash rate (o poder computacional dos mineradores), número de transações por dia, fluxo de Bitcoin entrando e saindo das exchanges, endereços ativos na rede e o Fear & Greed. Cada uma dessas séries foi projetada de forma independente para os próximos meses."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que o Modelo Projeta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para os próximos 30 dias:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/7f84bf4c4c77f419.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Bitcoin "
+          },
+          {
+            "text": "sobe para a região dos $85.700",
+            "bold": true,
+            "color": "green"
+          }
+        ],
+        [
+          {
+            "text": "Cruza a EMA de 100 s"
+          },
+          {
+            "text": "emanas por volta do dia 15 de Maio"
+          }
+        ],
+        [
+          {
+            "text": "Interage com a EMA de 150 semanas entre final de Maio e começo de Junho"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para os próximos 7 meses:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0ec257dbbc43fc3f.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Bitcoin chega à casa dos $116.000 (+45,2%)"
+          }
+        ],
+        [
+          {
+            "text": "Hash rate sobe 26% (sinal de que mineradores estão aumentando capacidade, confiam no longo prazo)"
+          }
+        ],
+        [
+          {
+            "text": "Volume de transações sobe 57% (uso real da rede crescendo)"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ou seja, para o modelo, o fundo do bear market já foi formado próximo dos $60k e já estamos iniciando uma primavera cripto."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Será que Rola?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vale lembrar que o TimesFM é uma ferramenta nova no nosso arsenal, não é uma bola de cristal. Ele projeta padrões que viu no passado, mas não sabe nada sobre catalisadores futuros (regulação, ETF, macro, geopolítica). Por isso cabe "
+        },
+        {
+          "text": "junto da nossa análise técnica e on-chain do dia a dia",
+          "bold": true
+        },
+        {
+          "text": ", como mais um sinal entre vários."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Estou de olho especialmente no break da EMA 100W nos próximos dias. Se acontecer dentro do horizonte previsto pelo modelo, é um voto de confiança forte. Se não acontecer, a gente recalibra (assim como o modelo vai sendo recalibrado com o tempo)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por ora, é seguir acompanhando o preço com calma e aproveitando esse range, sem FOMO. Vamos com calma."
+        }
+      ]
+    }
+  ]
+}

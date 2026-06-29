@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "id": "3582da8d813481bca514eacafa847e28",
+  "locale": "pt",
+  "slug": "analistas-projetam-alvos-ate-93000",
+  "date": "2026-05-06T15:44:00.000Z",
+  "updated": "2026-05-07T02:11:00.000Z",
+  "categories": [
+    "Pulso"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/62175dabb10f6fa7.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🚀"
+  },
+  "title": [
+    {
+      "text": "Analistas Projetam Alvos até $93.000"
+    }
+  ],
+  "excerpt": "O Bitcoin opera em $81.653 na manhã desta terça, com queda de -1,05% nas últimas duas horas. O recuo de curto prazo contrasta com uma série de análises publicad",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " opera em "
+        },
+        {
+          "text": "$81.653",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " na manhã desta terça, com queda de "
+        },
+        {
+          "text": "-1,05%",
+          "bold": true
+        },
+        {
+          "text": " nas últimas duas horas. O recuo de curto prazo contrasta com uma série de análises publicadas hoje que projetam alvos significativamente acima do preço atual."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A leitura técnica imediata é de fraqueza, mas o material divulgado por analistas e gestores aponta para uma estrutura otimista de fundo. É esse descompasso entre preço e narrativa que torna o momento interessante de observar."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Os Três Alvos"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A primeira referência vem da leitura técnica: um cruzamento de médias móveis sugere que o "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " ainda tem espaço para alcançar a região dos "
+        },
+        {
+          "text": "$85.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " no curto prazo, segundo análise da crypto.news após o teste recente da resistência em "
+        },
+        {
+          "text": "$82.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A segunda vem da "
+        },
+        {
+          "text": "CryptoQuant",
+          "bold": true
+        },
+        {
+          "text": ", que aponta a região dos "
+        },
+        {
+          "text": "$93.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " como o alvo principal de alta para o ciclo atual, com base em métricas on-chain de fluxo e custódia."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A terceira é macro: "
+        },
+        {
+          "text": "Tom Lee",
+          "bold": true
+        },
+        {
+          "text": ", da "
+        },
+        {
+          "text": "Bitmine",
+          "bold": true
+        },
+        {
+          "text": ", declarou que a \"primavera cripto\" começou oficialmente, sinalizando uma fase estrutural de recuperação que vai além do "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " e alcança também a "
+        },
+        {
+          "text": "Ethereum",
+          "bold": true
+        },
+        {
+          "text": " e o ecossistema de altcoins."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Divergência Estrutural"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O quadro atual mostra dois tempos diferentes operando em paralelo. No curto prazo, as vendas dominam e o preço cede. No médio prazo, três fontes independentes desenham uma escada otimista: rompimento dos "
+        },
+        {
+          "text": "$85.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", avanço até "
+        },
+        {
+          "text": "$93.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " e, ao fundo, a tese de uma temporada estrutural positiva."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse tipo de divergência costuma marcar zonas de acumulação. Quando o preço recua mas a leitura de analistas e gestores institucionais melhora, a tendência é que o sentimento se ajuste ao preço ou o preço ao sentimento, dependendo de quem cede primeiro."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Observar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A primeira referência é a reação do "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " se voltar a testar a região dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": ". Compras nessa zona reforçariam a tese da escada otimista. Vendas que levem o preço para baixo desse patamar invalidariam o cenário de curto prazo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em paralelo, vale acompanhar o fluxo de ETFs à vista e os dados on-chain que sustentam as projeções da "
+        },
+        {
+          "text": "CryptoQuant",
+          "bold": true
+        },
+        {
+          "text": ". Se o capital institucional acompanhar a narrativa, o caminho até "
+        },
+        {
+          "text": "$93.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " ganha tração."
+        }
+      ]
+    }
+  ]
+}

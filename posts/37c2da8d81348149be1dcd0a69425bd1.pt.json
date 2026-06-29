@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "id": "37c2da8d81348149be1dcd0a69425bd1",
+  "locale": "pt",
+  "slug": "bitcoin-apaga-vela-de-alta-apos-trump-voltar-a-ameacar-o-ira",
+  "date": "2026-06-11T01:09:00.000Z",
+  "updated": "2026-06-16T21:49:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🔻"
+  },
+  "title": [
+    {
+      "text": "Bitcoin apaga vela de alta após Trump voltar a ameaçar o Irã"
+    }
+  ],
+  "excerpt": "Dia de gangorra... O Bitcoin chegou a subir acima dos $62.400 logo depois que a inflação americana saiu em linha com o esperado, mas o alívio durou pouco. Trump",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dia de gangorra... O Bitcoin chegou a subir acima dos "
+        },
+        {
+          "text": "$62.400",
+          "bold": true
+        },
+        {
+          "text": " logo depois que a inflação americana saiu em linha com o esperado, mas o alívio durou pouco. Trump voltou a ameaçar o Irã, o mercado correu de volta para os ativos seguros e o Bitcoin devolveu tudo, recuando para a região dos "
+        },
+        {
+          "text": "$60k e fechando acima de $61k",
+          "bold": true
+        },
+        {
+          "text": ". No fim, mais um dia no "
+        },
+        {
+          "text": "vermelho",
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Inflação em linha, núcleo mais brando"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A inflação de maio veio basicamente como o mercado esperava. O índice cheio subiu 0,5% no mês e segue em 4,2% no acumulado de 12 meses, ainda um dos maiores patamares em mais de três anos. É uma inflação que continua bem acima da meta de 2% do Fed."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A parte boa ficou no "
+        },
+        {
+          "text": "núcleo",
+          "italic": true
+        },
+        {
+          "text": ", que exclui energia e alimentos. Ele subiu só 0,2% no mês, abaixo dos 0,3% esperados. No ano, ficou em 2,9% e mostra que a pressão de preços não está se espalhando. Isso reduz o medo de um aperto imediato do Fed, mas, com o índice cheio teimando lá em cima, "
+        },
+        {
+          "text": "ninguém está falando em corte de juros tão cedo",
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pela ferramenta FedWatch da CME, "
+        },
+        {
+          "text": "o mercado ainda precifica uma alta de 0,25% nos juros ainda neste ano",
+          "color": "red"
+        },
+        {
+          "text": ". É o tal cenário de juros altos por mais tempo, que freia a economia e tira demanda de ativos de risco como o Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O vilão é o petróleo (e o conflito com o Irã)"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O grande peso do dia veio da geopolítica. Trump voltou a subir o tom contra o Irã, dizendo que o país demorou demais para negociar e que agora \"vai pagar o preço\", e depois afirmou aos jornalistas que os EUA vão \"atacar muito forte\". Há relatos de ataques iranianos contra Bahrein, Jordânia e Kuwait, além de luzes avistadas perto de uma base militar americana no Bahrein."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O reflexo direto apareceu no petróleo, que subiu cerca de 2% e voltou para perto dos $90 o barril. E aqui mora o problema para o Bitcoin: combustível é o principal vilão da inflação americana, com alta de 7% só em maio e mais de 40% nos últimos 12 meses por causa do fechamento do Estreito de Ormuz. Petróleo caro alimenta a inflação, que por sua vez trava o Fed nos juros altos. É um ciclo que não ajuda em nada os ativos de risco."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O dinheiro institucional está saindo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto isso, o lado institucional não dá nenhuma sustentação. Os ETFs de Bitcoin à vista nos EUA vêm registrando saídas persistentes nas últimas semanas, tirando bilhões do setor, e o período marcou uma das maiores saídas institucionais da história. A Wintermute resume bem o problema: falta dinheiro novo entrando, e as compras atuais não dão conta de absorver as vendas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No on-chain, um dado chama a atenção. Segundo a K33 Research, mais de 50% de todo o Bitcoin em circulação está hoje no prejuízo, depois de o preço furar os "
+        },
+        {
+          "text": "$60.000",
+          "bold": true
+        },
+        {
+          "text": " nesta semana. O detalhe é que leituras parecidas apareceram perto dos fundos de mercado de 2011, 2018 e 2022. Não é garantia de fundo, como o próprio analista faz questão de lembrar, mas é o tipo de extremo que costuma aparecer em momentos de forte estresse."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Os níveis que importam agora"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No gráfico, o Bitcoin segue tecnicamente frágil. Ele está abaixo das médias de 50, 100 e 200 semanas e vem marcando topos e fundos cada vez mais baixos desde que falhou em segurar acima dos $80.000. No mês, já são "
+        },
+        {
+          "text": "16,5% de queda",
+          "color": "red"
+        },
+        {
+          "text": ". O preço está mais de 50% abaixo da máxima histórica de outubro de 2025."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O número mais importante agora é o "
+        },
+        {
+          "text": "$60.000",
+          "bold": true
+        },
+        {
+          "text": ". Enquanto esse suporte segurar, o primeiro alvo de recuperação fica na faixa dos "
+        },
+        {
+          "text": "$64.000 a $65.000",
+          "color": "green"
+        },
+        {
+          "text": ", onde há bastante liquidez concentrada. Perdendo os $60.000, o caminho abre para os "
+        },
+        {
+          "text": "$55.000",
+          "color": "red"
+        },
+        {
+          "text": ". Mais abaixo, o próximo alvo é a região dos "
+        },
+        {
+          "text": "$52.400",
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Reforçando a cautela, existe um vazio de liquidez entre $50.000 e $59.000, uma faixa com pouca negociação que pode acelerar a queda se o suporte ceder. E, segundo a Polymarket, o mercado segue precificando uma queda até a casa dos "
+        },
+        {
+          "text": "$55.000",
+          "bold": true
+        },
+        {
+          "text": " ao longo das próximas semanas ou meses."
+        }
+      ]
+    }
+  ]
+}

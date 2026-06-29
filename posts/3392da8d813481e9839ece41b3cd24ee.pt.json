@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "id": "3392da8d813481e9839ece41b3cd24ee",
+  "locale": "pt",
+  "slug": "analise-04-abril",
+  "date": "2026-04-05T00:30:00.000Z",
+  "updated": "2026-04-05T04:51:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/6eef22a00fab1e00.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2cbb63f124b2fe12.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 04 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em $67.293 "
+        },
+        {
+          "text": "(+0,52%)",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$67.563",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$66.776",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Entre o Suporte e a EMA 200w"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dia de recuperação leve do Bitcoin, com alta de 0,5%. O preço ficou preso em uma faixa estreita entre $66.750 e $67.563 durante todo o sábado, com volume baixo. Nada de novo no front de notícias. O mercado está "
+        },
+        {
+          "text": "parado",
+          "bold": true
+        },
+        {
+          "text": ", esperando."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O contexto é claro: estamos em bear market. O BTC opera abaixo das três médias exponenciais principais no gráfico semanal. A EMA de 200 semanas, em "
+        },
+        {
+          "text": "$68.200, é a resistência imediata",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", e o Bitcoin está apenas 1,4% abaixo dela. É como uma porta que o preço tenta empurrar, mas sem força para abrir."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para quem acompanha as análises aqui, essa história não é nova. Desde o dia 26/03 a EMA 200w tem sido citada como a linha divisória entre uma correção e um bear market acelerado. O BTC perdeu esse nível e não conseguiu reconquistá-lo. Enquanto isso, "
+        },
+        {
+          "text": "o suporte em $65.000,",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " que temos mencionado, tem segurado firme, com três testes nos últimos 10 dias."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fear and Greed está em 12, ou seja, medo extremo. Há algumas semanas o indicador não sai do fundo. Historicamente, períodos longos de medo extremo podem anteceder "
+        },
+        {
+          "text": "movimentos fortes de recuperação",
+          "bold": true
+        },
+        {
+          "text": ", mas por enquanto não há nenhum sinal técnico de reversão. O mercado de derivativos confirma a indecisão: o número de posições compradas está diminuindo, mas sem pressão agressiva de vendas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-04-05;type:line;line:SUPORTE $65.000|||red|0.2|||9,EMA 200w $68.200|||green|0.2|||4,RESISTÊNCIA $72.000|||green|0.2|||4}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Precisa Acontecer Para Voltarmos aos $70k"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o Bitcoin voltar a subir, o primeiro passo é simples, mas difícil: fechar um dia acima da EMA 200w, na zona de $68.200 a $68.300, com volume acima da média. Sem isso, qualquer alta é apenas um fôlego dentro da tendência de queda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse cenário tem sido o mesmo nas últimas cinco análises. Reconquistar a EMA 200w e avançar para $70.000. Ainda não aconteceu. Cada dia que passa sem essa recuperação enfraquece esse cenário, que tem probabilidade de 25%. Os alvos, caso se materialize, são claros: primeiro a zona de $69.000 a $69.500, depois a resistência forte entre $71.400 e $72.000, onde o preço foi rejeitado cinco vezes seguidas entre 22 e 25 de março."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que pode destravar isso? O PCE (índice de inflação do Fed) sai na quinta-feira, dia 09/04. Se vier abaixo do esperado, reacende a esperança de cortes de juros e pode dar o empurrão que o Bitcoin precisa. Qualquer sinal de desescalada nas tarifas também ajuda. A Polymarket precifica 98% de chance de nenhum corte na reunião de abril do Fed, então a ajuda não virá em breve. A recuperação precisa vir de dados econômicos mais fracos que aumentem a expectativa de "
+        },
+        {
+          "text": "cortes futuros",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A dominância do Bitcoin em 56,2% é alta, o que mostra que dentro do mercado cripto o dinheiro está fugindo das altcoins e indo para Bitcoin. É um sinal de aversão ao risco, mas também significa que quando o sentimento melhorar, pode haver uma reversão forte."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "E Se o BTC Perder os $60k?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Do outro lado, "
+        },
+        {
+          "text": "o cenário de queda continua mais provável",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": ". A probabilidade é de 40%. O gatilho é um fechamento diário abaixo de $65.000 com volume acima da média. Se isso acontecer, o primeiro alvo é a zona de $63.000 a $63.500, nível que nunca foi testado neste ciclo de queda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para quem acompanha desde março, o suporte de $65.000 é citado desde o dia 29 e tem segurado. Mas o preço está cada vez mais comprimido entre esse suporte e a EMA 200w em $68.200. Compressão assim eventualmente se resolve em uma direção. E a tendência é de queda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se $65.000 não aguentar, o destino provável é a zona de $58.900 a $59.000. Essa é a região da EMA de 250 semanas, onde historicamente os bear markets encontram fundo. Aconteceu em 2015, 2018, 2020 e 2022. Não é uma previsão, é um padrão."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "icon": "💡",
+      "color": "gray_background",
+      "blocks": [
+        {
+          "type": "p",
+          "spans": [
+            {
+              "text": "Inclusive é o preço da nossa zona de DCA na posição de BTC!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que pode empurrar o preço para baixo? O mesmo PCE de quinta-feira, mas vindo acima do esperado. Isso confirmaria inflação persistente e tiraria qualquer esperança de corte de juros. Uma escalada nas tarifas ou retaliação comercial da China ou da União Europeia também seria negativa. O dólar forte e a aversão global ao risco seguem como ventos contrários."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "PCE na Quinta e a Janela de Decisão do BTC"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nos próximos dias, tudo gira em torno do PCE de quinta-feira (09/04). É o principal indicador de inflação do Federal Reserve e pode definir o tom para as próximas semanas. Até lá, o preço deve continuar consolidando entre $66.000 e $68.000, sem força para ir a lugar nenhum."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o PCE vier acima do esperado, o Bitcoin pode testar $65.000 mais uma vez. Se vier abaixo, pode dar o empurrão para tentar a EMA 200w em $68.200. O mercado está em modo de espera."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Abril tem retorno médio histórico de +13% no Bitcoin. É um dado positivo, mas não garante nada no contexto atual de tarifas em escalada, Fed sem sinal de corte e sentimento em medo extremo prolongado. Se $65.000 segurar e os dados macro permitirem expectativa de cortes para meados do ano, uma recuperação para $70.000 a $75.000 é possível no segundo trimestre. Mas se $65.000 não aguentar, a zona de $59.000 é o próximo destino provável."
+        }
+      ]
+    }
+  ]
+}

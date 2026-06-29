@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "id": "32f2da8d813481a8a189f5ced93d1881",
+  "locale": "pt",
+  "slug": "analise-25-mar",
+  "date": "2026-03-26T01:00:00.000Z",
+  "updated": "2026-03-27T02:11:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/17264244be2b3d00.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 25 Mar"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin: "
+        },
+        {
+          "text": "$71.337 ",
+          "bold": true
+        },
+        {
+          "text": "+1,11% no dia",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Máxima: "
+        },
+        {
+          "text": "$72.026",
+          "color": "green"
+        },
+        {
+          "text": " | Mínima: "
+        },
+        {
+          "text": "$70.408",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Cenário Atual"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin fechou o dia em $71.337, alta de 1,1%, mas o gráfico conta uma história um pouco diferente: é a segunda vez consecutiva que o preço toca $72.026 e recua, formando um double top na mesma resistência testada em 23 de março. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Estamos no mês 23 pós-halving de abril/2024, na janela histórica de 12 a 18 meses que precedeu os topos de ciclo em 2021 e 2017. Em 2021, o Bitcoin estava em torno de $45.000 nesse mesmo ponto e subia com força; em 2017, estava em aceleração final perto de $9.000… "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O contexto atual é diferente: o BTC opera 27,3% abaixo da média de 50 semanas ($98.088) e 18,5% abaixo da de 100 semanas ($87.508), sinalizando fraqueza estrutural de médio prazo. A média de 200 semanas ($59.271) segue abaixo, mantendo o bull market de longo prazo intacto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1m;date:2026-03-25;type:line;candle:1d;line:70500|||red|0.2|||4,72026|||green|0.2|||4}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se As Coisas Correrem Bem"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o cenário otimista se confirmar, o BTC precisa fechar um candle de 4 horas acima de $72.200, invalidando o double top e abrindo caminho para o gap CME entre $73.800 e $74.500. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O principal catalisador é o PCE de sexta-feira, 28 de março: se o índice de inflação favorito do Fed vier em linha ou abaixo, a narrativa de corte de juros ganha tração e o capital represado começa a voltar. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A parceria Franklin Templeton e Ondo Finance anunciada hoje, criando ETFs tokenizados negociáveis 24/7 em carteiras cripto, pode funcionar como sinal de institucionalização que muda o sentimento. Expiração de $14 bilhões em opções na sexta, com calls concentradas em $75.000, também atua como imã caso o rompimento se confirme."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se As Coisas Complicarem"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O risco imediato é uma quinta rejeição na zona de $71.400 a $72.026, com o Fear & Greed em 10 (Medo Extremo) pelo oitavo dia consecutivo, o que mantém a psicologia favorecendo os vendedores. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Um PCE acima do esperado na sexta seria o gatilho para um flush, testando primeiro o suporte em $70.500 e, se perdido, caindo para a zona de $69.300 a $69.500 que segurou a semana passada. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Abaixo disso, $67.360 é o suporte crítico: sua perda abriria caminho para uma correção mais profunda em direção aos $65.000."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar Amanhã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O PCE de sexta-feira, 28 de março, é o evento que define a semana: acima do esperado e o cenário bear ganha força, em linha ou abaixo e os touros voltam ao controle. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Junto com isso, o vencimento de $14 bilhões em opções de BTC com calls concentradas em $75.000 vai pressionar o mercado na direção do breakout ou do recuo, a depender do dado de inflação."
+        }
+      ]
+    }
+  ]
+}

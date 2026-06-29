@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "id": "2fb2da8d813480878f75dc981220d53e",
+  "locale": "pt",
+  "slug": "analise-mercado---02-fev",
+  "date": "2026-02-02T04:32:00.000Z",
+  "updated": "2026-03-02T18:50:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "ETH",
+      "color": "purple"
+    },
+    {
+      "name": "SOL",
+      "color": "blue"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/98d80ffcb7c6f25e.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4817747dc911bccf.jpg",
+  "icon": {
+    "emoji": "📈"
+  },
+  "title": [
+    {
+      "text": "Análise Mercado - 02 FEV"
+    }
+  ],
+  "excerpt": "O mercado voltou a derreter na madrugada de domingo para segunda.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O mercado voltou a derreter na madrugada de domingo para segunda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com isso, precisamos reavaliar os pontos de interesse. Como vocês já sabem, fazemos isso através de mapas de liquidação que nos mostram regiões onde as baleias podem querer ver o preço indo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": ":crypto-btc:"
+        },
+        {
+          "text": " Bitcoin"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b6496b98e67efc78.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O mapa de liquidação do Bitcoin na Binance mostra um volume quase "
+        },
+        {
+          "text": "inexistente",
+          "bold": true
+        },
+        {
+          "text": " abaixo de $73,500."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essa limpeza geralmente "
+        },
+        {
+          "text": "atrai o preço para cima",
+          "bold": true
+        },
+        {
+          "text": ". Não impede de vermos uma trap (quando o preço começa a subir e muitas sardinhas entrem mega alavancadas, atraindo o preço para baixo novamente)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A faixa entre $88,000 e $97,500 passa a ficar muito interessante para pensarmos em alvos de venda (+16%)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Assimetria do Bitica está ficando bem legal e compras a partir daqui podem ser bem inteligentes."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": ":crypto-eth3:"
+        },
+        {
+          "text": " Ether"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/d77c6d59f20a66ae.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Diferente do Bitcoin, o Ether ainda tem faixas de liquidação interessante mais abaixo: até os $1,600 pode ficar atrativo para as baleias."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A limpeza definitiva de liquidação, fica só abaixo de $1,470. Não quer dizer que o preço vai buscar essas regiões, mas se buscar não quero ninguém surpreso aqui! "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Apesar disso, as faixas mais para cima estão bem interessantes, com volume de liquidação de Shorts entre $3,000 e $4,800."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A assimetria é favorável para quem quer comprar agora, desde que você esteja preparado para fazer um DCA mais baixo e defender sua posição. Em outras palavras: nunca entre com tudo."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": ":crypto-sol:"
+        },
+        {
+          "text": " Solana"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/1eee5d4eb6af48de.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "SOL já é uma das moedas que não temos o histórico completo de acúmulo de liquidação então temos que tomar um pouco mais de cuidado na análise."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ainda assim, o cenário aqui é mais parecido com Bitcoin: faixas de liquidação estão se acumulando mais a cima do preço."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nesse momento, buscar muito abaixo de $95 é menos interessante do que voltar para os $106."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Regiões de $121 a $149 estão bem interessantes e também podem formar alvos a longo prazo."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": ":crypto-xrp:"
+        },
+        {
+          "text": " XRP"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b1c25e105f2fabb2.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "XRP acabou de absorver uma região de muita liquidação, inclusive rompendo a mínima de Abril de 2025."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Agora o acúmulo de liquidação é todo para cima: de $1.64 até $2.50! "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Porém é importante notar que em Outubro de 2025 tivemos uma agulhada absurda até $1.17… então estar preparado para revisitar essa região é algo bem inteligente de se fazer."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 1,
+      "spans": [
+        {
+          "text": "Conclusão"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Estamos limpando grandes regiões de liquidação. A grande maioria das moedas se encontra em uma região de assimetria muito boa!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Iniciar compras nessas faixas deixa você em uma posição muito confortável desde que você não compre tudo de uma vez e guarde para aproveitar quedas ainda mais acentuadas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Lembrando que nada disso são dicas de investimento, são apenas minhas análises e a forma com que eu enxergo o mercado!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Aproveitem o momento com sabedoria, sem desespero, sabendo que os preços estão descontados mas podem cair ainda mais. São em anos como esses que encontramos as melhores oportunidades!"
+        }
+      ]
+    }
+  ]
+}

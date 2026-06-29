@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "3452da8d8134811bb0c1da6e05a3d1f0",
+  "locale": "pt",
+  "slug": "bitcoin-sobe-5-em-dia-de-alta-generalizada",
+  "date": "2026-04-17T14:39:00.000Z",
+  "updated": "2026-04-17T15:19:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    },
+    {
+      "name": "Adoção",
+      "color": "orange"
+    },
+    {
+      "name": "ETH",
+      "color": "purple"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/52b7fdeb8a763848.png",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4518647de9ae50c8.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Sobe 5% em Dia de Alta Generalizada"
+    }
+  ],
+  "excerpt": "Bitcoin avançou +5,11% nas últimas 24 horas, atingindo $77.598. ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin avançou "
+        },
+        {
+          "text": "+5,11%",
+          "color": "green"
+        },
+        {
+          "text": " nas últimas 24 horas, atingindo "
+        },
+        {
+          "text": "$77.598",
+          "bold": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A alta veio acompanhada de ganhos expressivos em todo o mercado, com Ethereum, Solana e XRP registrando valorização acima de 6%."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O movimento de recuperação ganhou força nesta sexta-feira (17), levando o Bitcoin de uma mínima de "
+        },
+        {
+          "text": "$73.827",
+          "bold": true
+        },
+        {
+          "text": " para "
+        },
+        {
+          "text": "uma máxima de ",
+          "color": "green"
+        },
+        {
+          "text": "$77.743",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " no período de 24 horas",
+          "color": "green"
+        },
+        {
+          "text": ". O volume negociado somou "
+        },
+        {
+          "text": "$1,76 bilhão",
+          "bold": true
+        },
+        {
+          "text": ", sinalizando participação relevante do mercado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário institucional, os ETFs de Ethereum completaram seis dias consecutivos de entradas líquidas, reforçando o apetite de investidores tradicionais pelo setor. A Flow Capital anunciou a migração de um fundo de crédito de "
+        },
+        {
+          "text": "$150 milhões",
+          "bold": true
+        },
+        {
+          "text": " para blockchain por meio da plataforma DigiFT, mais um sinal de adoção real por parte do mercado financeiro tradicional."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A combinação de entradas consistentes em ETFs e movimentos de migração de ativos reais para blockchain indica que o capital institucional segue buscando exposição ao setor. Isso acontece mesmo com o índice Fear & Greed permanecendo em medo extremo, hoje em 21 (contra 23 ontem)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A taxa de funding virou levemente positiva nas últimas leituras, sugerindo que posições compradoras voltaram a predominar. O Open Interest subiu para "
+        },
+        {
+          "text": "$7,48 bilhões",
+          "bold": true
+        },
+        {
+          "text": ", com novas posições sendo abertas em paralelo à alta de preço."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o Bitcoin conseguir se manter acima de $77.000, o próximo nível a observar é a região de $79.500 a $80,000. Caso o movimento perca força, o suporte mais próximo está em $74.000, próximo dos fechamentos dos últimos dias."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário regulatório, a SEC sinalizou um tom mais brando em seu novo podcast, o que pode influenciar o sentimento nas próximas semanas. A operação de "
+        },
+        {
+          "text": "$550 milhões",
+          "bold": true
+        },
+        {
+          "text": " da Payward para adquirir a Bitnomial reforça a consolidação da infraestrutura de derivativos nos Estados Unidos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "3762da8d8134813bad6bd7375d9ce65a",
+  "locale": "en",
+  "slug": "bitcoin-touches-cycle-bottom-zone",
+  "date": "2026-06-05T23:00:00.000Z",
+  "updated": "2026-06-05T23:00:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a649a969fa3ddc05.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a649a969fa3ddc05.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Touches Cycle-Bottom Zone"
+    }
+  ],
+  "excerpt": "As we'd been mapping out, Bitcoin finally broke below $60,000 and printed lows in the $59,100 range. It was a sharp drop (more than 5% on the day and nearly 20%",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As we'd been mapping out, Bitcoin finally broke below "
+        },
+        {
+          "text": "$60,000",
+          "color": "red"
+        },
+        {
+          "text": " and printed lows in the "
+        },
+        {
+          "text": "$59,100",
+          "color": "red"
+        },
+        {
+          "text": " range. It was a sharp drop (more than 5% on the day and nearly 20% on the week) driven by a U.S. jobs report that came in much stronger than the market expected. The economy added 172,000 jobs in May (against the forecast of 85,000), which crushed any hope of a rate cut anytime soon. As a result, the market is now pricing in a real chance of a rate "
+        },
+        {
+          "text": "hike",
+          "italic": true
+        },
+        {
+          "text": " by the end of the year. When money gets more expensive, risk assets like crypto suffer, and that's exactly what we're seeing."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The result was a liquidation cascade. In just one hour, more than "
+        },
+        {
+          "text": "$155 million",
+          "color": "red"
+        },
+        {
+          "text": " in long positions were wiped out, adding up to more than "
+        },
+        {
+          "text": "$1.7 billion",
+          "color": "red"
+        },
+        {
+          "text": " in liquidations over the last 24 hours. The breakdown of the $60K support triggered automatic stops and accelerated the selling. The derivatives market is heavy, and any move lower turns into an avalanche."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Institutional Malaise"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The institutional side isn't helping either. U.S. spot ETFs recorded only $3 million in inflows on Thursday, ending a streak of 13 straight days of outflows that pulled "
+        },
+        {
+          "text": "$4.37 billion",
+          "color": "red"
+        },
+        {
+          "text": " out of the funds. It was the longest selling stretch since these products launched. Strategy (formerly MicroStrategy) was also back in the headlines after selling 32 BTC — a symbolic amount, but one that rattled market sentiment because it broke a narrative of infinite accumulation."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Meanwhile, crypto-linked stocks bled right alongside it. Shares of exchanges and companies holding Bitcoin on their balance sheets fell hard, and capital rotation has favored Artificial Intelligence at the expense of cryptocurrencies. "
+        },
+        {
+          "text": "Spot trading volume fell to its lowest level since 2023, which shows that buy-side demand is weak.",
+          "bold": true,
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "On-Chain Signals and the Buy Zone"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Despite the fear in spot markets, some on-chain data suggest we're entering a "
+        },
+        {
+          "text": "capitulation",
+          "italic": true
+        },
+        {
+          "text": " zone. The percentage of Bitcoin holders in profit has reached a long-term trendline that has historically marked cycle bottoms. On top of that, short-term holders are realizing losses at record levels, a sign that the most nervous investors are already offloading their coins."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Technically, we touched the 250W EMA (low), a historic region that marks the start of the cycle-bottom band. That band runs from $59,900 down to $44,300, but it already offers excellent zones for strategic buying. Polymarket continues to price a bottom between "
+        },
+        {
+          "text": "$50,000 and $55,000",
+          "color": "green"
+        },
+        {
+          "text": " by the end of the year, with a good chance of testing "
+        },
+        {
+          "text": "$57,000",
+          "color": "green"
+        },
+        {
+          "text": " this month. Losing the $60K support now exposes the $55,000 area as the next big cushion."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e2f2bea42ba5ed7a.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

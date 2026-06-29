@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "2f42da8d813480feba46d26624b96e85",
+  "locale": "pt",
+  "slug": "analise-bitcoin---19-nov",
+  "date": "2025-11-19T22:00:00.000Z",
+  "updated": "2026-02-12T12:49:00.000Z",
+  "categories": [
+    "Mercado",
+    "Video"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/95c7f64ee84a740a.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Análise Bitcoin - 19 NOV"
+    }
+  ],
+  "excerpt": "",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://youtu.be/f-1k843HoZM?si=EtyLtQLigBVXbtl7"
+    }
+  ]
+}

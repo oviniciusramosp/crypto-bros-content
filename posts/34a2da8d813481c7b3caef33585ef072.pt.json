@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "34a2da8d813481c7b3caef33585ef072",
+  "locale": "pt",
+  "slug": "analise-21-abril",
+  "date": "2026-04-22T00:57:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/259fafe49d8cd784.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/bcd7526c372d7701.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 21 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$76.305",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0,49%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$76.927",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$74.821",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Alta sem Plateia"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin avançou de forma discreta nesta terça-feira, fechando próximo dos $76.300 após tocar a máxima de $76.927 no intradiário. O volume ficou abaixo da média dos últimos sete dias, indicando que poucos participantes acompanharam o movimento."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O impulso veio dos mercados tradicionais: a NASDAQ subiu 2,63% e o S&P 500 avançou 1,39%, puxando ativos de risco. O dólar segue fraco, com o DXY estável na casa dos 98, patamar que historicamente favorece o Bitcoin. As tensões entre EUA e Irã seguem no radar, com JD Vance cancelando sua viagem ao Paquistão em meio à escalada diplomática, o que limita o apetite por risco em cripto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-22;type:candle;candle:1d;ema:50w-green,100w-orange;line:73800|2026-04-14||green|0.5|dashed,78000|2026-04-17||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário de alta que mapeamos ontem se materializou parcialmente: o suporte na região dos $73.000 segurou firme e o Bitcoin atingiu $76.927, a menos de $100 do alvo de $77.000 que havíamos projetado. No quadro maior, o preço segue 13% abaixo da EMA de 50 semanas, confirmando que a recuperação acontece dentro de uma estrutura de mercado de baixa."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Porta dos $78.000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho para continuidade de alta é o rompimento da resistência em $78.000, nível que rejeitou o preço na sexta-feira passada quando Bitcoin atingiu $78.322 e reverteu. Um fechamento acima desse patamar com volume acima da média abriria caminho para os $80.000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o Bitcoin superar os $80.000, o próximo alvo seria na região dos $82.500, onde está a EMA de 100 semanas. Reconquistar essa média mudaria a classificação de mercado de baixa confirmado para zona de alerta, um passo importante na recuperação estrutural."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores que podem destravar esse cenário incluem desescalada nas tensões entre EUA e Irã, continuidade dos fluxos institucionais como os da Strategy, e a posição dos futuros: com a maioria dos traders posicionados na venda (ratio long/short em 0,86), qualquer rompimento de alta pode gerar uma onda de liquidações que aceleraria o movimento."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Risco dos $73.000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte em $73.800 foi testado cinco vezes nas últimas semanas e segurou todas. Cada teste, porém, enfraquece o nível. Uma perda com fechamento diário abaixo desse patamar levaria o Bitcoin até a região dos $70.500, zona de suporte testada no início de abril."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se os $70.500 não segurarem, o alvo seguinte seria na casa dos $68.400, onde está a EMA de 200 semanas, o último suporte de longo prazo antes do piso de ciclo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os riscos que podem ativar esse cenário: escalada militar entre EUA e Irã no Estreito de Ormuz, reversão dos fluxos de ETFs de Bitcoin, ou dados de emprego e inflação acima do esperado nos EUA. No ecossistema cripto, o envio de 1,32 milhão de Solana para exchanges sinaliza vendas potenciais, e o ataque de $292 milhões ao KelpDAO adiciona cautela ao segmento DeFi."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Radar da Semana"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os níveis para acompanhar são claros: resistência em $78.000 por cima e suporte em $73.800 por baixo. O Bitcoin está comprimido entre esses dois patamares, e o rompimento de qualquer um deles deve definir a direção dos próximos dias. O RSI diário está em 68, se aproximando da zona que indica preço esticado no curto prazo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No calendário, a próxima reunião do FOMC acontece em 7 de maio. Até lá, o fator geopolítico entre EUA e Irã será o principal catalisador externo. Para o investidor de longo prazo, o preço segue 11,5% acima da EMA de 200 semanas, o último suporte estrutural do ciclo."
+        }
+      ]
+    }
+  ]
+}

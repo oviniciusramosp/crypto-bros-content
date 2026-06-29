@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "3602da8d813481e884d9f9f7f9b2cec3",
+  "locale": "en",
+  "slug": "crypto-regulatory-framework-advances-and-bitcoin-surges",
+  "date": "2026-05-14T18:30:00.000Z",
+  "updated": "2026-05-14T19:02:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/408ddc54dbbf98ff.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/408ddc54dbbf98ff.jpg",
+  "icon": {
+    "emoji": "🇺🇸"
+  },
+  "title": [
+    {
+      "text": "Crypto Regulatory Framework Advances and Bitcoin Surges"
+    }
+  ],
+  "excerpt": "The U.S. Senate Banking Committee approved the Digital Asset Market Clarity Act this Thursday by a 15-to-9 vote, a bipartisan tally that sends the bill to the S",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The U.S. "
+        },
+        {
+          "text": "Senate Banking Committee",
+          "italic": true
+        },
+        {
+          "text": " approved the Digital Asset Market Clarity Act this Thursday by a 15-to-9 vote, a bipartisan tally that sends the bill to the Senate floor. Senators Ruben Gallego (Arizona) and Angela Alsobrooks (Maryland) crossed party lines and joined the 13 Republicans, handing the "
+        },
+        {
+          "text": "crypto sector its first major legislative win of 2026",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Clarity Act establishes a federal framework for digital asset trading, stablecoins, and intermediaries, splitting oversight between the SEC and the CFTC. Most of the market falls under the CFTC, while the SEC retains authority over assets that behave like securities. "
+        },
+        {
+          "text": "Bitcoin reacted with a 2.81% rally over the last 24 hours and climbed back into the $82,000 range after days of selling pressure.",
+          "bold": true,
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "End of the Gray Zone"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Committee chairman Tim Scott (Republican of South Carolina) called the vote a turning point after years in which companies operated under what he described as outdated rules. The text, which grew to more than 200 pages over months of negotiation, sets registration, disclosure, and compliance requirements for exchanges, custodians, and brokers."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Senator Cynthia Lummis (Republican of Wyoming), who leads the committee's digital assets panel, described the bill as the most difficult piece of legislation in her decades in public service. For investors, the signal is clear. The American market is on track to leave behind the legal uncertainty that has held back institutional capital since 2022."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Next Steps"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The text now merges with a parallel bill from the Senate Agriculture Committee before heading to the floor, where it will need 60 votes to advance. The sponsors' stated goal is to hold a vote by August. The leading opponent of the bill, Senator Elizabeth Warren (Democrat of Massachusetts), sharply criticized the proposal, called the text industry-written, and pledged to obstruct it."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For Brazilian investors, the effect is macro. A clear regulatory framework in the United States tends to reduce the sector's risk premium and unlock institutional fund flows, which historically pull Bitcoin higher along with them. The Fear & Greed sits at 34 points, still not reflecting the news in retail sentiment."
+        }
+      ]
+    }
+  ]
+}

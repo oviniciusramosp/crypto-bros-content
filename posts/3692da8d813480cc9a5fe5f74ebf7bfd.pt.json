@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "id": "3692da8d813480cc9a5fe5f74ebf7bfd",
+  "locale": "pt",
+  "slug": "analise-semanal",
+  "date": "2026-05-25T02:16:00.000Z",
+  "updated": "2026-05-25T02:43:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/75e0f7b9176e6a8f.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Análise Semanal"
+    }
+  ],
+  "excerpt": "Vamos iniciar uma série de análises semanais aqui, consolidando os eventos e movimentos dos últimos dias em uma publicação mais direto ao ponto.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vamos iniciar uma série de análises semanais aqui, consolidando os eventos e movimentos dos últimos dias em uma publicação mais direto ao ponto."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou a semana em baixa, porém um com movimento muito interessante que vãos destrinchar abaixo:"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A EMA de 100 Semanas"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essa última semana marcou a primeira rejeição da EMA de 100 semanas. Para quem acompanha a gente há mais tempo, sabe que já havíamos falado desse reteste da EMA100 desde que ela foi perdida em Janeiro."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/722028f7c867f863.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Sempre que uma EMA como essa é perdida, ela tem uma grande tendência de servir como resistência e foi exatamente o que aconteceu."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essa região também coincide com uma faixa de preço que apresentou volume comprador em Novembro do ano passado, e muito volume vendedor no começo do ano."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/db90261fce32d53b.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Fundo da Semana"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A parte interessante do movimento semanal foi a formação de fundo em $74k: primeiro que ele aconteceu durante o final de semana, liquidando uma parte dos players que criou uma expectativa grande de rompimento da EMA."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O motivo da queda é muito simples: os rumores envolvendo o acordo dos EUA com o Irã. Um rumor de novo ataque americano foi suficiente para gerar pânico. Porém esse sentimento durou pouco: Trump se pronunciou sobre o acordo e rapidamente o preço retomou os $77k."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/dd912bb286d3b84e.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com isso, a formação de fundo ficou muito interessante, representando uma limpeza de liquidez abaixo do fundo de Abril."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/207d3f2d94e43c1c.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "E Agora?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "momento ainda é de Bear Market",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " e tanto a EMA 100W quanto 50W representam resistências. Ou seja, as chances seguem sendo maiores de termos dificuldades de retomar os $85k e $90k."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A leitura do mercado, via Polymarket, condiz com isso: a maioria das apostas é para BTC buscando os $70k antes dos $90k."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Porém o pessimismo não toma conta: temos a EMA 200W como suporte eminente e semana a semana estamos avançando no ciclo e diminuindo as chances de uma grande pernada de baixa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A faixa de fundo de ciclo encontra-se atualmente entre ~$60k e $44k, porem ambos os valores seguem subindo. "
+        },
+        {
+          "text": "A chance do fundo já ter sido feito no dia 6 de Fevereiro também está subindo",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com isso, para quem não está posicionado no mercado, "
+        },
+        {
+          "text": "começar a posicionar entradas do preço atual até a faixa de $40k é uma excelente ideia",
+          "bold": true
+        },
+        {
+          "text": ". Não sabemos até onde vai cair ou se vai cair mais, por isso "
+        },
+        {
+          "text": "não tente acertar o fundo.",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "32d2da8d813481deb154ed1b26edfa8e",
+  "locale": "pt",
+  "slug": "rendimento-de-stablecoins-ameacado-e-circle-derrete-22",
+  "date": "2026-03-24T21:00:00.000Z",
+  "updated": "2026-03-25T02:38:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Stablecoins",
+      "color": "brown"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/335667837d22f6f2.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Rendimento de Stablecoins Ameaçado e Circle Derrete 22%"
+    }
+  ],
+  "excerpt": "A Circle, emissora da stablecoin USDC, sofreu sua pior queda desde junho de 2025 nesta terça-feira. As ações despencaram 22% após a divulgação de um novo rascun",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Circle, emissora da stablecoin USDC, sofreu sua pior queda desde junho de 2025 nesta terça-feira. As ações "
+        },
+        {
+          "text": "despencaram 22%",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " após a divulgação de um novo rascunho do CLARITY Act, projeto de lei americano que, se aprovado, "
+        },
+        {
+          "text": "proibiria o pagamento de rendimentos sobre saldos de stablecoins.",
+          "bold": true
+        },
+        {
+          "text": " A Coinbase, que divide receitas com a Circle, caiu 8% no mesmo pregão."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O novo rascunho do CLARITY Act, legislação que busca regulamentar stablecoins nos Estados Unidos, trouxe uma mudança significativa: a proibição de qualquer forma de rendimento que seja \"economicamente equivalente a juros\" sobre saldos de stablecoins. Na prática, isso atingiria em cheio o modelo de negócios da "
+        },
+        {
+          "text": "Circle",
+          "bold": true
+        },
+        {
+          "text": ", que coleta juros sobre os ativos de reserva do USDC e repassa parte dessa receita para a "
+        },
+        {
+          "text": "Coinbase",
+          "bold": true
+        },
+        {
+          "text": ", que por sua vez oferece rendimentos aos usuários que mantêm USDC na plataforma."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dan Dolev, analista do Mizuho, explicou que \"o CLARITY Act poderia potencialmente banir pagamentos de rendimento por simplesmente manter uma stablecoin e restringir qualquer abordagem que torne o programa equivalente a um depósito bancário\". A queda veio após uma alta expressiva: as ações da Circle haviam subido mais de 170% desde o início de fevereiro, o que deixou o papel vulnerável a qualquer notícia negativa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para piorar o cenário, a Circle também congelou o USDC de 16 carteiras de negócios ligadas a um processo civil selado nos EUA, reacendendo o debate sobre centralização e poder de censura em stablecoins."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O rendimento sobre stablecoins é um dos principais atrativos para usuários e investidores institucionais. Remover essa possibilidade dificulta que tokens como USDC evoluam além de simples ferramentas de pagamento. Como disse Shay Boloor, estrategista-chefe da Futurum Equities: \"Isso enfraquece uma parte central da tese de investimento\", limitando o caminho do USDC para se tornar um verdadeiro instrumento de reserva de valor."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O impacto vai além da Circle. A Coinbase tem cerca de 20% de sua receita vinculada ao USDC, e uma parcela significativa é paga como recompensas. A Robinhood (HOOD) também caiu 4,7%. O mercado cripto mais amplo sentiu a pressão: o Bitcoin, que já operava em queda no dia, chegou a perder os US$ 69 mil antes de se recuperar para "
+        },
+        {
+          "text": "US$ 70.105",
+          "bold": true
+        },
+        {
+          "text": " com a notícia de um possível cessar-fogo com o Irã no fim da tarde."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Analistas do Clear Street e da Bitwise consideram que a reação foi exagerada. Owen Lau, analista do Clear Street, afirmou que \"a situação real não parece tão ruim quanto a manchete indica\". Ryan Rasmussen, da Bitwise, lembrou que a Circle ainda acumula alta de mais de 30% no ano, mesmo após a queda, e que \"haverá formas de contornar\" a restrição."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto isso, a Tether contratou uma das Big Four para realizar a primeira auditoria completa das reservas do USDT, o que, se bem-sucedida, poderia melhorar a imagem institucional da rival e pressionar ainda mais a posição da Circle no mercado de stablecoins. O texto final do CLARITY Act ainda pode mudar, mas o recado de Washington é claro: stablecoins que funcionam como depósitos bancários terão restrições."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "34d2da8d813481119b54c3126403e06a",
+  "locale": "pt",
+  "slug": "analise-24-abril",
+  "date": "2026-04-25T00:55:00.000Z",
+  "updated": "2026-04-25T01:30:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/05b35df37514f847.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/65116af4fde170e8.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 24 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$77.334,61",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "-1,45%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$78.581,93",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$77.264,08",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Dia de Descolamento"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin recuou nesta sexta-feira para a faixa dos $77.300, como adiantamos ontem ao mapear o cenário de correção em direção à região dos $77.000. A mínima do dia ficou em "
+        },
+        {
+          "text": "$77.264",
+          "bold": true
+        },
+        {
+          "text": ", confirmando o teste desse nível. O volume permaneceu abaixo da média dos últimos sete dias, indicando um recuo gradual sem pressão intensa de venda."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O movimento chama atenção pelo contraste com as bolsas americanas. A Nasdaq subiu "
+        },
+        {
+          "text": "+1,50%",
+          "color": "green"
+        },
+        {
+          "text": " puxada pela NVIDIA em nova máxima histórica, e o S&P 500 avançou "
+        },
+        {
+          "text": "+0,55%",
+          "color": "green"
+        },
+        {
+          "text": ". Ouro e prata caíram forte ("
+        },
+        {
+          "text": "-1,69%",
+          "color": "red"
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "-5,34%",
+          "color": "red"
+        },
+        {
+          "text": "), sinalizando rotação de capital para ativos de risco. Mesmo nesse cenário favorável, Bitcoin não acompanhou, sugerindo fechamento de posições após três semanas consecutivas de alta."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-25;type:candle;candle:1d;ema:50w-green,200w-blue;line:2026-02-15|73800|||green|0.5|dashed,2026-04-10|79500|||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Shorts na Mira"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para retomar o caminho de alta, Bitcoin precisa romper a resistência em "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " com volume acima da média. Esse é o nível que travou o avanço na quarta-feira e coincide com a barreira psicológica dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O posicionamento no mercado de futuros cria uma assimetria interessante: "
+        },
+        {
+          "text": "56,61%",
+          "bold": true
+        },
+        {
+          "text": " das posições estão vendidas. Se o preço superar $79.500, essa concentração de vendidos favorece uma reversão rápida por liquidação de posições, acelerando o movimento de alta. A retomada da correlação com as bolsas americanas, que seguem em modo de apetite por risco, seria um impulso adicional."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se confirmado, o alvo primário seria a região dos "
+        },
+        {
+          "text": "$82.000",
+          "bold": true
+        },
+        {
+          "text": ", próxima da EMA de 100 semanas. O alvo secundário fica na faixa dos "
+        },
+        {
+          "text": "$85.000",
+          "bold": true
+        },
+        {
+          "text": ". A Tesla segue mantendo todo o seu Bitcoin, reforçando confiança institucional no ativo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se o Suporte Ceder"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário de baixa se ativa com a perda do suporte em "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": " em fechamento diário. Esse nível foi testado duas vezes nas últimas semanas e segurou com recuperações de 5% em ambas as ocasiões. A perda confirmaria a falha da zona e abriria espaço para quedas expressivas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores de risco incluem escalada nas tensões comerciais entre EUA e China e o dólar (DXY atualmente em "
+        },
+        {
+          "text": "98,51",
+          "bold": true
+        },
+        {
+          "text": ") rompendo acima de "
+        },
+        {
+          "text": "100",
+          "bold": true
+        },
+        {
+          "text": ". Surpresas negativas em dados econômicos americanos também pesariam. A combinação de liquidez reduzida com posicionamento alavancado pode amplificar qualquer movimento."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O alvo primário seria os "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": ", suporte psicológico e região de acumulações recentes. O secundário fica na região dos "
+        },
+        {
+          "text": "$68.400",
+          "bold": true
+        },
+        {
+          "text": ", onde está a EMA de 200 semanas. O cenário se invalida com retomada acima dos $76.000 em 48 horas, com volume crescente, a partir de um teste dos $73.800."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Opções e Fim de Semana"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O evento mais importante nas próximas horas é o vencimento mensal de "
+        },
+        {
+          "text": "$9,5 bilhões",
+          "bold": true
+        },
+        {
+          "text": " em opções de Bitcoin e Ethereum. Esse volume pode estar comprimindo a volatilidade, e o alívio após o vencimento tende a abrir espaço para movimentos mais amplos. O Fear & Greed permanece em medo, tendo recuado para 31."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fim de semana trará liquidez reduzida, o que favorece movimentos amplificados. Qualquer impulso acima de "
+        },
+        {
+          "text": "$79.500",
+          "bold": true
+        },
+        {
+          "text": " ou perda dos "
+        },
+        {
+          "text": "$73.800",
+          "bold": true
+        },
+        {
+          "text": " pode ganhar tração rapidamente. Acompanhe os níveis e mantenha a calma: o mercado define a direção, não a ansiedade."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:2y;date:2026-04-25;type:line;ema:200w-blue,50w-green}}"
+        }
+      ]
+    }
+  ]
+}

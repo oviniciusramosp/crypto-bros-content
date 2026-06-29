@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "3462da8d813481089991e7d65537761a",
+  "locale": "en",
+  "slug": "market-exits-extreme-fear-with-bitcoin-above-76000",
+  "date": "2026-04-18T15:23:00.000Z",
+  "updated": "2026-04-19T03:16:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4b8823ed733cbd6a.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/22ee9a5a0de4e667.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Market Exits Extreme Fear with Bitcoin Above $76,000"
+    }
+  ],
+  "excerpt": "The Fear & Greed Index rose from 21 to 26, moving out of the extreme fear zone. Bitcoin is trading around the $76,200 level, holding most of its weekly gains af",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fear & Greed Index rose from 21 to 26, moving out of the extreme fear zone. Bitcoin is trading around the "
+        },
+        {
+          "text": "$76,200",
+          "bold": true
+        },
+        {
+          "text": " level, holding most of its weekly gains after rallying from the "
+        },
+        {
+          "text": "$70,741",
+          "bold": true
+        },
+        {
+          "text": " low recorded last Sunday."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Current Market Snapshot"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Following yesterday's reported breakout above the 100-day moving average, price reached a high of "
+        },
+        {
+          "text": "$78,333",
+          "bold": true
+        },
+        {
+          "text": " before pulling back to the "
+        },
+        {
+          "text": "$76,000",
+          "bold": true
+        },
+        {
+          "text": " range. The 24-hour change is "
+        },
+        {
+          "text": "+0.87%",
+          "color": "green"
+        },
+        {
+          "text": ", with volume of "
+        },
+        {
+          "text": "$1.73 billion",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1w;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The pullback comes alongside a drop in open interest, which fell from "
+        },
+        {
+          "text": "$8.49 billion",
+          "bold": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "$7.80 billion",
+          "bold": true
+        },
+        {
+          "text": " in less than 24 hours. This signals that positions are being closed, reducing leverage across the market."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Changed"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Funding rates remain negative at "
+        },
+        {
+          "text": "-0.0071%",
+          "bold": true
+        },
+        {
+          "text": ", indicating that the majority of leveraged positions are still betting on a decline. However, the trend is improving — yesterday the rate was "
+        },
+        {
+          "text": "-0.0108%",
+          "bold": true
+        },
+        {
+          "text": ". When negative funding combines with rising prices, the risk of a rapid reversal through a short liquidation cascade increases."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the macro front, Trump's comments suggesting a possible deal with Iran signaled reduced geopolitical tension, which tends to favor risk assets like Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The support level to watch is in the "
+        },
+        {
+          "text": "$75,500",
+          "bold": true
+        },
+        {
+          "text": " range, near the 24-hour low. If price holds this zone, stabilization could set up a test of "
+        },
+        {
+          "text": "$78,000",
+          "bold": true
+        },
+        {
+          "text": ". A break below that support would bring price back to the "
+        },
+        {
+          "text": "$74,000",
+          "bold": true
+        },
+        {
+          "text": " area."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Sentiment has moved out of extreme fear but remains in fear territory. The reduction of leveraged positions and negative funding rates suggest caution among traders, while the macro environment offers some support."
+        }
+      ]
+    }
+  ]
+}

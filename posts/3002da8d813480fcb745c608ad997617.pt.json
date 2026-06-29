@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "3002da8d813480fcb745c608ad997617",
+  "locale": "pt",
+  "slug": "atualizacoes-no-app",
+  "date": "2026-03-04T04:56:00.000Z",
+  "updated": "2026-03-04T13:33:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/57744d17bd743b80.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b5dd3e1f3662e254.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Atualizações no App!"
+    }
+  ],
+  "excerpt": "Enquanto o mercado gera pânico e oportunidades… estamos atualizando o app com algumas novidades bem legais. Confira!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto o mercado gera "
+        },
+        {
+          "text": "pânico",
+          "bold": true
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "oportunidades",
+          "bold": true
+        },
+        {
+          "text": "… estamos atualizando o app com algumas novidades bem legais. Confira!"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dentro da tela "
+        },
+        {
+          "text": "Mais",
+          "bold": true
+        },
+        {
+          "text": ", você vai encontrar:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "[Glossário Atualizado](/glossario)"
+          }
+        ],
+        [
+          {
+            "text": "[Calculadora de Posição](/pos-calc): Ideal para quem opera trade e precisa cuidar do gerenciamento para não tomar sustos."
+          }
+        ],
+        [
+          {
+            "text": "[Simulador de DCA](/dca-sim): Uma forma fácil de simular qual seria o seu preço médio e performance se tivesse começado a fazer investimentos recorrentes em cripto. Ótimo para comparar Bitcoin com alts! 👀"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/419d5b47b4ef1f9a.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No "
+        },
+        {
+          "text": "Feed",
+          "bold": true
+        },
+        {
+          "text": " você pode deixar um "
+        },
+        {
+          "text": "curtir",
+          "bold": true
+        },
+        {
+          "text": " 🧡 e compartilhar o link do post (no momento o link compartilhado será o do teste do app)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Dentro das telas você vai encontrar prévias do glossário. Leu uma palavra que você não sabe o que significa? Tente clicar nela! Provavelmente verá a explicação sem precisar sair de onde você está!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ea8ddb82e8acf097.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se você tem um Apple Watch, poderá acompanhar o preço dos ativos que selecionamos, os indicadores do mercado além das trades ativas. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O sistema de notificação está melhor e a performance do app no geral também foi melhorada."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nas próximas atualizações:"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Gráficos em tela cheia "
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": false,
+      "spans": [
+        {
+          "text": "App traduzido para o inglês (WIP)"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Histórico de moedas mais completo"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Gráficos de Candle e com alguns indicadores de forma dinâmica"
+        }
+      ]
+    }
+  ]
+}

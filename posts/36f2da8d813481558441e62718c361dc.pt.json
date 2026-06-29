@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "36f2da8d813481558441e62718c361dc",
+  "locale": "pt",
+  "slug": "fim-do-bloqueio-no-estreito-de-ormuz-e-recuperacao-dos-74k",
+  "date": "2026-05-29T17:28:00.000Z",
+  "updated": "2026-06-01T17:04:00.000Z",
+  "categories": [
+    "Pulso"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2295385bb0a12eff.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Fim do Bloqueio no Estreito de Ormuz e ",
+      "color": "green"
+    },
+    {
+      "text": "Recuperação dos $74k"
+    }
+  ],
+  "excerpt": "Depois da queda de quinta para menos de $72k, o que chamou a atenção foi a velocidade de recuperação. Em poucas horas, o Bitcoin voltou para os $73k, caminha pa",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Depois da queda de quinta para menos de "
+        },
+        {
+          "text": "$72k",
+          "bold": true
+        },
+        {
+          "text": ", o que chamou a atenção foi a velocidade de recuperação. Em poucas horas, o Bitcoin voltou para os "
+        },
+        {
+          "text": "$73k",
+          "bold": true
+        },
+        {
+          "text": ", caminha para fechar o dia acima dos "
+        },
+        {
+          "text": "$74k",
+          "bold": true
+        },
+        {
+          "text": " e ainda absorveu mais de "
+        },
+        {
+          "text": "$1,2 bilhão",
+          "bold": true
+        },
+        {
+          "text": " em liquidações no caminho. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vale entender o que isso revela:"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A Limpeza Abaixo dos $73.000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O primeiro movimento de recuperação não veio sem dor. Quando o preço testou de volta a região dos $72.500, ainda existia muita posição comprada e alavancada no mercado. Essa segunda onda derrubou outros "
+        },
+        {
+          "text": "$352 milhões",
+          "bold": true
+        },
+        {
+          "text": " em longs antes que os compradores conseguissem retomar o nível com firmeza."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É uma mecânica clássica em duas pernadas, a primeira de "
+        },
+        {
+          "text": "$870 milhões liquidados",
+          "color": "red"
+        },
+        {
+          "text": " no susto do ataque e a segunda de "
+        },
+        {
+          "text": "$352 milhões",
+          "color": "red"
+        },
+        {
+          "text": " na tentativa de subir com a alavancagem ainda viva. Somando, mais de $1,2 bilhão em posições compradas foram zeradas em menos de 24 horas."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ec11cc801402ab49.gif",
+      "caption": [
+        {
+          "text": "BTC 30m"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Anúncio Que Trocou o Tom do Dia"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A virada definitiva veio quando "
+        },
+        {
+          "text": "Trump anunciou o fim do bloqueio naval no estreito de Ormuz",
+          "color": "green"
+        },
+        {
+          "text": ", reduzindo o risco de escalada militar no Oriente Médio. O Bitcoin reagiu rápido, recuperou os $74.000 e fechou o dia colado nesse nível."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É a leitura macro funcionando ao vivo. O mesmo gatilho que derrubou o preço, a geopolítica, foi o que o trouxe de volta. Quando o risco entra, capital foge para o dólar e o ouro. Quando o risco sai, capital volta para ativos de risco, e o Bitcoin entra nessa lista."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Essa Recuperação Revela"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Aqui está o ponto que importa. O mercado absorveu mais de $1,2 bilhão em liquidações de longs em um único dia e ainda deve fechar "
+        },
+        {
+          "text": "no verde",
+          "color": "green"
+        },
+        {
+          "text": ". Isso só acontece quando existe demanda estrutural esperando comprar a queda, comprador grande o suficiente para segurar o preço depois que a alavancagem é zerada."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Não estou cravando que isso confirma fundo, e o cenário macro segue volátil. Mas é um sinal importante, quem comprou no susto não vendeu na recuperação. Vamos acompanhando os próximos dias com calma."
+        }
+      ]
+    }
+  ]
+}

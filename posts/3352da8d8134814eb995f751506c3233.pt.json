@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "3352da8d8134814eb995f751506c3233",
+  "locale": "pt",
+  "slug": "eth-sobe-5-com-perspectiva-de-fim-da-guerra",
+  "date": "2026-04-01T11:05:00.000Z",
+  "updated": "2026-04-01T14:32:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "ETH",
+      "color": "purple"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ddc297e6f131cdf3.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "ETH Sobe 5% com Perspectiva de Fim da Guerra"
+    }
+  ],
+  "excerpt": "O Ethereum subiu +5,2% nas últimas 24 horas, chegando a $2.132 e rondando o nível psicológico de $2.200, enquanto o Bitcoin mantém terreno acima de $68.500. O g",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Ethereum subiu "
+        },
+        {
+          "text": "+5,2%",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " nas últimas 24 horas, chegando a "
+        },
+        {
+          "text": "$2.132",
+          "bold": true
+        },
+        {
+          "text": " e rondando o nível psicológico de $2.200, enquanto o Bitcoin mantém terreno acima de "
+        },
+        {
+          "text": "$68.500",
+          "bold": true
+        },
+        {
+          "text": ". O gatilho foi geopolítico: o presidente dos EUA, Donald Trump, afirmou que espera o fim do conflito com o Irã em até três semanas, elevando o apetite por risco em todos os mercados."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump declarou nesta madrugada (horário de Brasília) que o conflito entre os EUA e o Irã poderia se encerrar sem a necessidade de um acordo formal com Teerã. Ele anunciou um pronunciamento nacional para a noite de quarta-feira, descrito como uma \"atualização importante\". Em paralelo, o presidente iraniano, Masoud Pezeshkian, disse ao presidente do Conselho Europeu que o Irã tem \"a vontade necessária para encerrar esta guerra\", mas exige garantias contra futuras agressões."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A notícia gerou reação forte nos mercados asiáticos: o índice MSCI Ásia-Pacífico subiu 4% em uma única sessão, com Samsung e SK Hynix avançando mais de 9% cada. Os futuros do S&P 500 também subiram. O petróleo Brent, que havia recuado na terça-feira, voltou a se estabilizar acima de US$ 105 após o Wall Street Journal noticiar que os Emirados Árabes Unidos se preparam para ajudar a reabrir militarmente o Estreito de Hormuz, tornando-se o primeiro estado do Golfo a entrar no conflito."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No mercado cripto, o ETH foi o destaque, com alta de 5,2% nas últimas 24h. Já o BTC segue dentro do mesmo intervalo das últimas semanas, entre $65k e $73k, refletindo a postura mais cautelosa dos investidores em relação ao ativo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:ETH;time:1m;date:2026-04-01;type:line}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A guerra EUA-Irã foi um dos principais pesos sobre os mercados desde março. A perspectiva de encerramento reduz o prêmio de risco geopolítico que tem travado a recuperação de ativos de risco, incluindo o Bitcoin. Além disso, os ETFs de Bitcoin norte-americanos registraram entradas líquidas de "
+        },
+        {
+          "text": "$1,32 bilhão em março",
+          "bold": true
+        },
+        {
+          "text": ", os primeiros fluxos positivos mensais desde outubro de 2025, segundo dados da SoSoValue. Isso indica que o dinheiro institucional começa a voltar, ainda que de forma cautelosa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Fear & Greed Index segue em "
+        },
+        {
+          "text": "Extreme Fear (8)",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", o que evidencia que o sentimento do varejo ainda não acompanhou o movimento de preço. Em termos de derivativos, o funding rate do BTC, que estava negativo há dias, se aproximou de zero nesta manhã, sugerindo que a pressão vendedora via futuros está diminuindo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O pronunciamento de Trump previsto para esta noite é o próximo gatilho. Se confirmar avanços concretos em direção ao fim do conflito, o mercado tende a reagir positivamente. Para o ETH, o nível de "
+        },
+        {
+          "text": "$2.200",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": " é a resistência psicológica mais próxima; romper esse patamar abriria espaço para "
+        },
+        {
+          "text": "$2.400",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": ". Para o BTC, o teto do range recente em "
+        },
+        {
+          "text": "$69k-$70k",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": " é o ponto a observar. Se a escalada no Hormuz avançar e o petróleo retomar alta, a narrativa de alívio geopolítico se desfaz rapidamente e o suporte de "
+        },
+        {
+          "text": "$65k",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " volta ao radar."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "34a2da8d813481eca9f9decfd75a7d36",
+  "locale": "en",
+  "slug": "bitcoin-approaches-80000-as-gulf-ceasefire-expands",
+  "date": "2026-04-22T17:20:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b9156e7b2516a1be.png",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/896582e72e238e92.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Approaches $80,000 as Gulf Ceasefire Expands"
+    }
+  ],
+  "excerpt": "Bitcoin surged +4.00% over the past 24 hours, reaching a high of $79,473. The trigger was Donald Trump's decision to extend the ceasefire with Iran, easing the ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin surged "
+        },
+        {
+          "text": "+4.00%",
+          "color": "green"
+        },
+        {
+          "text": " over the past 24 hours, reaching a high of "
+        },
+        {
+          "text": "$79,473",
+          "bold": true
+        },
+        {
+          "text": ". The trigger was Donald Trump's decision to extend the ceasefire with Iran, easing the geopolitical tensions that had been holding the price back in recent days."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Diplomacy Sets the Pace"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The ceasefire extension removed the main risk factor weighing on markets. As we had mapped in Tuesday's coverage, a signal of renewed dialogue between the US and Iran could push Bitcoin toward the $77,000 level. The scenario played out with room to spare: the price broke above that level and advanced into the $79,000 range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The move marks the third consecutive day of recovery. Since Sunday's low of "
+        },
+        {
+          "text": "$73,802",
+          "bold": true
+        },
+        {
+          "text": ", Bitcoin has accumulated a gain of approximately 7%. The breadth of today's rally, which started from "
+        },
+        {
+          "text": "$74,822",
+          "bold": true
+        },
+        {
+          "text": ", reinforces buying conviction. Volume reached "
+        },
+        {
+          "text": "$1.61 billion",
+          "bold": true
+        },
+        {
+          "text": " over 24 hours."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:7d;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Institutional Backdrop Supports the Rally"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Beyond geopolitical relief, the institutional side remains hot. Over the past few weeks, Strategy accumulated the equivalent of 10 times the volume of all Bitcoin ETFs in 2026. Behind the scenes, American brokers are preparing to launch perpetual futures contracts in the US, anticipating a regulatory shift that could expand investor access to the market."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Perpetual futures are contracts that allow traders to bet on price direction without an expiration date. Currently restricted to offshore platforms, their arrival in the American market would represent a significant regulatory milestone for the sector."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The "
+        },
+        {
+          "text": "$80,000",
+          "bold": true
+        },
+        {
+          "text": " level is the next test. If US-Iran diplomacy advances toward concrete negotiations, the relief rally should hold. Any setback in the ceasefire, on the other hand, could give back part of the gains."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Ethereum rose "
+        },
+        {
+          "text": "+3.20%",
+          "color": "green"
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "$2,391",
+          "bold": true
+        },
+        {
+          "text": ". Solana advanced "
+        },
+        {
+          "text": "+2.15%",
+          "color": "green"
+        },
+        {
+          "text": ", following the broadly positive tone, but Bitcoin is leading the recovery."
+        }
+      ]
+    }
+  ]
+}

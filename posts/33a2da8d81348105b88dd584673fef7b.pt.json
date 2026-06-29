@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "33a2da8d81348105b88dd584673fef7b",
+  "locale": "pt",
+  "slug": "bitcoin-vai-de-666k-a-702k",
+  "date": "2026-04-06T15:36:00.000Z",
+  "updated": "2026-04-06T17:50:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a5d8937d0237224f.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin vai de $66.6K a $70.2K"
+    }
+  ],
+  "excerpt": "As últimas 24 horas foram intensas para o Bitcoin: depois de tocar $66,624 na madrugada de ontem (5/4), o BTC iniciou uma recuperação firme que o levou a atingi",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As últimas 24 horas foram intensas para o Bitcoin: depois de tocar $66,624 na madrugada de ontem (5/4), o BTC iniciou uma recuperação firme que o levou a atingir $70,219 hoje pela manhã (uma variação de mais de 5% em menos de um dia)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O preço atual gira em torno de $69,500, com alta de aproximadamente 3% nas últimas 24h."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Contexto Geopolítico: Irã, Trump e o Petróleo a $110"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fim de semana foi marcado por tensões escaladas entre EUA e Irã. O presidente Donald Trump ameaçou atacar instalações energéticas iranianas caso o Estreito de Ormuz continuasse bloqueado, o que empurrou o petróleo bruto para $110 o barril."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Paralelamente, surgiram relatos de negociações para um cessar-fogo de 45 dias envolvendo EUA, Irã e mediadores regionais, descrito como uma \"última tentativa\" para evitar ataques massivos à infraestrutura civil iraniana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essa notícia gerou um breve alívio nos mercados de risco, contribuindo para a alta do BTC."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Short Squeeze nos Derivativos: O Motor da Alta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A principal força por trás do salto de hoje não foi o mercado spot, mas sim o mercado de derivativos. As funding rates dos contratos perpétuos subiram para 0,00213%, indicando acúmulo rápido de posições alavancadas em long. Esse movimento forçou compras no mercado de futuros, gerando um short squeeze que empurrou o preço acima de $70K pela primeira vez em 10 dias."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Até o início de março, as funding rates estavam negativas, refletindo domínio de shorts e sentimento bearish. A virada brusca para positivo em 24h sugere uma mudança rápida de posicionamento institucional."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Perspectiva Técnica"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "O BTC rompeu a linha de tendência de baixa no gráfico diário e a EMA de 200 semanas."
+          }
+        ],
+        [
+          {
+            "text": "Resistência chave: $71,000 — Rompimento sustentado acima desse nível seria sinal claro de reversão."
+          }
+        ],
+        [
+          {
+            "text": "Próximo alvo: $75,000 — Caso $71K seja superado com volume."
+          }
+        ],
+        [
+          {
+            "text": "Suporte: $66,500 — Perder esse nível reabre espaço para testes em $63,000."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário é ambíguo: o Fear & Greed em 12 sugere pessimismo excessivo (historicamente momento de compra), mas a tensão geopolítica com o Irã e petróleo a $110 criam risco real de contágio para todos os ativos de risco."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    }
+  ]
+}

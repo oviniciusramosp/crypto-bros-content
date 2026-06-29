@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "id": "3442da8d8134816ba96ef2839a0f185f",
+  "locale": "pt",
+  "slug": "analise-15-abril",
+  "date": "2026-04-16T00:48:00.000Z",
+  "updated": "2026-04-17T14:54:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2a090643fedc3fea.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/9cc1f5a843cb3a45.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 15 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$74.700",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0,20%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$75.425",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$73.514",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Bitcoin Estável em $74.700 Enquanto Bolsas Disparam"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin passou a quarta-feira praticamente de lado, com variação de apenas "
+        },
+        {
+          "text": "+0,20%",
+          "color": "green"
+        },
+        {
+          "text": ", enquanto as bolsas americanas viveram um dia forte: o S&P 500 subiu "
+        },
+        {
+          "text": "+3,54%",
+          "color": "green"
+        },
+        {
+          "text": " e a Nasdaq avançou "
+        },
+        {
+          "text": "+6,10%",
+          "color": "green"
+        },
+        {
+          "text": ". Essa diferença de desempenho chama atenção, porque historicamente o BTC tende a acompanhar movimentos fortes de risco com um atraso de 24 a 72 horas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tecnicamente, o preço segue em tendência de alta no curto prazo, com mínimas ascendentes desde 5 de abril. A resistência em "
+        },
+        {
+          "text": "$76.000",
+          "color": "red"
+        },
+        {
+          "text": " continua sendo o obstáculo principal, testada ontem com máxima em ~$76.050 e "
+        },
+        {
+          "text": "rejeitada",
+          "bold": true
+        },
+        {
+          "text": ". No suporte, a região de "
+        },
+        {
+          "text": "$65.000",
+          "color": "green"
+        },
+        {
+          "text": " foi defendida diversas vezes entre o fim de março e início de abril, formando uma base sólida."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No gráfico semanal, o BTC está abaixo das EMAs de 50 e 100 semanas ("
+        },
+        {
+          "text": "$87.140",
+          "bold": true
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$82.854",
+          "bold": true
+        },
+        {
+          "text": ", respectivamente), o que mantém a estrutura pessimista no médio prazo. O suporte da EMA de 200 semanas em "
+        },
+        {
+          "text": "$68.300",
+          "color": "green"
+        },
+        {
+          "text": " segue intacto e distante, com o preço 9,4% acima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O volume de negociação caiu para cerca de "
+        },
+        {
+          "text": "14.000 BTC",
+          "bold": true
+        },
+        {
+          "text": " nas últimas 24 horas, 20% abaixo da média dos últimos 7 dias. A faixa de variação foi de apenas "
+        },
+        {
+          "text": "$1.911",
+          "bold": true
+        },
+        {
+          "text": " entre máxima e mínima. A falta de volume sugere que o mercado está digerindo a alta recente de $70.741 para $75.425."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:line;ema:200w-blue,50w-green;line:65000|2026-03-27||green|0.5|dashed,76000|2026-03-17||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Vamos Vencer os $76.000?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para confirmar a continuação da alta, o Bitcoin precisa fechar o dia acima de "
+        },
+        {
+          "text": "$76.000",
+          "color": "green"
+        },
+        {
+          "text": " com volume crescente. Até agora, essa região rejeitou o preço todas as vezes: em meados de março e novamente ontem."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário macro está jogando a favor. O S&P 500 subiu "
+        },
+        {
+          "text": "+3,54%",
+          "color": "green"
+        },
+        {
+          "text": " e a Nasdaq avançou "
+        },
+        {
+          "text": "+6,10%",
+          "color": "green"
+        },
+        {
+          "text": ". O dólar (DXY) caiu para "
+        },
+        {
+          "text": "98,0",
+          "bold": true
+        },
+        {
+          "text": ", abaixo do nível psicológico de 100, o que é um vento favorável para ativos de risco. Ouro em "
+        },
+        {
+          "text": "$4.850",
+          "color": "green"
+        },
+        {
+          "text": " e prata em "
+        },
+        {
+          "text": "$80,10",
+          "color": "green"
+        },
+        {
+          "text": " também subiram, sinalizando um movimento amplo de vender o dólar e comprar ativos reais."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nos derivativos, "
+        },
+        {
+          "text": "56,8%",
+          "bold": true
+        },
+        {
+          "text": " das posições estão vendidas e a taxa de funding está levemente negativa. Se o preço romper os $76.000, essas posições vendidas podem ser liquidadas à força, acelerando o movimento de alta. O alvo principal seria os "
+        },
+        {
+          "text": "$80.000",
+          "color": "green"
+        },
+        {
+          "text": ", número redondo sem resistências relevantes entre $76.000 e $80.000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O alvo secundário fica em "
+        },
+        {
+          "text": "$82.500",
+          "color": "green"
+        },
+        {
+          "text": " onde o BTC encontraria a EMA de 100 semanas, a primeira grande prova de fogo da estrutura pessimista de médio prazo. "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Em Caso de Rejeição Forte"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho para o cenário pessimista seria um fechamento diário abaixo de "
+        },
+        {
+          "text": "$73.500",
+          "color": "red"
+        },
+        {
+          "text": ", perdendo a mínima da faixa dos últimos dois dias. Isso sinalizaria que a tentativa de romper os $76.000 falhou e que os compradores perderam o controle."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O primeiro alvo seria "
+        },
+        {
+          "text": "$68.300",
+          "color": "red"
+        },
+        {
+          "text": ", próximo da EMA de 200 semanas, a última grande defesa técnica no gráfico macro. O segundo alvo seria a região de "
+        },
+        {
+          "text": "$65.000",
+          "color": "red"
+        },
+        {
+          "text": ", o suporte que foi testado múltiplas vezes entre o fim de março e início de abril."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Perder os $65.000 abriria uma nova perna de baixa sem referências técnicas próximas. "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Pontos de Atenção: RSI em 70,3 e Shorts Acumulados"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O ponto mais importante para acompanhar amanhã é a reação do preço na resistência de "
+        },
+        {
+          "text": "$76.000",
+          "color": "red"
+        },
+        {
+          "text": ". Um rompimento com volume muda o cenário. Uma rejeição pode trazer o preço de volta para a faixa dos $73.000 a $74.000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:now;type:rsi;rsi:14d;line:30|||green|0.6|dashed,70|||red|0.6|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O RSI em 70,3 está no limite: se continuar subindo sem recuo, pode sinalizar exaustão. Mas o acúmulo de posições vendidas nos derivativos (56,8% short) funciona como combustível para uma alta rápida caso haja rompimento. Fique de olho no volume, que hoje ficou abaixo da média. Volume crescente confirmaria qualquer direção."
+        }
+      ]
+    }
+  ]
+}

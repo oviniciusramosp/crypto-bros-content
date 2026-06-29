@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "3462da8d813481d1bb9fc38a9eeb1b1a",
+  "locale": "pt",
+  "slug": "mercado-sai-do-medo-extremo-com-bitcoin-acima-dos-76000",
+  "date": "2026-04-18T12:11:00.000Z",
+  "updated": "2026-04-18T15:10:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4b8823ed733cbd6a.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/22ee9a5a0de4e667.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Mercado Sai do Medo Extremo com Bitcoin Acima dos $76.000"
+    }
+  ],
+  "excerpt": "O índice Fear & Greed subiu de 21 para 26, saindo da faixa de medo extremo. Bitcoin opera na casa dos $76.200, mantendo boa parte dos ganhos acumulados na seman",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O índice Fear & Greed subiu de 21 para 26, saindo da faixa de medo extremo. Bitcoin opera na casa dos "
+        },
+        {
+          "text": "$76.200",
+          "bold": true
+        },
+        {
+          "text": ", mantendo boa parte dos ganhos acumulados na semana após avançar desde os "
+        },
+        {
+          "text": "$70.741",
+          "bold": true
+        },
+        {
+          "text": " registrados no último domingo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Cenário Atual"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Após o rompimento da média de 100 dias reportado ontem, o preço atingiu a máxima de "
+        },
+        {
+          "text": "$78.333",
+          "bold": true
+        },
+        {
+          "text": " antes de recuar para a região dos "
+        },
+        {
+          "text": "$76.000",
+          "bold": true
+        },
+        {
+          "text": ". A variação nas últimas 24 horas é de "
+        },
+        {
+          "text": "+0,87%",
+          "color": "green"
+        },
+        {
+          "text": ", com volume de "
+        },
+        {
+          "text": "$1,73 bilhão",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1w;date:now;type:candle;candle:4h}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O recuo vem acompanhado de uma queda no open interest, que saiu de "
+        },
+        {
+          "text": "$8,49 bilhões",
+          "bold": true
+        },
+        {
+          "text": " para "
+        },
+        {
+          "text": "$7,80 bilhões",
+          "bold": true
+        },
+        {
+          "text": " em menos de 24 horas. Isso indica que posições estão sendo encerradas, reduzindo a alavancagem no mercado."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Mudou"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As taxas de funding permanecem negativas em "
+        },
+        {
+          "text": "-0,0071%",
+          "bold": true
+        },
+        {
+          "text": ", indicando que a maioria das posições alavancadas ainda aposta na queda. Porém, a trajetória mostra melhora: ontem a taxa era de "
+        },
+        {
+          "text": "-0,0108%",
+          "bold": true
+        },
+        {
+          "text": ". Quando funding negativo se combina com preço subindo, o risco de uma reversão rápida por liquidação de posições aumenta."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No cenário macro, declarações de Trump sobre a proximidade de um acordo com o Irã trouxeram um tom de menor tensão geopolítica, o que tende a favorecer ativos de risco como Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Esperar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte a observar está na região dos "
+        },
+        {
+          "text": "$75.500",
+          "bold": true
+        },
+        {
+          "text": ", próximo da mínima de 24 horas. Se o preço mantiver essa faixa, a estabilização pode preparar um teste dos "
+        },
+        {
+          "text": "$78.000",
+          "bold": true
+        },
+        {
+          "text": ". Uma perda desse suporte levaria o preço de volta para a região dos "
+        },
+        {
+          "text": "$74.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O sentimento saiu do medo extremo, mas permanece em território de medo. A redução de posições alavancadas e o funding negativo sugerem cautela entre traders, enquanto o ambiente macro oferece algum suporte."
+        }
+      ]
+    }
+  ]
+}

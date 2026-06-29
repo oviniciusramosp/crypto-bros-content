@@ -1,0 +1,577 @@
+{
+  "schemaVersion": 1,
+  "id": "3292da8d813481f39567fb5b16d9eab6",
+  "locale": "pt",
+  "slug": "relatorio-19-mar",
+  "date": "2026-03-20T00:31:00.000Z",
+  "updated": "2026-03-25T02:38:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Relatório 19 MAR"
+    }
+  ],
+  "excerpt": "Nosso relatório feito pela IA do Crypto Bros:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nosso relatório feito pela IA do Crypto Bros:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": ":crypto-bitcoin:"
+        },
+        {
+          "text": " Bitcoin: "
+        },
+        {
+          "text": "$70.071",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "-1.51% no dia",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Máxima: "
+        },
+        {
+          "text": "$71.613",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " | Mínima: "
+        },
+        {
+          "text": "$68.793",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "(nova mínima semanal)",
+          "italic": true,
+          "color": "gray"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Moveu o Mercado",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que era tensão geopolítica de manhã virou escalada real à tarde. O Irã — que na sessão anterior estava bloqueando o Estreito de Ormuz — deu um passo além: as Guardas Revolucionárias Islâmicas (IRGC) atacaram fisicamente hubs de infraestrutura de energia do Golfo Pérsico. O Qatar, um dos maiores exportadores de gás natural do mundo, foi afetado. O petróleo cruzou "
+        },
+        {
+          "text": "$110 o barril",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " e as preocupações com recessão global aumentaram."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No mercado cripto, o efeito foi imediato: "
+        },
+        {
+          "text": "$458 milhões em posições foram liquidadas à força",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " num intervalo de horas. Uma baleia que operava na "
+        },
+        {
+          "text": "Hyperliquid",
+          "bold": true
+        },
+        {
+          "text": " foi completamente zerada. Esse tipo de limpeza forçada de alavancagem é doloroso no curto prazo, mas pode criar uma base mais sólida: o mercado fica sem posições frágeis penduradas que poderiam ser liquidadas depois."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "JPMorgan",
+          "bold": true
+        },
+        {
+          "text": ", maior banco de investimento do mundo, cortou sua projeção para o S&P 500 nesta tarde e emitiu um alerta claro: "
+        },
+        {
+          "text": "investidores estão subestimando o risco real do conflito com o Irã.",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": " Em paralelo, "
+        },
+        {
+          "text": "Donald Trump pressionou publicamente Jerome Powell",
+          "bold": true
+        },
+        {
+          "text": ", presidente do banco central americano (Fed), para cortar os juros para 1%. O Fed está fazendo o oposto — mantendo juros altos para combater a inflação. Essa disputa cria o pior cenário possível: inflação alta ao mesmo tempo em que a economia desacelera."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O termômetro de sentimento do mercado, o Fear & Greed Index, despencou de 23 para "
+        },
+        {
+          "text": "11 — Medo Extremo",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Readings abaixo de 15 são historicamente raros — aconteceram em momentos de crash severo ou, em alguns casos, logo antes de recuperações fortes. Ninguém sabe qual dos dois é este."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Outros movimentos relevantes",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "O dólar (índice DXY) "
+          },
+          {
+            "text": "caiu abaixo de 100",
+            "bold": true
+          },
+          {
+            "text": " — historicamente positivo pro Bitcoin como reserva de valor alternativa. Mas o efeito foi anulado pelo pânico geral com a guerra."
+          }
+        ],
+        [
+          {
+            "text": "O "
+          },
+          {
+            "text": "Fed propôs flexibilizar regras de capital de Basileia III",
+            "bold": true
+          },
+          {
+            "text": " para grandes bancos. Se aprovado após consulta pública de 90 dias, facilita o engajamento bancário com cripto. Positivo no médio prazo."
+          }
+        ],
+        [
+          {
+            "text": "A "
+          },
+          {
+            "text": "DDC Enterprise",
+            "bold": true
+          },
+          {
+            "text": " (listada na NYSE Americana) comprou mais 200 BTC a $79.969 cada, elevando sua reserva para "
+          },
+          {
+            "text": "2.383 BTC no total",
+            "bold": true
+          },
+          {
+            "text": ". Mais uma empresa de capital aberto apostando em Bitcoin como reserva de valor — desta vez comprando caro, no topo da semana."
+          }
+        ],
+        [
+          {
+            "text": "Arthur Hayes",
+            "bold": true
+          },
+          {
+            "text": ", co-fundador da BitMEX, comprou uma posição em "
+          },
+          {
+            "text": "ETHFI",
+            "bold": true
+          },
+          {
+            "text": " — protocolo de liquid staking de Ethereum. Confirmado pelo Lookonchain, serviço de rastreamento de carteiras on-chain. Uma aposta bullish em ETH mesmo no meio do caos."
+          }
+        ],
+        [
+          {
+            "text": "⚠️ "
+          },
+          {
+            "text": "ALERTA:",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " Um subdomínio da "
+          },
+          {
+            "text": "Coinbase Commerce",
+            "bold": true
+          },
+          {
+            "text": " está solicitando as 12 palavras da seed phrase de usuários antes do encerramento do serviço em 31/03. Pesquisadores de segurança estão alarmados — "
+          },
+          {
+            "text": "nunca forneça sua seed phrase a ninguém",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": ", nem a exchanges."
+          }
+        ],
+        [
+          {
+            "text": "A BTQ implementou o "
+          },
+          {
+            "text": "BIP 360",
+            "bold": true
+          },
+          {
+            "text": " na Bitcoin Quantum Testnet v0.3.0 — um passo técnico importante para tornar o Bitcoin resistente a ataques de "
+          },
+          {
+            "text": "computadores quânticos",
+            "bold": true
+          },
+          {
+            "text": ". Ainda em testes, mas é um marco."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Análise Técnica",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O dia confirmou a tendência de baixa em todos os tempos gráficos. O BTC saiu de $71.613 (máxima) e foi até "
+        },
+        {
+          "text": "$68.793 (nova mínima semanal)",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " — violando o suporte de $69.081 que tinha segurado durante a manhã. A semana toda foi um fakeout: abriu em $72.815, tocou $76.000 no começo da semana e vai fechar perto de $70.000. Quem comprou no topo está no prejuízo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-19;type:line;line:68000|||red|0.2|||10,70500|||blue|0.2|dashed|Pivô|6}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pontos críticos agora:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Suporte imediato: "
+          },
+          {
+            "text": "$68.780",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " — mínima da semana. Se perder, tende buscar os "
+          },
+          {
+            "text": "$65.700",
+            "bold": true,
+            "color": "red"
+          }
+        ],
+        [
+          {
+            "text": "Zona de resistência: "
+          },
+          {
+            "text": "$70.500–$71.000",
+            "bold": true,
+            "color": "green"
+          },
+          {
+            "text": " — todos os bounces do dia foram rejeitados nessa área"
+          }
+        ],
+        [
+          {
+            "text": "Pivô decisivo: "
+          },
+          {
+            "text": "$70.500",
+            "bold": true,
+            "color": "blue"
+          },
+          {
+            "text": " — fechar acima abre caminho para buscar o $72.800; se fechar abaixo, busca o suporte."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O bounce de $68.793 para $70.596 visto hoje parece mais uma pressão forçada de vendedores do que demanda real. Os compradores de oportunidade estão sendo exauridos progressivamente — cada bounce fica mais fraco."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No mercado de opções, a maior expiração trimestral na Deribit se aproxima. O "
+        },
+        {
+          "text": "max pain está em $75.000",
+          "bold": true
+        },
+        {
+          "text": " (ponto onde mais contratos expiram sem valor), mas há "
+        },
+        {
+          "text": "$596 milhões em puts de $20.000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " — a 3ª maior posição em aberto por preço de exercício. Isso indica hedge extremo ou especulação de queda acentuada."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Polymarket (mercado de previsões) está precificando "
+        },
+        {
+          "text": "43% de chance de o BTC cair a $65.000 ainda em março",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Para $80.000: apenas 15.5%."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Amanhã",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fim de semana chega no pior momento: máxima incerteza geopolítica, mercados tradicionais fechando, mas cripto operando 24/7. Fins de semana têm menor liquidez — movimentos podem ser amplificados para qualquer direção."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O que acompanhar:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Qualquer notícia do conflito Irã-Golfo"
+          },
+          {
+            "text": " — petróleo acima de $100 no fim de semana é o principal gatilho de queda",
+            "italic": true
+          }
+        ],
+        [
+          {
+            "text": "O nível de "
+          },
+          {
+            "text": "$68.793",
+            "bold": true,
+            "color": "red"
+          },
+          {
+            "text": " é a linha na areia. Quebra com volume abre $67.200 e depois possivelmente $65.000"
+          }
+        ],
+        [
+          {
+            "text": "Para otimismo: BTC precisa reconquistar "
+          },
+          {
+            "text": "$70.500 com volume real",
+            "bold": true,
+            "color": "green"
+          },
+          {
+            "text": ", não só flutuar abaixo disso"
+          }
+        ],
+        [
+          {
+            "text": "Expirações de opções na Deribit",
+            "bold": true
+          },
+          {
+            "text": ": podem criar volatilidade adicional, especialmente se o preço se afastar muito do max pain de $75.000"
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em altcoins, os únicos pontos de luz foram "
+        },
+        {
+          "text": "TAO (Bittensor) +3.62%",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "UAI (UnifAI Network) +46.4%",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": " — ambos ligados a narrativas de "
+        },
+        {
+          "text": "inteligência artificial",
+          "bold": true
+        },
+        {
+          "text": ". Ouro tokenizado (XAUt e PAXG) também em alta: clássica fuga para segurança em tempos de medo."
+        }
+      ]
+    }
+  ]
+}

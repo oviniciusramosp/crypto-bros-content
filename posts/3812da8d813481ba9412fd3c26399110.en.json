@@ -1,0 +1,578 @@
+{
+  "schemaVersion": 1,
+  "id": "3812da8d813481ba9412fd3c26399110",
+  "locale": "en",
+  "slug": "will-the-fed-raise-interest-rates",
+  "date": "2026-06-16T21:56:00.000Z",
+  "updated": "2026-06-16T22:15:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Notícias",
+      "color": "gray"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Altcoins",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a7ac137676bdde70.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a7ac137676bdde70.jpg",
+  "icon": {
+    "emoji": "🇺🇸"
+  },
+  "title": [
+    {
+      "text": "Will the Fed Raise Interest Rates?"
+    }
+  ],
+  "excerpt": "Tomorrow, the 17th, the U.S. central bank meets for the first time under the leadership of Kevin Warsh, and the entire market is asking itself: is a rate hike c",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tomorrow, the 17th, the U.S. central bank meets for the first time under the leadership of "
+        },
+        {
+          "text": "Kevin Warsh",
+          "bold": true
+        },
+        {
+          "text": ", and the entire market is asking itself: is a rate hike coming now or not?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This question matters because the American interest rate works like a kind of "
+        },
+        {
+          "text": "thermometer for risk appetite across the entire world",
+          "bold": true
+        },
+        {
+          "text": ". When rates are low or start to fall, investors tend to seek higher returns in riskier assets, like stocks, Bitcoin, and altcoins. But when rates rise, or when the market starts to believe they could rise, the move tends to be the opposite: money turns more "
+        },
+        {
+          "text": "conservative",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That's why a single Fed meeting can cause so much volatility in the crypto market. It's not just a technical decision by economists in Washington. It's a decision that influences the cost of money around the entire world."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Let's break down what's at stake and what you can expect:"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why is the market worried?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Over the past few months, the market had been operating with a more optimistic outlook. The idea was that rates could stay "
+        },
+        {
+          "text": "stable",
+          "bold": true
+        },
+        {
+          "text": " for longer and, at some point, start to fall. That would be a better scenario for risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But that view started to change because of "
+        },
+        {
+          "text": "inflation",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fed has two major goals: keeping inflation under control and preserving a healthy labor market. When inflation starts to rise too much, the central bank may need to act more aggressively. And acting more aggressively, in this case, means keeping rates high for longer or even raising rates again."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "To simplify, think of interest rates as a car's brakes. If the economy is accelerating too much and prices start to rise, the Fed hits the brakes. Credit gets more expensive, companies and consumers spend less, investors cut back on risk, and the market starts to feel it."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The current fear is exactly that: that inflation forces the Fed to hit the brakes harder than the market expected."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What does this have to do with Bitcoin?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Over the long term, many people see Bitcoin as a store of value, a form of protection against weak currencies and aggressive monetary policies. "
+        },
+        {
+          "text": "But in the short term, Bitcoin still behaves like a risk asset.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This means that when the global market gets scared, Bitcoin can fall along with tech stocks, altcoins, and other more volatile assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The logic is simple. If American interest rates rise, U.S. government bonds start to pay more. For large investors, this makes safe assets more attractive. Why take on so much volatility in Bitcoin if you can earn a meaningful return on an asset considered far safer?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Of course, this relationship isn't perfect. Bitcoin doesn't rise or fall solely because of interest rates. But rates influence global liquidity, and liquidity is a keyword for understanding bull and bear cycles in the crypto market."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "When there's excess money in the system, capital seeks risk. When money gets more expensive, capital seeks protection."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Does the market expect a hike now?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The most important point is understanding the difference between what could happen and what the market expects to happen."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Right now, "
+        },
+        {
+          "text": "the main expectation is that the Fed keeps rates stable at the meeting on the 17th",
+          "bold": true
+        },
+        {
+          "text": ". In other words, the market isn't necessarily expecting an immediate hike."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/19b1f10c9aab6bc3.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That's why the biggest risk isn't just the decision itself, but the "
+        },
+        {
+          "text": "surprise",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the Fed holds rates, as the market expects, the impact may be more contained. "
+        },
+        {
+          "text": "But if the statement or Kevin Warsh's remarks come with a more hawkish tone, making it clear that a rate hike could happen soon, the market may react badly.",
+          "bold": true,
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In Fed meetings, every word matters. Sometimes the rate doesn't even change, but the "
+        },
+        {
+          "text": "messaging changes",
+          "bold": true
+        },
+        {
+          "text": ". And when the messaging changes, the market reprices everything."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Inflation is the real villain"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "At its core, this entire discussion revolves around "
+        },
+        {
+          "text": "inflation",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If inflation is under control, the Fed has more freedom to hold or cut rates. That tends to be better for risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But if inflation accelerates again, the Fed loses that freedom. In that case, it may be forced to keep rates elevated for longer or even consider new hikes."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That's why the market pays so much attention to data like inflation, employment, wages, oil, and energy. All these factors help answer one central question: are prices under control or not?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the answer is \"yes,\" the market breathes easy. If the answer is \"no,\" the fear returns."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The global picture matters too"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Another important point is that the United States isn't alone. Other countries also influence global liquidity."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "One example is Japan. For a long time, Japan had very low interest rates. This enabled an operation known as the carry trade, in which investors borrow money where the cost is low and invest it where the return is higher."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Imagine someone borrowing cheap money in one place to try to earn more in another. As long as that gap pays off, the operation makes sense."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But if Japanese rates rise, that math changes. Cheap money stops being so cheap. Many investors have to unwind positions, sell assets, and reduce their risk exposure."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This kind of move can affect markets all over the world, including Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On top of that, geopolitical conflicts, more expensive oil, and rising energy costs can also push inflation higher. And if inflation rises, central banks become more cautious."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "How far could Bitcoin fall?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Within the scenario laid out, an important zone for Bitcoin sits near $55,000. This range represents a meaningful support area, coinciding with Polymarket's bets for the year's lowest value."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the market worsens and Bitcoin loses that zone, a drop toward something near $45,000 would come onto the radar as a more bearish scenario (the bottom of the bear market range)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/ecbf47358d8fe203.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This doesn't mean Bitcoin will necessarily fall that far. It just means that if macroeconomic pressure continues and the market reacts badly to the Fed, that range could be an important area to watch."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the other hand, much lower prices, like $30,000, look like a more extreme scenario within this read and unlikely."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What should you do?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In moments like these, the biggest mistake is trying to guess the exact bottom."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Many people wait for the perfect price to buy. The problem is that no one knows where the bottom will be. When it seems obvious that the market will fall further, often most of the drop is already behind us. And when it seems obvious that everything will rise, often the risk has already increased."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That's why a simpler strategy for beginners is to buy little by little (the famous DCA)."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Instead of investing all the money at once, the investor can split the capital into parts. Buy one part now, set aside another to buy if it falls further, and keep a reserve in case better opportunities show up."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This approach reduces anxiety and prevents a single decision from defining the entire outcome."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It's like wading into the sea slowly. You don't have to dive in headfirst without knowing the depth. You can test the waters as you go."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Conclusion"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fed meeting on the 17th doesn't matter only because it could change interest rates. It matters because it could change the market's expectations for the coming months."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If Kevin Warsh comes with a more hawkish message, reinforcing concern about inflation and leaving room for higher rates, Bitcoin could remain under pressure in the short term."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But if the Fed holds rates and the messaging doesn't spook anyone, the market can breathe easier."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For those just starting out, the big lesson is this: Bitcoin doesn't live in isolation. It's influenced by inflation, interest rates, global liquidity, oil, the dollar, and the behavior of large investors."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Understanding this helps you look at the market more calmly. Instead of reacting to fear or euphoria, you start to understand the context behind the moves."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In the end, the investor doesn't need to predict the future perfectly. They need to have a strategy, control risk, and know that in the crypto market, surviving the tough moments is an essential part of the game."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "3062da8d8134809a967ec284234f4052",
+  "locale": "en",
+  "slug": "bitcoin-analysis-feb-06",
+  "date": "2026-02-06T16:21:00.000Z",
+  "updated": "2026-03-02T18:50:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    },
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Analysis – FEB 06",
+      "bold": true
+    }
+  ],
+  "excerpt": "Bitcoin fell to nearly $60,000 yesterday. This was the worst single-day drawdown since the FTX collapse in 2022.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fell to nearly $60,000 yesterday. This was the worst single-day drawdown since the FTX collapse in 2022."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "But today the market is breathing again: we are close to reclaiming the $70,000 level after forming a bottom."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/131dc4e91af0730f.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Why does this matter?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It may be the formation of the first higher high since $90k. If the week closes above $68k, it confirms support at the "
+        },
+        {
+          "text": "200-week moving average",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A retest of the $74k to $79k region would be natural, even if more declines happen afterward."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Yesterday’s drop was expected, but its speed was a bit scary. What happens next, no one knows. But you can prepare for some scenarios:"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "From now on, the chances of falling another 50% are lower than the chances of rising 50%. The asymmetry is very favorable."
+          }
+        ],
+        [
+          {
+            "text": "Cycle bottom regions are between $58k and $42k. This may generate more fear and better buying opportunities."
+          }
+        ],
+        [
+          {
+            "text": "If the price keeps rising, we should find resistance starting around $75k."
+          }
+        ],
+        [
+          {
+            "text": "Thinking about a new ATH now is crazy. We are very far from it and still need to break above the 100- and 50-week moving averages before considering a return to a bull market."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "For those who want to analyze it more deeply:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "On-chain data",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "NUPL entering capitulation zone: This means most investors are in the red and starting to sell in panic. Historically, this marks market bottoms."
+          }
+        ],
+        [
+          {
+            "text": "SOPR below 1: confirms that Bitcoin holders are selling at a loss."
+          }
+        ],
+        [
+          {
+            "text": "Exchange reserves rising: selling pressure on Bitcoin."
+          }
+        ],
+        [
+          {
+            "text": "Negative funding rates: this means the market is pessimistic and more people are shorting (betting against) than buying."
+          }
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In summary: ",
+          "bold": true
+        },
+        {
+          "text": "All these signals together show extreme fear in the market. It looks bad, but historically this is when bottoms are formed."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Some of what is happening in the world and affecting asset prices, including Bitcoin:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Macro Context",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        [
+          {
+            "text": "Increasing correlation with the struggling software/tech sector"
+          }
+        ],
+        [
+          {
+            "text": "Traders betting that the Fed will keep rates unchanged in April"
+          }
+        ],
+        [
+          {
+            "text": "Layoffs in the U.S. at the highest level in 17 years, which may pressure the Fed to cut rates sooner (bullish in the medium term)"
+          }
+        ]
+      ]
+    }
+  ]
+}

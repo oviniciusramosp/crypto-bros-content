@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "id": "2f12da8d813480349070cef649373038",
+  "locale": "pt",
+  "slug": "feliz-2026-e-expectativas",
+  "date": "2026-01-05T00:00:00.000Z",
+  "updated": "2026-03-02T18:51:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🎆"
+  },
+  "title": [
+    {
+      "text": "Feliz 2026 e Expectativas"
+    }
+  ],
+  "excerpt": "Fala, Crypto Bros! Feliz 2026 para todos nós! 🎆",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Fala, Crypto Bros! "
+        },
+        {
+          "text": "Feliz 2026 para todos nós!",
+          "bold": true
+        },
+        {
+          "text": " 🎆"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Que este ano seja marcado por "
+        },
+        {
+          "text": "resultados consistentes",
+          "bold": true
+        },
+        {
+          "text": " e, acima de tudo, por um amadurecimento ainda maior nos nossos "
+        },
+        {
+          "text": "estudos e análises",
+          "bold": true
+        },
+        {
+          "text": ". O mercado sempre premia quem tem a "
+        },
+        {
+          "text": "disciplina",
+          "bold": true
+        },
+        {
+          "text": " de se"
+        },
+        {
+          "text": " manter informado",
+          "bold": true
+        },
+        {
+          "text": " e a "
+        },
+        {
+          "text": "frieza",
+          "bold": true
+        },
+        {
+          "text": " para agir nos momentos certos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Vamos para cima, que a temporada só está começando! 🚀"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Segue um panorama do que podemos esperar para os próximos meses 👇🏻"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Panorama: Janeiro de 2026",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para este mês de Janeiro, a expectativa central é a "
+        },
+        {
+          "text": "retomada da liquidez institucional",
+          "bold": true
+        },
+        {
+          "text": " após o recesso de fim de ano, com os ETFs de Bitcoin e ETH já mostrando os primeiros sinais de recuperação. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nesse momento, o Bitcoin luta para "
+        },
+        {
+          "text": "romper a resistência crucial dos US$ 93.000",
+          "bold": true
+        },
+        {
+          "text": ", nível que, se superado, pode destravar a lateralização dos últimos 40 dias e dar início a uma nova perna de alta sustentada pelo retorno do volume institucional."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Há uma expectativa em cima dos dados macroeconômicos dos EUA, mas o grande catalizador pode ser o anúncio do próximo presidente do FED. Apesar da troca acontecer bem mais para frente, isso já pode nos indicar para onde a economia vai caminhar."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A captura do Maduro não gerou grandes impactos no mercado cripto, na verdade, ele até reagiu bem. Se isso não gerar tensões maiores entre EUA, Russia e China, acredito que não teremos problemas ao longo do mês."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Panorama: Q1 (Primeiro Quadrimestre) de 2026",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O primeiro trimestre de 2026 sinaliza a entrada definitiva na chamada \"Era Institucional\". Na macroeconomia, o cenário é de "
+        },
+        {
+          "text": "maior otimismo",
+          "bold": true
+        },
+        {
+          "text": ": com a inflação americana estabilizada abaixo de 3% e o fim do aperto quantitativo (QT) ocorrido no final de 2025, o mercado projeta um Fed mais \""
+        },
+        {
+          "text": "dovish",
+          "italic": true
+        },
+        {
+          "text": "\", o que tende a injetar liquidez nos ativos de risco, priorizando o crescimento da economia e a criação de empregos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É também nesse primeiro quadrimestre que veremos a troca de presidência do FED. A tendência é que o Trump coloque alguém mais alinhado as suas ideias e que isso acelere o processo de corte de juros, impressão de dinheiro e aceleração da economia americana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Há uma narrativa forte de que teremos uma quebra no ciclo do Bitcoin, com esse ano sendo um ano bullish e não bearish. Se depender exclusivamente dos EUA, a tendência é que isso realmente ocorra. Mas até que tenhamos confirmações desse movimento todo, continuamos preparados para quedas maiores e um fundo sendo formado no segundo semestre de 2026."
+        }
+      ]
+    }
+  ]
+}

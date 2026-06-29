@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "3762da8d8134819e9151dcaa99bba668",
+  "locale": "pt",
+  "slug": "bitcoin-toca-regiao-de-fundo-de-ciclo",
+  "date": "2026-06-05T20:14:00.000Z",
+  "updated": "2026-06-05T20:39:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a649a969fa3ddc05.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Toca Região de Fundo de Ciclo"
+    }
+  ],
+  "excerpt": "Como vínhamos mapeando, o Bitcoin finalmente rompeu os $60.000 e marcou mínimas na casa dos $59.100. Foi uma queda forte (mais de 5% no dia e quase 20% na seman",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Como vínhamos mapeando, o Bitcoin finalmente rompeu os "
+        },
+        {
+          "text": "$60.000",
+          "color": "red"
+        },
+        {
+          "text": " e marcou mínimas na casa dos "
+        },
+        {
+          "text": "$59.100",
+          "color": "red"
+        },
+        {
+          "text": ". Foi uma queda forte (mais de 5% no dia e quase 20% na semana) puxada por um relatório de empregos nos EUA que saiu muito mais forte do que o mercado esperava. A economia criou 172 mil vagas em maio (contra a previsão de 85 mil), o que esmagou qualquer esperança de corte de juros para breve. Com isso, o mercado agora precifica uma chance real de "
+        },
+        {
+          "text": "alta",
+          "italic": true
+        },
+        {
+          "text": " de juros até o final do ano. Quando o dinheiro fica mais caro, ativos de risco como cripto sofrem, e é exatamente isso que estamos vendo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O resultado foi uma onda de liquidações. Em apenas uma hora, mais de "
+        },
+        {
+          "text": "$155 milhões",
+          "color": "red"
+        },
+        {
+          "text": " em posições compradas foram destruídas, somando mais de "
+        },
+        {
+          "text": "$1,7 bilhão",
+          "color": "red"
+        },
+        {
+          "text": " em liquidações nas últimas 24 horas. O rompimento do suporte dos $60 mil acionou os stops automáticos e acelerou a venda. O mercado de derivados está pesado, e qualquer movimento para baixo vira uma avalanche."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Mal-Estar Institucional"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O lado institucional também não ajuda. Os ETFs à vista nos EUA registraram apenas $3 milhões em entradas na quinta, encerrando uma sequência de 13 dias seguidos de saídas que tiraram "
+        },
+        {
+          "text": "$4,37 bilhões",
+          "color": "red"
+        },
+        {
+          "text": " dos fundos. Foi o período de venda mais longo desde o lançamento desses produtos. A Strategy (ex-MicroStrategy) também voltou às manchetes depois de vender 32 BTC — uma quantidade simbólica, mas que mexeu com o sentimento do mercado porque quebrou uma narrativa de acumulação infinita."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Enquanto isso, o mercado de ações ligadas à cripto sangrou junto. Ações de exchanges e empresas com Bitcoin no balanço caíram forte, e a rotação de capital tem favorecido a Inteligência Artificial em detrimento das criptomoedas. "
+        },
+        {
+          "text": "O volume de negociação spot caiu para o nível mais baixo desde 2023, o que mostra que a demanda de compra está fraca.",
+          "bold": true,
+          "color": "orange"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Sinais On-Chain e a Região de Compra"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Apesar do medo no preço spot, alguns dados on-chain sugerem que estamos entrando em zona de "
+        },
+        {
+          "text": "capitulação",
+          "italic": true
+        },
+        {
+          "text": ". O percentual de detentores de Bitcoin no lucro atingiu uma linha de tendência de longo prazo que historicamente marca os fundos de ciclo. Além disso, a motricidade de curto prazo está realizando prejuízos em níveis recorde, um sinal de que os investidores mais nervosos já estão entregando as moedas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tecnicamente, tocamos na "
+        },
+        {
+          "text": "EMA 250W (low)",
+          "color": "orange"
+        },
+        {
+          "text": ", uma região histórica que marca o início da faixa de fundo de ciclo. Essa faixa vai de $59.900 até $44.300, mas já oferece regiões excelentes para compra estratégica. A Polymarket segue precificando um fundo entre "
+        },
+        {
+          "text": "$50.000 e $55.000",
+          "color": "green"
+        },
+        {
+          "text": " até o final do ano, com boas chances de testarmos os "
+        },
+        {
+          "text": "$57.000",
+          "color": "green"
+        },
+        {
+          "text": " ainda neste mês. A perda do suporte dos $60 mil expõe agora a região dos $55.000 como o próximo grande colchão."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e2f2bea42ba5ed7a.gif",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

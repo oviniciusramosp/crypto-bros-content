@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "id": "32f2da8d813481af96e6fe4762858f80",
+  "locale": "en",
+  "slug": "analysis-mar-25",
+  "date": "2026-03-26T01:00:00.000Z",
+  "updated": "2026-03-27T02:11:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/17264244be2b3d00.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Analysis Mar 25"
+    }
+  ],
+  "excerpt": "Our daily technical analysis, powered by Crypto Bros AI:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis, powered by Crypto Bros AI:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin: "
+        },
+        {
+          "text": "$71,337 ",
+          "bold": true
+        },
+        {
+          "text": "+1.11% on the day",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High: "
+        },
+        {
+          "text": "$72,026",
+          "color": "green"
+        },
+        {
+          "text": " | Low: "
+        },
+        {
+          "text": "$70,408",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Current Picture"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin closed March 25 at $71,337, up 1.1% on the day, but the chart carries a cautious signal: this is the second consecutive day the price touched $72,026 and pulled back, completing a textbook double top at the same resistance first tested on March 23. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We are 23 months into the post-halving cycle that began in April 2024, squarely within the historical 12 to 18-month window that preceded cycle peaks in 2021 and 2017. At this same point in 2021, Bitcoin was around $45,000 and accelerating; in 2017, it was approaching $9,000 in its final leg up. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The current structure is weaker: BTC trades 27.3% below the 50-week moving average ($98,088) and 18.5% below the 100-week ($87,508), signaling mid-term structural weakness. The 200-week SMA ($59,271) remains comfortably below price, keeping the long-term bull market intact."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1m;date:2026-03-25;type:line;candle:1d;line:70500|||red|0.2|||4,72026|||green|0.2|||4}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If Things Go Well"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bull case needs a 4-hour candle close above $72,200, which would invalidate the double top and open the door to the CME gap zone between $73,800 and $74,500. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The key catalyst is Friday's PCE inflation report: a reading in line with or below expectations would revive the rate-cut narrative and bring back sidelined capital, currently reflected in an extreme-fear sentiment reading of 10. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Today's Franklin Templeton and Ondo Finance partnership, creating tokenized ETFs tradeable 24/7 in crypto wallets, could shift institutional sentiment if the market reads it as a serious mainstreaming signal. The $14 billion options expiry on Friday, with heavy call concentration at $75,000, will also pull price upward if the breakout confirms."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If Things Get Rough"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The immediate downside risk is a fifth rejection at the $71,400 to $72,026 resistance zone. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "With extreme fear persisting for eight consecutive days, sellers still hold the psychological edge. A hotter-than-expected PCE print on Friday would trigger a flush, first testing the $70,500 support and, if lost, dropping toward the $69,300 to $69,500 demand zone that absorbed selling pressure last week. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Below that, $67,360 is the critical floor: losing it would open a deeper correction toward $65,000."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Watch Tomorrow"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Friday's PCE report is the week's defining event: a hot print strengthens the bear case, while an in-line or soft reading hands the bulls a catalyst to finally break $72,200. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Alongside that, the $14 billion BTC options expiry on Friday, with calls concentrated at $75,000, will act as a gravitational pull toward that level if buying pressure picks up."
+        }
+      ]
+    }
+  ]
+}

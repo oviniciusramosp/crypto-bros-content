@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "2f42da8d813480c59b36f3fc2a3c6c37",
+  "locale": "pt",
+  "slug": "semana-de-volatilidade",
+  "date": "2026-01-26T21:00:00.000Z",
+  "updated": "2026-03-02T18:51:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Semana de Volatilidade!"
+    }
+  ],
+  "excerpt": "Atenção para os eventos macroeconomicos da semana!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Atenção para os eventos macroeconomicos da semana!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Quarta-feira será bem agitada!! 👇🏻"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Terça-Feira",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Discurso Trump"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Quarta-Feira ",
+          "bold": true
+        },
+        {
+          "text": "🔥"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Discurso Trump"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Dados dos Estoques de Petróleo"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Taxa-alvo de Fundos do Fed"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "FOMC e coletiva"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Quinta-Feira",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Pedidos por Seguro-Desemprego"
+        }
+      ]
+    },
+    {
+      "type": "todo",
+      "checked": true,
+      "spans": [
+        {
+          "text": "Balanço do Fed"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 3,
+      "spans": [
+        {
+          "text": "Update"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:4d;date:2026-01-30;type:line}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:ETH;time:4d;date:2026-01-30;type:line}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:SOL;time:4d;date:2026-01-30;type:line;size:half}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:XRP;time:4d;date:2026-01-30;type:line;size:half}}",
+          "code": true
+        }
+      ]
+    }
+  ]
+}

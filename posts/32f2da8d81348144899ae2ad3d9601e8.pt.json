@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "32f2da8d81348144899ae2ad3d9601e8",
+  "locale": "pt",
+  "slug": "casa-branca-libera-cripto-nos-planos-de-aposentadoria",
+  "date": "2026-03-26T15:00:00.000Z",
+  "updated": "2026-03-26T15:31:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Adoção",
+      "color": "orange"
+    },
+    {
+      "name": "Regulação",
+      "color": "pink"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/018e487caf634fee.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "✅"
+  },
+  "title": [
+    {
+      "text": "Casa Branca Libera Cripto nos Planos de Aposentadoria"
+    }
+  ],
+  "excerpt": "A Casa Branca concluiu a revisão de uma proposta do Departamento do Trabalho que pode abrir as portas do mercado cripto para milhões de americanos. Se aprovada,",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Casa Branca concluiu a revisão de uma proposta do Departamento do Trabalho que pode abrir as portas do mercado cripto para milhões de americanos. Se aprovada, gestores de planos de aposentadoria 401(k) teriam um caminho regulatório claro para incluir ativos digitais entre as opções de investimento — uma mudança que pode injetar bilhões de dólares no setor."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Aconteceu"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Escritório de Informação e Assuntos Regulatórios da Casa Branca (OIRA) concluiu sua revisão da proposta do Departamento do Trabalho em 24 de março, classificando-a como \"economicamente significativa\". Com isso, o DOL pode agora publicar a regra para um período de 60 dias de comentários públicos antes de uma versão final.\n\nA proposta segue a ordem executiva assinada pelo presidente Donald Trump em agosto de 2025, que mandou as agências federais expandir o acesso a ativos alternativos, incluindo ativos digitais, nos planos de previdência de contribuição definida. A medida também deu ao DOL a tarefa de rever os limites existentes sobre esses ativos.\n\nO contexto é importante: em maio de 2025, o próprio Departamento do Trabalho retirou um aviso de 2022 que orientava gestores a serem \"extremamente cautelosos\" ao considerar cripto nos planos 401(k). Essa reversão sinaliza uma mudança profunda na postura federal sobre o tema."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os planos 401(k) são o principal veículo de poupança para aposentadoria nos EUA, com cerca de "
+        },
+        {
+          "text": "US$ 7 trilhões",
+          "bold": true
+        },
+        {
+          "text": " em ativos. Qualquer abertura formal para cripto nesse mercado representa uma demanda institucional potencial enorme. Não é uma aposta especulativa: é a infraestrutura regulatória sendo construída tijolo a tijolo.\n\nAo mesmo tempo, o estado de Indiana também avançou com um projeto de lei exigindo que certos planos de poupança estaduais ofereçam opções em cripto, mostrando que a tendência não é apenas federal. É um movimento estrutural."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O próximo passo é o DOL publicar a regra e abrir o prazo de 60 dias para comentários públicos. Se aprovada sem grandes alterações, os gestores de planos 401(k) terão liberdade legal para avaliar cripto como opção. Isso não garante adoção imediata, mas remove o obstáculo regulatório mais sólido que existia. Para o mercado, é mais um tijolo na tese de adoção institucional de longo prazo."
+        }
+      ]
+    }
+  ]
+}

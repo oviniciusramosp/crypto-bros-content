@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "3302da8d81348148b2d2dd20a69de608",
+  "locale": "pt",
+  "slug": "bitcoin-recua-para-66k-com-saida-de-us-171m-dos-etfs",
+  "date": "2026-03-27T11:00:00.000Z",
+  "updated": "2026-04-06T17:46:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/fea57da947060132.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Recua para $66k com Saída de US$ 171M dos ETFs"
+    }
+  ],
+  "excerpt": "O Bitcoin opera abaixo de $66.500 nesta manhã de sexta-feira, acumulando queda de 4,5% nas últimas 24 horas. O movimento coincide com uma saída de US$ 171 milhõ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin opera abaixo de $66.500 nesta manhã de sexta-feira, acumulando "
+        },
+        {
+          "text": "queda de 4,5% nas últimas 24 horas",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". O movimento coincide com uma saída de US$ 171 milhões dos ETFs de Bitcoin à vista nos EUA na quinta-feira, liderada pela BlackRock e pela Fidelity, dois dos maiores gestores de recursos do mundo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Altcoins aprofundaram as perdas: "
+        },
+        {
+          "text": "Solana caiu 5,7%",
+          "color": "red"
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "ETH perdeu 4,3%",
+          "color": "red"
+        },
+        {
+          "text": " e XRP recuou 3%. O índice Fear & Greed está em 13, classificado como \"Medo Extremo\", e o funding rate de futuros perpetuos está negativo (-0.0063%), indicando que "
+        },
+        {
+          "text": "traders apostam na continuidade da queda",
+          "bold": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:7d;date:now;type:line}}"
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que Isso Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Saídas de ETFs institucionais sinalizam que gestoras profissionais estão reduzindo exposição ao risco. A BlackRock e a Fidelity foram os maiores compradores de BTC via ETF desde o lançamento em janeiro de 2024, e quando essas instituições saem, a pressão vendedora no mercado é real. Combinado ao funding negativo nos derivativos, o sinal é de "
+        },
+        {
+          "text": "aversão ao risco generalizada",
+          "bold": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O contexto geopolítico no Oriente Médio também pesa: em momentos de tensão, investidores tendem a migrar para ativos \"mais seguros\", como dólar e títulos do tesouro americano. O encerramento de trimestre nesta sexta-feira pode amplificar os resgates institucionais, já que fund"
+        },
+        {
+          "text": "os fecham posições para reportar balanços",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Vem Por Aí"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o BTC perder o suporte de "
+        },
+        {
+          "text": "$66.000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", o próximo nível relevante é "
+        },
+        {
+          "text": "$64.500",
+          "bold": true,
+          "color": "blue"
+        },
+        {
+          "text": ", região de demanda das últimas semanas. Se houver reversão e o preço recuperar "
+        },
+        {
+          "text": "$68.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", esse seria o primeiro sinal de que os compradores retomaram o controle. "
+        }
+      ]
+    }
+  ]
+}

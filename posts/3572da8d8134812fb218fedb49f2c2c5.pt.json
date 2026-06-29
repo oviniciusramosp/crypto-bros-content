@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "3572da8d8134812fb218fedb49f2c2c5",
+  "locale": "pt",
+  "slug": "bitcoin-supera-80k-com-629mi-em-fluxo-de-etfs",
+  "date": "2026-05-05T16:53:00.000Z",
+  "updated": "2026-05-05T18:19:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/73e66a785bdd8507.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0056aa06823621cd.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin Supera $80k com $629mi em Fluxo de ETFs"
+    }
+  ],
+  "excerpt": "Bitcoin voltou a operar acima dos $80.000 nesta terça-feira, sustentado por uma combinação de demanda institucional via ETFs e avanços no Congresso americano so",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin voltou a operar acima dos $80.000 nesta terça-feira, sustentado por uma combinação de demanda institucional via ETFs e avanços no Congresso americano sobre a estrutura regulatória do setor cripto. O ativo é negociado próximo dos "
+        },
+        {
+          "text": "$81.220",
+          "bold": true
+        },
+        {
+          "text": ", com avanço de "
+        },
+        {
+          "text": "1,27%",
+          "bold": true
+        },
+        {
+          "text": " no dia e máxima em "
+        },
+        {
+          "text": "$81.712",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os ETFs spot de Bitcoin registraram entrada líquida de aproximadamente "
+        },
+        {
+          "text": "$629,37 milhões",
+          "bold": true
+        },
+        {
+          "text": " na sessão, em movimento que recoloca o produto como principal vetor de absorção de oferta no mercado à vista. O dado chega em paralelo ao progresso de um projeto bipartidário no Congresso americano que delimita a estrutura de mercado para ativos digitais."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Demanda Institucional"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fluxo nos ETFs reforça uma leitura que já vinha sendo construída ao longo do ano: a demanda institucional de longo prazo continua presente mesmo em janelas de menor euforia entre investidores de varejo. O fato de o aporte ter ocorrido logo após a virada técnica acima dos $79.500 indica que gestores estão usando rompimentos para escalar posições, não apenas para iniciá-las."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse comportamento ajuda a confirmar o "
+        },
+        {
+          "text": "cenário otimista construído nas análises recentes",
+          "color": "green"
+        },
+        {
+          "text": ", com alvos institucionais ainda na casa dos "
+        },
+        {
+          "text": "$82.400",
+          "bold": true
+        },
+        {
+          "text": " (EMA 100 semanas) e depois na região dos "
+        },
+        {
+          "text": "$85.900",
+          "bold": true
+        },
+        {
+          "text": ". O movimento ocorre com volume acima da média, condição que estava entre as variáveis necessárias para validar a virada."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Avanço Regulatório"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No campo regulatório, a peça bipartidária em discussão reduz parte da incerteza que segurava capital institucional fora do setor. O texto delimita responsabilidades entre as agências americanas, separando o que cabe à SEC e o que cabe à CFTC, ponto que vinha travando custódia regulada em escala."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Quando o quadro jurídico fica mais claro, fundos de pensão, seguradoras e gestoras de patrimônio passam a poder alocar em Bitcoin sem entrar em zona regulatória cinzenta, ampliando a base potencial de compradores ao longo do ciclo."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Adiante"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário otimista de curto prazo segue intacto enquanto Bitcoin sustentar fechamentos acima da faixa dos $79.500, com a próxima zona de oferta esperada na região dos "
+        },
+        {
+          "text": "$85.900",
+          "bold": true
+        },
+        {
+          "text": ". O fluxo nos ETFs e a virada técnica abrem espaço para que parte do mercado que ainda opera vendido precise reverter posições, situação que costuma amplificar movimentos de alta."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por outro lado, qualquer tropeço no avanço da peça regulatória americana ou frustração na continuidade do fluxo via ETFs pode devolver o preço à faixa ocupada nas últimas semanas. Para o leitor, a régua principal segue sendo a combinação de fluxo institucional e clareza regulatória, dois eixos que costumam pesar mais que o ruído de curto prazo."
+        }
+      ]
+    }
+  ]
+}

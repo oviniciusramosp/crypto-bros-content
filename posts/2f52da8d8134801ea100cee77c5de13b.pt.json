@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "2f52da8d8134801ea100cee77c5de13b",
+  "locale": "pt",
+  "slug": "analise-bitcoin---11-dez",
+  "date": "2025-12-11T17:45:00.000Z",
+  "updated": "2026-03-02T18:53:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Análise Bitcoin - 11 DEZ"
+    }
+  ],
+  "excerpt": "Esse é o movimento que estou esperando para o Bitcoin nos próximos dias.",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse é o movimento que estou esperando para o Bitcoin nos próximos dias."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Desenhei ontem de noite:"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/a48446fa7e442459.jpg",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essas linhas vermelhas são zonas de acumulo de liquidação de longs e shorts."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Captura de liquidez para continuar subindo, formando um fundo descendente."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Esse é o melhor cenário, pior cenário já mencionei aqui algumas vezes."
+        }
+      ]
+    }
+  ]
+}

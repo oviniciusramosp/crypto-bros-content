@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "34f2da8d81348161945afc6a79ebff3c",
+  "locale": "en",
+  "slug": "white-house-confirms-imminent-announcement-on-bitcoin-strategic-reserve",
+  "date": "2026-04-27T22:40:00.000Z",
+  "updated": "2026-04-28T00:52:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/17b097fc48e144c8.png",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b8803cb4df71760d.jpg",
+  "icon": {
+    "emoji": "🇺🇸"
+  },
+  "title": [
+    {
+      "text": "White House Confirms Imminent Announcement on Bitcoin Strategic Reserve"
+    }
+  ],
+  "excerpt": "The White House Executive Director declared this Monday that there will be a \"major announcement in the coming weeks\" regarding the U.S. government's Bitcoin St",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The White House Executive Director declared this Monday that there will be a \"major announcement in the coming weeks\" regarding the U.S. government's Bitcoin Strategic Reserve. The signal comes straight from the center of power — not from a legislator, not from an advisor, but from a White House executive."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The statement was reported by Bitcoin Magazine on April 27. No specific date was disclosed, but the \"coming weeks\" timeline indicates that the Trump administration is in an advanced phase of execution. The Bitcoin Strategic Reserve was announced as an intention at the start of the term: now there is explicit confirmation that something concrete is on its way."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Bitcoin Strategic Reserve held by the United States would be an unprecedented event. It would mean the American government starts treating Bitcoin as a state reserve asset, in the same category as gold and foreign currencies. The potential impact on the asset's global perception is enormous — other governments and central banks would be forced to reconsider their own positions."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The market hasn't priced in this scenario yet. Bitcoin is trading at "
+        },
+        {
+          "text": "$76,843",
+          "bold": true
+        },
+        {
+          "text": ", down "
+        },
+        {
+          "text": "2.02%",
+          "bold": true
+        },
+        {
+          "text": " over the last 24 hours, having rejected the $80,000 range and tested $76,460 at the day's low. The short-term technical weakness contrasts sharply with a major macro catalyst right on the horizon."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What to Expect"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In the bullish scenario, a concrete announcement in the coming weeks could act as a chain-reaction institutional demand trigger. Governments, sovereign wealth funds, and corporations still waiting for a state-level political endorsement would finally have that signal. Short-term targets for Bitcoin, should the announcement be confirmed and the market react positively, include the $88,000 range and subsequently $95,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In the risk scenario, the announcement may disappoint in scale or timeline — a smaller-than-expected program, a Congressional veto, or a postponement. In that case, the expectations built up would exceed the delivery, with a potential pullback toward the $72,000 range, the older support zone."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Fear & Greed remains at neutral (47). The market is waiting — and the White House just confirmed it won't be waiting much longer."
+        }
+      ]
+    }
+  ]
+}

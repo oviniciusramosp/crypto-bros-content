@@ -1,0 +1,252 @@
+{
+  "schemaVersion": 1,
+  "id": "3312da8d813481218177eac7c598c215",
+  "locale": "pt",
+  "slug": "analise-tecnica-27-mar",
+  "date": "2026-03-28T00:00:00.000Z",
+  "updated": "2026-03-28T01:49:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/aa45773985822021.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0d16c8eecab6a7db.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise Técnica: 27 Mar"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin em $66.400 ("
+        },
+        {
+          "text": "-3,51%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$69.179",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$65.548",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Cenário Atual"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O Bitcoin encerrou sexta-feira em $66.400, queda de 3,51% que confirmou o fechamento abaixo da EMA de 200 semanas, localizada em $68.264. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Após três semanas oscilando acima desse nível, o fechamento de hoje marca o retorno à zona de alerta: BTC opera agora abaixo das três EMAs semanais mais acompanhadas pelo mercado profissional. A EMA 50w está em $88.600, a EMA 100w em $83.300 e a EMA 200w em $68.264, que agora funciona como resistência."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Estamos no mês 23 após o halving de abril de 2024. No ciclo de 2020, o mesmo ponto (abril de 2022) tinha o BTC em cerca de $38.000, com queda de 45% do topo. O ciclo atual "
+        },
+        {
+          "text": "repete esse comportamento",
+          "bold": true
+        },
+        {
+          "text": ": -47% do topo de $126.200 alcançado em outubro de 2025."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-28;type:line;line:65000|||red|0.2|||9,68264|||green|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Otimista"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O "
+        },
+        {
+          "text": "bull case",
+          "italic": true
+        },
+        {
+          "text": " depende de um alívio no ambiente macro. Os fatores que poderiam mudar o quadro incluem uma desescalada no conflito EUA-Irã, que o Polymarket precifica com apenas 3,5% de chance de cessar-fogo antes de 31 de março, e sinais de flexibilização do Fed. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O alvo imediato seria recuperar a EMA 200w em $68.264, o que validaria que o fechamento de hoje foi pontual: o histórico recente mostra que o BTC já esteve abaixo dessa média nas semanas de fevereiro e início de março antes de se recuperar."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se a recuperação ganhar tração, a resistência seguinte fica na zona de $70.000 a $71.000 e depois em $71.400 a $72.026, que concentra "
+        },
+        {
+          "text": "cinco rejeições nas últimas duas semanas",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Cenário Pessimista"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O setup atual tem características clássicas de armadilha para comprados: 73% dos traders de futuros estão posicionados long (ratio 2,73), enquanto o funding rate é negativo, indicando que os próprios longs pagam para manter posições abertas em mercado em queda. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte imediato fica na faixa de $65.000 a $65.548, mínima de hoje coincidindo com o nível psicológico. Se esse suporte for perdido, o próximo alvo é a região de $63.000 a $63.500."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Abaixo disso, não há suporte técnico relevante até a zona de fundo histórico: EMA 250w low em $58.943 e EMA 450w low em $43.138, os níveis onde o BTC encontrou fundo em todos os bear markets anteriores."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em nosso relatório de ontem à noite, o Polymarket já precificava 66% de chance de BTC abaixo de $65.000 em março, um sinal que o mercado antecipava esse movimento."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O fechamento semanal de domingo à meia-noite é o mais importante do curto prazo: dois ou três fechamentos semanais consecutivos abaixo da EMA 200w ($68.264) historicamente confirmam o bear market estrutural. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O nível de $65.000 a $65.548 é a linha de defesa imediata, enquanto o contexto geopolítico no Oriente Médio e a próxima decisão do Fed (em maio) seguem como catalisadores principais."
+        }
+      ]
+    }
+  ]
+}

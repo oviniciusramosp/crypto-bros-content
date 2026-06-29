@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "3742da8d81348152a864d2fe4b4aa8fe",
+  "locale": "pt",
+  "slug": "por-que-o-bitcoin-desabou-para-os-65k-saylor-etfs-e-o-custo-de-oportunidade",
+  "date": "2026-06-03T20:01:00.000Z",
+  "updated": "2026-06-05T20:07:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/97c904a1884ec65e.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Por que o Bitcoin desabou para os $65k: Saylor, ETFs e o Custo de Oportunidade"
+    }
+  ],
+  "excerpt": "O mercado de cripto passou por uma forte correção na semana, com o Bitcoin chegando a perder o suporte dos $66.000 e caindo mais de 7% em 24 horas. Um dos gatil",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O mercado de cripto passou por uma forte correção na semana, com o Bitcoin chegando a perder o suporte dos "
+        },
+        {
+          "text": "$66.000",
+          "color": "red"
+        },
+        {
+          "text": " e caindo mais de 7% em 24 horas. Um dos gatilhos simbólicos foi a decisão da Strategy (ex-MicroStrategy), liderada por Michael Saylor, de vender 32 BTC — cerca de "
+        },
+        {
+          "text": "$2,5 milhões",
+          "color": "red"
+        },
+        {
+          "text": " — para financiar pagamentos de dividendos. Embora seja a primeira venda da empresa em anos e represente apenas uma fração minúscula de seus 843.706 BTC em tesouraria, o movimento impactou o sentimento dos investidores, que se acostumaram com a estratégia de acumulação agressiva da companhia."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Com o mercado já altamente exposto, a venda foi o suficiente para detonar uma \"bomba\" de alavancagem. Dados on-chain mostram que o índice de alavancagem estava em níveis perigosos, comparáveis aos anteriores à queda de outubro de 2025. O resultado foi uma onda de liquidações que atingiu "
+        },
+        {
+          "text": "$1,85 bilhão",
+          "color": "red"
+        },
+        {
+          "text": " em posições em 24 horas, arrastando o preço para a mínima de quatro meses. Quase 280 mil traders foram liquidados, com a maior parte do prejuízo (cerca de "
+        },
+        {
+          "text": "$1,7 bilhão",
+          "color": "red"
+        },
+        {
+          "text": ") vindo de posições compradas (longs) que foram forçadas a fechar."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "A fuga de capital: ETFs e o boom da Inteligência Artificial"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A queda estrutural não se explica apenas pela dinâmica de curto prazo. Há um movimento mais profundo de fuga de capital do cripto para outros ativos. Enquanto o Bitcoin sofre para recuperar o impulso, o mercado de ações nos EUA, especialmente o setor de Inteligência Artificial, segue renovando máximas históricas. O Nasdaq 100 subiu cerca de 20% este ano, e ações ligadas à IA dispararam, criando um custo de oportunidade alto para quem mantém Bitcoin."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os fluxos institucionais refletem essa mudança de preferência. Os ETFs spot de Bitcoin nos EUA registraram saídas líquidas de aproximadamente "
+        },
+        {
+          "text": "$4 bilhões",
+          "color": "red"
+        },
+        {
+          "text": " entre 15 de maio e 2 de junho. Produtos negociados em bolsa de BTC acumularam saídas líquidas de 62.794 BTC nas últimas três semanas, completando a maior sequência de retiradas desde o lançamento desses fundos. Em vez de correr para o Bitcoin como ativo de segurança, investidores estão levantando capital para alocar em ações de IA e em ofertas públicas iniciais de empresas como Anthropic e SpaceX."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O que os mercados preditivos apontam para 2026"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "As leituras de mercado via Polymarket indica que o pessimismo deve persistir no curto prazo. Para este mês de junho, as probabilidades inclinam para que o preço teste ainda a região dos "
+        },
+        {
+          "text": "$65.000",
+          "color": "red"
+        },
+        {
+          "text": ", com risco de busca à casa dos "
+        },
+        {
+          "text": "$62.000",
+          "color": "red"
+        },
+        {
+          "text": ". A leitura é de lateralização entre "
+        },
+        {
+          "text": "$62k",
+          "color": "red"
+        },
+        {
+          "text": " e "
+        },
+        {
+          "text": "$72k",
+          "color": "red"
+        },
+        {
+          "text": " ao longo de junho, com a EMA de 200 semanas (agora nos "
+        },
+        {
+          "text": "$76.000",
+          "color": "red"
+        },
+        {
+          "text": ") atuando como resistência imediata."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/3b7ca74b0d2b7803.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Olhando para o final do ano, a aposta do mercado converge para um fundo de ciclo na faixa dos "
+        },
+        {
+          "text": "$55.000",
+          "color": "red"
+        },
+        {
+          "text": ". Essa projeção coincide com a leitura cíclica de que o fundo de ciclo ocorre abaixo dos "
+        },
+        {
+          "text": "$60.000",
+          "color": "red"
+        },
+        {
+          "text": " — algo que já apontamos há meses. Por ora, os volumes de aposta não indicam confiança em um grande rali de alta em 2026: o cenário-base continua sendo de ajuste e busca de um novo fundo antes de qualquer recuperação sustentável."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A orientação é cautela. Com a alavancagem sendo limpa do sistema e os fluxos institucionais saindo, o caminho de menor resistência continua sendo para baixo até que a demanda spot real retorne."
+        }
+      ]
+    }
+  ]
+}

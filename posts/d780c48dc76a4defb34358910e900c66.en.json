@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "d780c48dc76a4defb34358910e900c66",
+  "locale": "en",
+  "slug": "white-house-greenlights-rule-that-opens-crypto-to-401k-plans",
+  "date": "2026-03-26T15:00:00.000Z",
+  "updated": "2026-03-26T15:31:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Adoção",
+      "color": "orange"
+    },
+    {
+      "name": "Regulação",
+      "color": "pink"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/018e487caf634fee.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "✅"
+  },
+  "title": [
+    {
+      "text": "White House Greenlights Rule That Opens Crypto to 401(k) Plans"
+    }
+  ],
+  "excerpt": "The White House has completed its review of a Department of Labor proposal that could open the doors to crypto for tens of millions of Americans. If approved, 4",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The White House has completed its review of a Department of Labor proposal that could open the doors to crypto for tens of millions of Americans. If approved, 401(k) plan managers would have a clear regulatory pathway to include digital assets among investment options — a change that could inject billions of dollars into the sector."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The White House Office of Information and Regulatory Affairs (OIRA) completed its review of the Department of Labor proposal on March 24, classifying it as \"economically significant.\" With that, the DOL can now publish the rule for a 60-day public comment period before a final version is released.\n\nThe proposal follows the executive order signed by President Donald Trump in August 2025, which directed federal agencies to expand access to alternative assets, including digital assets, in defined contribution retirement plans. The measure also tasked the DOL with reviewing the existing limits on these assets.\n\nThe context matters: in May 2025, the Department of Labor itself withdrew a 2022 notice that advised managers to be \"extremely cautious\" when considering crypto in 401(k) plans. This reversal signals a profound shift in the federal stance on the matter."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why It Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "401(k) plans are the primary retirement savings vehicle in the U.S., holding roughly "
+        },
+        {
+          "text": "$7 trillion",
+          "bold": true
+        },
+        {
+          "text": " in assets. Any formal opening for crypto in this market represents enormous potential institutional demand. This isn't a speculative bet — it's regulatory infrastructure being built brick by brick.\n\nAt the same time, the state of Indiana also moved forward with a bill requiring certain state savings plans to offer crypto options, showing that this trend isn't just federal. It's a structural shift."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What's Next"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The next step is for the DOL to publish the rule and open the 60-day public comment period. If approved without major changes, 401(k) plan managers will have the legal freedom to evaluate crypto as an option. This doesn't guarantee immediate adoption, but it removes the most solid regulatory hurdle that existed. For the market, it's yet another brick in the long-term institutional adoption thesis."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "schemaVersion": 1,
+  "id": "3802da8d8134814f810eedd5754ebb02",
+  "locale": "pt",
+  "slug": "bitcoin-reconquista-os-67000-acordo-no-ira-baleias-e-saylor-de-volta-as-compras",
+  "date": "2026-06-15T15:31:00.000Z",
+  "updated": "2026-06-15T18:20:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/5d41547a043acde4.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin reconquista os $67.000: acordo no Irã, baleias e Saylor de volta às compras"
+    }
+  ],
+  "excerpt": "A segunda-feira começou com o mercado global respirando aliviado. O Bitcoin reconquistou os $66.000 e chegou a tocar a máxima de $67.250 hoje. É a continuação d",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A segunda-feira começou com o mercado global respirando aliviado. O "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " reconquistou os "
+        },
+        {
+          "text": "$66.000",
+          "bold": true
+        },
+        {
+          "text": " e chegou a tocar a máxima de "
+        },
+        {
+          "text": "$67.250",
+          "bold": true
+        },
+        {
+          "text": " hoje. É a continuação da recuperação que começou na mínima de "
+        },
+        {
+          "text": "$59.110",
+          "bold": true
+        },
+        {
+          "text": " do dia 5 de junho."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "É uma "
+        },
+        {
+          "text": "alta de cerca de 12%",
+          "color": "green"
+        },
+        {
+          "text": " desde aquele fundo. Mas fica o lembrete: ainda estamos uns 20% abaixo do topo de maio, na região dos "
+        },
+        {
+          "text": "$82.800",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O gatilho veio de fora do mercado cripto. "
+        },
+        {
+          "text": "Donald Trump anunciou que o acordo de paz entre Estados Unidos e Irã está fechado",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", e isso derrubou o petróleo para a mínima de dois meses. Com menos medo geopolítico, o dinheiro voltou a procurar ativos de risco e o Bitcoin pegou carona."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Acordo no Irã"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump classificou o pacto como fruto da sua diplomacia, o velho \"Art of the Deal\", com mediação do Paquistão e apoio de Catar, Arábia Saudita e Turquia. A assinatura oficial está marcada para a sexta, dia 19 de junho, na Suíça. Entre os termos esperados estão um cessar-fogo de 60 dias, uma janela de negociação sobre o programa nuclear iraniano e a reabertura do Estreito de Ormuz."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A reação nos mercados foi imediata. O petróleo teve o movimento mais forte: o WTI caiu mais de 4,5% e fechou na casa dos "
+        },
+        {
+          "text": "$81",
+          "bold": true
+        },
+        {
+          "text": " por barril. O "
+        },
+        {
+          "text": "Brent",
+          "bold": true
+        },
+        {
+          "text": " recuou para "
+        },
+        {
+          "text": "$84,15",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O ouro perdeu força como proteção, sendo negociado perto dos "
+        },
+        {
+          "text": "$4.300",
+          "bold": true
+        },
+        {
+          "text": ", e já acumula queda de quase 7% no mês com a diminuição do prêmio de risco. Detalhe importante: Israel não participa diretamente e manifestou ressalvas, então ainda há um fator de incerteza no ar. A própria assinatura de sexta vai testar se isso é paz de verdade ou só uma trégua que o mercado já está precificando."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "As Baleias Já Compraram"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E não é só o macro empurrando. Apareceu um sinal raro de fundo on-chain, e as baleias se mexeram em cima dele. A métrica é a "
+        },
+        {
+          "text": "Seller Exhaustion Constant",
+          "italic": true
+        },
+        {
+          "text": ", da "
+        },
+        {
+          "text": "Glassnode",
+          "bold": true
+        },
+        {
+          "text": " (criada originalmente pela "
+        },
+        {
+          "text": "ARK Invest",
+          "bold": true
+        },
+        {
+          "text": "), que cruza a fatia da oferta em lucro com a volatilidade dos últimos 30 dias para tentar identificar fundos de baixo risco."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/cea39778ae58a974.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O histórico chama atenção. Em 12 de fevereiro a métrica bateu "
+        },
+        {
+          "text": "0,082",
+          "bold": true
+        },
+        {
+          "text": ", com o Bitcoin perto dos "
+        },
+        {
+          "text": "$66.248",
+          "bold": true
+        },
+        {
+          "text": ". De lá, o preço subiu até "
+        },
+        {
+          "text": "$82.186",
+          "bold": true
+        },
+        {
+          "text": " em 10 de maio, uma "
+        },
+        {
+          "text": "alta de 24%",
+          "color": "green"
+        },
+        {
+          "text": ". No dia 11 de junho o sinal reapareceu, marcando "
+        },
+        {
+          "text": "0,053",
+          "bold": true
+        },
+        {
+          "text": ", a segunda leitura mais alta em seis meses."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E quem comprou no sinal? As baleias. As carteiras gigantes aumentaram posição em cima do dia 11, e os grupos somados arremataram cerca de "
+        },
+        {
+          "text": "11.000 BTC",
+          "bold": true
+        },
+        {
+          "text": ", algo na casa dos "
+        },
+        {
+          "text": "$700 milhões",
+          "bold": true
+        },
+        {
+          "text": " na cotação atual. Quando o dinheiro grande compra exatamente no ponto que historicamente marcou fundo, eu fico de olho."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Saylor Voltou às Compras"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "No meio dessa virada, a "
+        },
+        {
+          "text": "Strategy",
+          "bold": true
+        },
+        {
+          "text": ", de Michael Saylor, anunciou mais uma compra: "
+        },
+        {
+          "text": "1.587 BTC",
+          "bold": true
+        },
+        {
+          "text": " por cerca de "
+        },
+        {
+          "text": "$100 milhões",
+          "bold": true
+        },
+        {
+          "text": ". Com isso, a reserva subiu para "
+        },
+        {
+          "text": "846.842 BTC",
+          "bold": true
+        },
+        {
+          "text": ", o que mantém a empresa como a maior detentora corporativa de Bitcoin do mundo, com posição avaliada perto dos "
+        },
+        {
+          "text": "$56 bilhões",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Essa compra tem um sabor especial. Há duas semanas, a Strategy tinha vendido "
+        },
+        {
+          "text": "32 BTC",
+          "bold": true
+        },
+        {
+          "text": " (a primeira venda divulgada em anos), e isso assustou parte do mercado. O CEO "
+        },
+        {
+          "text": "Phong Le",
+          "bold": true
+        },
+        {
+          "text": " explicou que foi só um teste dos sistemas internos, não falta de caixa, e a compra de hoje, bem maior que a venda, reforça que a empresa segue compradora líquida."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Interessante notar que a Strategy também elevou a reserva em dólar em mais "
+        },
+        {
+          "text": "$100 milhões",
+          "bold": true
+        },
+        {
+          "text": ", chegando a "
+        },
+        {
+          "text": "$1,1 bilhão",
+          "bold": true
+        },
+        {
+          "text": ". Ou seja, está acumulando Bitcoin e guardando caixa ao mesmo tempo, provavelmente de olho nas obrigações com as ações preferenciais."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que o Gráfico Diz"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A próxima parada é a resistência na casa dos "
+        },
+        {
+          "text": "$67.500",
+          "bold": true
+        },
+        {
+          "text": ", que coincide com uma faixa cheia de posições vendidas para liquidar. Se o preço chegar lá, essas liquidações podem acelerar o movimento para cima. Romper esse nível abriria caminho para a região dos "
+        },
+        {
+          "text": "$68.000",
+          "bold": true
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nos derivativos, o cenário é saudável: o open interest (total de posições em aberto) subiu para cerca de "
+        },
+        {
+          "text": "$46,13 bilhões",
+          "bold": true
+        },
+        {
+          "text": ", com o funding rate ainda levemente positivo, em "
+        },
+        {
+          "text": "0,0029%",
+          "bold": true
+        },
+        {
+          "text": ". Em bom português, os traders estão voltando a se posicionar sem aquela alavancagem exagerada que costuma aparecer perto de topos."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Nem Tudo São Flores"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Antes de alguém sair eufórico, tem contrapontos sérios. O primeiro é o varejo: o volume de compra caiu desde o dia 11, mesmo com o preço subindo. Ou seja, as baleias estão comprando, mas o pequeno investidor ainda não entrou na festa, e sem essa demanda extra o Bitcoin pode travar na média de 20 dias, na casa dos "
+        },
+        {
+          "text": "$66.600",
+          "bold": true
+        },
+        {
+          "text": ", e recuar para a região dos "
+        },
+        {
+          "text": "$64.700",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O segundo ponto são os ETFs. Os fundos de Bitcoin à vista nos EUA tiveram só dois dias de entrada líquida desde 15 de maio, acumulando algo como "
+        },
+        {
+          "text": "$5 bilhões",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " em saídas",
+          "color": "red"
+        },
+        {
+          "text": " no período. Foram justamente esses fundos que empurraram o Bitcoin para a máxima histórica acima dos "
+        },
+        {
+          "text": "$126.000",
+          "bold": true
+        },
+        {
+          "text": " em outubro de 2025, então a fraqueza deles tira uma perna importante da demanda institucional."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E tem a turma do \"calma lá\". Analistas como o "
+        },
+        {
+          "text": "CryptoBullet",
+          "bold": true
+        },
+        {
+          "text": " acham que isso é só um repique de alta passageiro dentro de uma tendência de baixa, antes de o preço buscar novas mínimas. O suporte que decide a parada é "
+        },
+        {
+          "text": "$60.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ": enquanto ele segurar, a recuperação segue de pé. Perdendo esse nível, abre espaço para a faixa dos "
+        },
+        {
+          "text": "$55.000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " a ",
+          "color": "red"
+        },
+        {
+          "text": "$50.000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": "."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "33a2da8d8134810caa9acc8dd8bc5a3c",
+  "locale": "en",
+  "slug": "google-highlights-algorand-and-polymarket-announces-token",
+  "date": "2026-04-06T21:00:00.000Z",
+  "updated": "2026-04-07T02:39:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Altcoins",
+      "color": "gray"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/d4c3c321761e4b06.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🗞️"
+  },
+  "title": [
+    {
+      "text": "Google Highlights Algorand and Polymarket Announces Token"
+    }
+  ],
+  "excerpt": "Algorand registers a 50% gain in one month after Google's quantum AI team cites the network as a blockchain security model, while Polymarket announces a USDC-co",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Algorand registers a 50% gain in one month after Google's quantum AI team cites the network as a blockchain security model, while Polymarket announces a USDC-collateralized token."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Google Highlights Algorand as a Security Model"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Algorand network registered "
+        },
+        {
+          "text": "a sharp 50% gain",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "over the past month after Google's Quantum AI team highlighted the blockchain as a "
+        },
+        {
+          "text": "security model against quantum threats",
+          "bold": true
+        },
+        {
+          "text": ". The endorsement from Google, one of the world's largest technology companies, places Algorand at the center of the post-quantum preparedness debate in the industry."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "While networks like Ethereum and Bitcoin are still discussing updates to resist quantum computers, Google's team pointed to Algorand's design as a security benchmark."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Polymarket Announces Collateralized Token"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Polymarket, the prediction market platform that gained prominence during the US elections, announced the launch of a "
+        },
+        {
+          "text": "1:1",
+          "bold": true
+        },
+        {
+          "text": " USDC-collateralized token. The initiative allows users to trade positions with transparent backing in Circle's stablecoin, a digital payments company."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This move reflects the growing institutionalization of prediction markets, which have gone from a crypto niche to the radar of mainstream finance."
+        }
+      ]
+    }
+  ]
+}

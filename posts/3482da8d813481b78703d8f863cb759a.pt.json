@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "3482da8d813481b78703d8f863cb759a",
+  "locale": "pt",
+  "slug": "strategy-faz-maior-compra-de-bitcoin-desde-2024",
+  "date": "2026-04-20T19:14:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/c81f24662e24d0fd.jpg",
+  "thumbnail": null,
+  "icon": null,
+  "title": [
+    {
+      "text": "Strategy Faz Maior Compra de Bitcoin desde 2024"
+    }
+  ],
+  "excerpt": "A Strategy, empresa de Michael Saylor, anunciou nesta segunda-feira sua maior aquisição de Bitcoin desde 2024. A compra acontece em um momento de recuperação: o",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Strategy, empresa de Michael Saylor, anunciou nesta segunda-feira sua maior aquisição de Bitcoin desde 2024. A compra acontece em um momento de recuperação: o ativo tocou $73.724 no fim de semana, mas voltou a subir. Nesta segunda-feira, o Bitcoin opera em "
+        },
+        {
+          "text": "$76.327",
+          "bold": true
+        },
+        {
+          "text": ", com alta de "
+        },
+        {
+          "text": "+1,94%",
+          "color": "green"
+        },
+        {
+          "text": " em 24 horas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Por Que a Compra Importa"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A Strategy é a maior detentora corporativa de Bitcoin do mundo. A empresa acumula posição no ativo desde 2020, e suas compras de grande porte são acompanhadas de perto como termômetro do apetite institucional. Esta é a maior operação da empresa em mais de dois anos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O momento da aquisição é tão relevante quanto o volume. Comprar durante um período de queda, com o preço abaixo dos $77.000 e o sentimento do varejo em zona de medo, reforça a tese de que grandes investidores tratam a correção como oportunidade de acúmulo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O acúmulo institucional vai além da Strategy. Na semana passada, ETFs de cripto registraram "
+        },
+        {
+          "text": "$1,37 bilhão",
+          "bold": true
+        },
+        {
+          "text": " em entradas, a maior captação desde janeiro. O contraste entre o fluxo institucional e o medo do varejo é um dos sinais mais observados por analistas neste ciclo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Tokenização de Ações Ganha Forma"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Em outra frente, Coinbase e Bybit trabalham juntas na tokenização, custódia e distribuição de ações americanas via blockchain. A parceria conecta mercados tradicionais à infraestrutura cripto e pode ampliar a base de usuários de ambas as plataformas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A convergência entre finanças tradicionais e cripto avançou de forma consistente em 2026. Cada novo projeto nessa linha reduz a barreira de entrada para investidores que ainda não operam com ativos digitais."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Monitorar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte na faixa dos $73.000 foi testado no fim de semana e se manteve intacto. O volume nas últimas 24 horas ficou em "
+        },
+        {
+          "text": "$1,20 bilhão",
+          "bold": true
+        },
+        {
+          "text": ", com compradores ativos na recuperação desta segunda-feira."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se o ritmo de entradas em ETFs continuar, a faixa dos $77.000 é o próximo objetivo. Uma perda dos $73.000, por outro lado, abriria caminho para a região dos $70.000."
+        }
+      ]
+    }
+  ]
+}

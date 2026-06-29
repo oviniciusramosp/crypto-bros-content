@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "id": "3192da8d813480a3b377c57e46cb138d",
+  "locale": "en",
+  "slug": "a-world-at-war-and-bitcoin-is-going-up",
+  "date": "2026-03-04T19:04:00.000Z",
+  "updated": "2026-03-09T03:55:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0a5a3c0d0f083458.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/75e64fa8eb2e50f1.jpg",
+  "icon": {
+    "emoji": "🚀"
+  },
+  "title": [
+    {
+      "text": "A World at War… and Bitcoin Is Going Up?",
+      "bold": true
+    }
+  ],
+  "excerpt": "Yes, that’s right. Bitcoin woke up today breaking through an important resistance level. The next few days will tell us whether this move turns into real relief",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Yes, that’s right. Bitcoin woke up today breaking through an important resistance level. The next few days will tell us whether this move turns into real relief for the market or if it ends up being just another trap. Let’s break it down."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The $70K Level",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It’s been about a month since Bitcoin last closed a daily candle above $70,000. Even so, since February 7 we’ve seen several downward moves that never really confirmed a strong reaction in price."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;from:2026-01-01;date:2026-03-05;type:line;line:70000|||green|0.6|dashed||1.5}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Is this time different? It’s still too early to say."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "What we need to see now is a daily close holding near $72,000, followed by confirmation throughout the week that price can stay above $70,000."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In other words, we’re sitting right on a critical level that previously acted as resistance and could now start turning into support."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What About the War?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Both the geopolitical tensions and the lack of an interest rate cut in March were events the market had largely priced in over the past few weeks."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We can see this reflected in prediction markets like Polymarket, which had already been pricing in the possibility of a conflict between Iran and the United States since mid-2025."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "At the moment, those markets are indicating that the conflict could last at least until May 15."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/8d469bd423719752.png",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Because Bitcoin tends to react faster to news than most traditional assets, the market drop happened earlier. For prices to fall significantly from here, we would likely need to see a major escalation in the conflict."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Historically, wars tend to push markets lower ahead of time, but over time they can also become a catalyst for Bitcoin. In uncertain environments, Bitcoin can function as an alternative financial system, allowing people to move value without relying on traditional currencies or government-controlled infrastructure."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "How High Could Bitcoin Go?",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Between $75,000 and $79,000 there is a "
+        },
+        {
+          "text": "high-volume trading zone",
+          "color": "red"
+        },
+        {
+          "text": " that could act as the next resistance level."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If strong buying pressure starts entering the market, the $84,000 level becomes another key area to watch."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That level aligns with the "
+        },
+        {
+          "text": "100-week moving average",
+          "color": "blue"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-03-05;type:line;ema:100w-cyan,200w-purple;line:77000|2026-02-04||red|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That said, caution is still necessary."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "We remain in a broader bear market structure, and the overall trend still suggests the possibility of continued lower highs. Even $84,000 is still relatively far from current levels."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Assuming a return to $100,000 at this stage may be premature. At the moment, the probability of a move back toward the $60,000 range remains higher."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "id": "34b2da8d81348140bf29d438133780ad",
+  "locale": "pt",
+  "slug": "analise-22-abril",
+  "date": "2026-04-23T00:58:00.000Z",
+  "updated": "2026-04-23T03:56:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e090928e68edcf85.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/543cb6f5227e6cad.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 22 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$78.450",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+2,84%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$79.472",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$76.132",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Alívio Global, Bitcoin em Alta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin subiu quase 3% nesta quarta-feira, renovando a máxima de sexta-feira ("
+        },
+        {
+          "text": "$78.360",
+          "bold": true
+        },
+        {
+          "text": ") e atingindo "
+        },
+        {
+          "text": "$79.472",
+          "bold": true
+        },
+        {
+          "text": " no pico do dia. O volume ficou acima da média dos últimos sete dias, mostrando participação real no movimento de alta."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O catalisador foi a "
+        },
+        {
+          "text": "ampliação do cessar-fogo entre EUA e Irã anunciada por Trump",
+          "color": "yellow"
+        },
+        {
+          "text": ", que ativou o apetite por risco nos mercados globais. A Nasdaq subiu 2,67% e o S&P 500 avançou 1,64%. O ouro recuou 2,35% e a prata caiu 5,43%, confirmando a saída de capital dos ativos de refúgio para ativos de risco."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O suporte de $73.000 segurou firme em quatro testes recentes, e a narrativa geopolítica favoreceu a alta. "
+        },
+        {
+          "text": "O preço agora se aproxima de uma barreira importante na região dos $80.000.",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:2026-04-23;type:candle;candle:1d;ema:50w-green;line:73000|2026-04-02||green|0.5|dashed, 80000|2026-04-07||red|0.5|dashed}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Além dos $80.000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário otimista se confirma se Bitcoin romper "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": " com volume sustentado e fechar o dia acima desse nível. A máxima de hoje ficou a menos de 1% dessa barreira, e as compras aumentaram com o otimismo geopolítico."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os catalisadores que sustentam essa possibilidade são a continuidade do alívio diplomático entre EUA e Irã, os fluxos institucionais positivos (a Strategy segue comprando agressivamente) e a configuração dos derivativos. A relação entre posições compradas e vendidas nos futuros está em 0,51, o que significa que para cada posição comprada há quase duas vendidas, criando condições para uma reversão rápida por liquidação de posições."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se confirmado, "
+        },
+        {
+          "text": "o primeiro alvo é a região dos $82.000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ". O alvo secundário fica próximo dos "
+        },
+        {
+          "text": "$85.000",
+          "bold": true
+        },
+        {
+          "text": ", na zona da EMA de 100 semanas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Se o Otimismo Esfriar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista se ativa se Bitcoin for rejeitado na região dos $80.000 e perder o suporte em "
+        },
+        {
+          "text": "$76.000",
+          "bold": true
+        },
+        {
+          "text": ", que corresponde à mínima desta quarta-feira. Uma rejeição nesse nível traria o preço de volta ao suporte consolidado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O primeiro alvo de baixa seria "
+        },
+        {
+          "text": "$73.000",
+          "bold": true
+        },
+        {
+          "text": ", o suporte consolidado. Se esse nível for perdido, o próximo piso relevante fica na região dos "
+        },
+        {
+          "text": "$70.000",
+          "bold": true
+        },
+        {
+          "text": ". Um fechamento diário acima de $80.000 invalidaria este cenário."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os riscos incluem uma reversão do cenário diplomático com novas tensões entre EUA e Irã e surpresas negativas em dados econômicos americanos. Há também a fragilidade on-chain reportada na região entre $78.000 e $73.000, onde há pouca base de suporte por parte dos compradores."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Radar para Quinta"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O nível mais importante para as próximas horas é a barreira dos "
+        },
+        {
+          "text": "$80.000",
+          "bold": true
+        },
+        {
+          "text": ". Um rompimento com volume forte pode desencadear uma onda de liquidações de posições vendidas e acelerar a alta. Uma rejeição pode abrir espaço para fechamento de posições após a sequência de cinco dias com mínimas ascendentes."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O sentimento de mercado melhorou rapidamente, com o Fear & Greed saltando para 46, mas ainda em território de medo. Amanhã os mercados americanos operam normalmente, e a continuidade do movimento dependerá da reação do preço nessa região."
+        }
+      ]
+    }
+  ]
+}

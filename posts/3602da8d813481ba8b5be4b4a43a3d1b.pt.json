@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "3602da8d813481ba8b5be4b4a43a3d1b",
+  "locale": "pt",
+  "slug": "pre-candidato-defende-reserva-de-bitcoin-para-o-brasil",
+  "date": "2026-05-14T17:11:00.000Z",
+  "updated": "2026-05-14T17:38:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e122212d8b343423.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇧🇷"
+  },
+  "title": [
+    {
+      "text": "Pré-candidato Defende Reserva de Bitcoin para o Brasil"
+    }
+  ],
+  "excerpt": "Renan Santos, fundador do Movimento Brasil Livre e pré-candidato à presidência em 2026 pelo Partido Missão (14), declarou em entrevista a um podcast que defende",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Renan Santos, fundador do Movimento Brasil Livre e pré-candidato à presidência em 2026 pelo Partido Missão (14), declarou em entrevista a um podcast que defende a criação de uma reserva de Bitcoin para o Brasil. A proposta consta no chamado \"livro amarelo\" do partido e cita El Salvador como referência prática."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A fala aconteceu no podcast Produções Productions, depois que um internauta cobrou compromisso do pré-candidato com a agenda cripto. Santos respondeu que \"alguns países já estão começando a fazer\" e considera o caminho viável para o Brasil. Ele também defendeu o uso de blockchain no setor público como ferramenta para reduzir corrupção em processos governamentais."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Contexto Internacional"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A proposta brasileira ganha peso porque os Estados Unidos já formalizaram sua Reserva Estratégica de Bitcoin sob Donald Trump, e El Salvador acumulou ganhos expressivos na posição iniciada em 2021 por Nayib Bukele. A ideia de tesouros nacionais alocarem parte das reservas em Bitcoin saiu do campo da curiosidade e virou tema concreto no debate político de várias jurisdições."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o investidor brasileiro, a relevância é dupla. Primeiro, mostra que cripto começa a ocupar espaço no debate eleitoral de 2026. Segundo, sinaliza que a tese de reserva soberana em Bitcoin deixou o nicho técnico e alcançou o discurso de candidatos a cargos executivos no país."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Reação do Mercado"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin opera nesta quinta na casa dos $81.950, com alta de 3,50% nas últimas 24 horas, depois de buscar a região dos $78.900 no início da semana. A notícia tem peso narrativo, não de fluxo, já que se trata da fala de um pré-candidato e não de uma decisão de governo. O Fear & Greed segue em medo (34), sem mudança de regime relevante."
+        }
+      ]
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Esperar"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A discussão sobre uma reserva soberana de Bitcoin no Brasil ainda está no plano programático e depende da consolidação do Partido Missão como força eleitoral até 2026. Vale acompanhar se outros pré-candidatos vão se posicionar sobre o tema nas próximas semanas, o que aceleraria a entrada do assunto na pauta nacional."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Por ora, é acompanhar. Propostas de campanha mudam, mas o fato de o tema aparecer em programa oficial de partido já marca um avanço em relação aos ciclos eleitorais anteriores, quando cripto era completamente ignorado pelos candidatos brasileiros."
+        }
+      ]
+    }
+  ]
+}

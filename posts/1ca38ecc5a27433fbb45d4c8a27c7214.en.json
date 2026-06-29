@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "1ca38ecc5a27433fbb45d4c8a27c7214",
+  "locale": "en",
+  "slug": "iran-signals-ceasefire-and-bitcoin-surges",
+  "date": "2026-03-31T17:05:00.000Z",
+  "updated": "2026-03-31T17:19:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2dd6b01dce9f7f36.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🇮🇷"
+  },
+  "title": [
+    {
+      "text": "Iran Signals Ceasefire and Bitcoin Surges"
+    }
+  ],
+  "excerpt": "Iran's president, Masoud Pezeshkian, declared today that the country is willing to end the conflict with the U.S. if it receives security guarantees. ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Iran's president, Masoud Pezeshkian, declared today that the country is willing to end the conflict with the U.S. if it receives security guarantees. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The news hit the market around 1 PM and triggered an immediate reaction: Bitcoin jumped from $67k to $68k in less than 15 minutes, oil dropped, and global stocks rallied."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Happened"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:1m;date:now;type:line}}"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Iran has kept the Strait of Hormuz closed since the start of the conflict with the U.S., a route through which about 20% of the world's oil passes. The blockade has kept oil above $100 and pressured risk assets globally. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Pezeshkian's statement was the most concrete diplomatic opening so far: the country said it is ready to negotiate, on the condition of security guarantees from the Americans. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the 1 PM 15-minute candle, BTC volume was four times above average, confirming that traders reacted to the geopolitical headline."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Why This Matters"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Middle East conflict has been one of the main sources of pressure on the crypto market in 2026. With oil prices high, the Fed has less room to cut rates, which weighs on risk assets. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin needs to close March above $67,300 to avoid six consecutive months of losses, and at 2 PM it was at $67,764. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In derivatives, the funding rate flipped from positive (+0.00012) to negative (-0.00028), indicating that shorts dominate futures and could amplify a rally if the ceasefire narrative is confirmed."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What's Next"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If the ceasefire is confirmed, the next level to watch on BTC is the $68,000 region, the top of today's spike. A monthly close above $67,300 would shift the market's tone heading into April. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If there is no concrete progress, sentiment remains at Extreme Fear (Fear & Greed: 11) and the nearest support to watch is $66,000."
+        }
+      ]
+    }
+  ]
+}

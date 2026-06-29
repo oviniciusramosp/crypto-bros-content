@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "id": "3452da8d813481329635d69138fa7f5f",
+  "locale": "pt",
+  "slug": "analise-16-abril",
+  "date": "2026-04-17T01:04:00.000Z",
+  "updated": "2026-04-17T02:47:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/990b6eb9b4452bd6.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/b167a79a6136f9f6.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Análise 16 Abril"
+    }
+  ],
+  "excerpt": "Nossa análise técnica do dia:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Nossa análise técnica do dia:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin fechou em "
+        },
+        {
+          "text": "$75.061",
+          "bold": true
+        },
+        {
+          "text": " ("
+        },
+        {
+          "text": "+0,48%",
+          "color": "green"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Max: "
+        },
+        {
+          "text": "$75.534",
+          "color": "green"
+        },
+        {
+          "text": " • Min: "
+        },
+        {
+          "text": "$73.309",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "RSI Quente, Medo Gelado"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin negocia a $75.061 após testar a região de $73.300, acumulando oito sessões consecutivas de mínimas crescentes desde a região de $65.000. O preço segue abaixo da EMA de 100 semanas (~$82.600), confirmando que a "
+        },
+        {
+          "text": "estrutura de médio prazo permanece pessimista",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Ainda assim, mantém distância confortável da EMA de 200 semanas (~$68.300), que funciona como último suporte estrutural."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:6m;date:now;type:candle;candle:1d;ema:200w-blue,50w-green;line:65000|2026-03-27||green|0.5|dashed,76000|2026-03-17||red|0.5|dashed}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O RSI diário atingiu 76,6, zona que historicamente antecede acomodações de curto prazo. Ao mesmo tempo, o índice Fear & Greed marca 21, ainda em medo extremo. Essa divergência entre preço subindo e sentimento negativo costuma indicar que o mercado ainda não reposicionou suas apostas para cima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:now;type:rsi;rsi:14d}}",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "$76k e Shorts na Mira"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para confirmar a continuação da alta, Bitcoin precisa de um fechamento diário acima de $76.000 com volume superior a 25.000 BTC. Com 57,5% das posições em futuros apostando na queda e funding rate praticamente neutro (+0,0033%), um rompimento dessa resistência poderia gerar uma "
+        },
+        {
+          "text": "onda de liquidações das posições vendidas, acelerando o movimento",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Os alvos seriam a EMA de 100 semanas (~$82.600) como objetivo principal e a EMA de 50 semanas (~$86.700) como secundário. O ambiente macro colabora: S&P 500 e NASDAQ subiram forte, com altas de 3,17% e 5,61% respectivamente. Bitcoin ficou para trás com apenas +0,48%, e esse tipo de defasagem costuma se resolver em 24 a 72 horas."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "E se Rejeitar?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O cenário pessimista se confirma com um fechamento diário abaixo de $73.000, região que coincide com a mínima de hoje. Uma perda desse nível abriria caminho para a EMA de 200 semanas (~$68.300), último suporte estrutural importante antes da região de ~$65.000, testada três vezes entre o final de março e início de abril."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O RSI em território elevado reforça a possibilidade de um recuo de curto prazo, especialmente se o apetite por risco nas bolsas americanas arrefecer. "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Olho no Gatilho"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O nível mais importante para amanhã é a resistência em ~$76.000. Bitcoin está entre esse teto e o suporte em ~$73.000, e a resolução dessa faixa deve definir a direção dos próximos dias. O DXY continua abaixo de 100, em 98,2, o que remove um obstáculo para ativos de risco."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Se as bolsas americanas mantiverem o ritmo de hoje, Bitcoin tende a acompanhar. Fique de olho no volume: um dia com mais de 25.000 BTC negociados próximo de ~$76.000 seria o sinal mais claro de rompimento."
+        }
+      ]
+    }
+  ]
+}

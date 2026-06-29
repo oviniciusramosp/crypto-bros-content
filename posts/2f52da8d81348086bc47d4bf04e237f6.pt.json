@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "2f52da8d81348086bc47d4bf04e237f6",
+  "locale": "pt",
+  "slug": "promocao-trading-view",
+  "date": "2025-11-23T17:50:00.000Z",
+  "updated": "2026-03-02T18:54:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [],
+  "author": {
+    "id": "a1",
+    "name": "Vini Ramos",
+    "avatar": null
+  },
+  "cover": null,
+  "thumbnail": null,
+  "icon": {
+    "emoji": "🏷️"
+  },
+  "title": [
+    {
+      "text": "Promoção Trading View"
+    }
+  ],
+  "excerpt": "Para o pessoal que usa Trading View pago ou tem vontade: a melhor oferta do ano está acontecendo e acaba em breve!",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/0f1a86626af59d2d.jpg",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Para o pessoal que usa Trading View pago ou tem vontade: a melhor oferta do ano está acontecendo e acaba em breve!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Até 80% de desconto!!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "CLIQUE AQUI E APROVEITE",
+          "bold": true,
+          "href": "https://www.tradingview.com/black-friday/?share_your_love=oviniciusramos"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Eu uso esse plano aqui e acho o valor muito justo pelo tanto que a ferramenta me ajuda! Faço o valor do mês em um trade!"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/13f62925ce4327b4.jpg",
+      "caption": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

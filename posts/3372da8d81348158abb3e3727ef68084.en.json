@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "id": "3372da8d81348158abb3e3727ef68084",
+  "locale": "en",
+  "slug": "technical-analysis-apr-02",
+  "date": "2026-04-03T01:00:00.000Z",
+  "updated": "2026-04-03T05:52:00.000Z",
+  "categories": [
+    "Análise Técnica"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Análises",
+      "color": "green"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/48881136da12af0f.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/4b0a6dcefdc19982.jpg",
+  "icon": {
+    "emoji": "📝"
+  },
+  "title": [
+    {
+      "text": "Technical Analysis: Apr 02"
+    }
+  ],
+  "excerpt": "Our daily technical analysis:",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Our daily technical analysis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Bitcoin at $66,900 ",
+          "bold": true
+        },
+        {
+          "text": "("
+        },
+        {
+          "text": "-1.78%",
+          "color": "red"
+        },
+        {
+          "text": ")"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "High:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "$68,700",
+          "color": "green"
+        },
+        {
+          "text": " • "
+        },
+        {
+          "text": "Low:",
+          "bold": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "$65,700",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Liberation Day Hit Hard, But the Worst May Still Be Ahead"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The bearish scenario we outlined in yesterday's analysis played out: Trump's Liberation Day brought "
+        },
+        {
+          "text": "sweeping and aggressive reciprocal tariffs",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", and BTC lost the immediate $67,500 support without difficulty. At the same time, Trump "
+        },
+        {
+          "text": "reversed the ceasefire with Iran and declared he'll \"hit extremely hard\" in the coming weeks",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ", creating a broad risk-off environment."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "On the technical side, BTC closed below the 200-week EMA ($68,200) for the 7th consecutive day since losing that level on 03/27. The moving average now acts as confirmed resistance, rejecting price for the 3rd time this week. "
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Price sits ~24% below the 50-week EMA and ~19% below the 100-week EMA. In the 2021 cycle, at this same point (24 months post-halving), BTC was at ~$29,000, a -58% correction from its top. The current correction of -47% from the $126,200 top is less severe so far, but the 2021 cycle at this stage had already formed a partial bottom with the Luna crash. In the 2017 cycle, the final bottom came 5 months after this point."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "{{chart:BTC;time:3m;date:2026-04-03;type:line;line:65000|||red|0.2|||9,68200|||green|0.2|||9}}"
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What Needs to Happen to Reclaim $70,000"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The path higher necessarily runs through reclaiming the 200-week EMA ($68,200) with a daily close above it. The bounce on 03/30-31, which took price from $65,000 to $68,590, is the reference: it was strong but lasted only 2 days before being fully retraced."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tomorrow's NFP (Friday, 04/03) is the nearest catalyst. If employment data comes in below expectations, it reinforces the narrative that the economy is slowing and the Fed may move to cut rates in June. That would give room for a bounce. The FOMC on 04/28-29 could be another potential trigger."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "First target: reclaim and consolidate above $68,200-$68,500. If that happens with at least 2 consecutive daily closes above, the target extends to $69,000-$70,000. Polymarket gives a 71% probability of BTC touching $70,000 in April, but the market itself prices in a dip to $65,000 (83%) as the likely path before any significant recovery. Any new bounce needs to be validated above $68,200 for at least 2 days to have credibility."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "If $65,000 Doesn't Hold"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The $65,000-$65,700 support has been active since 03/27, accumulating 4 tests in 7 days. If you've been following along with our analyses, this zone was flagged as critical since last week. Each additional test weakens the level, and the probability of a breakdown on the next attempt is significantly higher."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "If $65,000 breaks with volume, there's no meaningful support until $63,000-$63,500, a gap of ~$2,000 that could be filled quickly, especially in tomorrow's low-liquidity environment (Good Friday). Catalysts for this scenario include: a strong NFP tomorrow (resilient economy = hawkish Fed), escalation of the US-Iran conflict (66% probability of military action by April per Polymarket), and continued selling pressure from miners who have dumped over 15,000 BTC recently."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The extended target, should the decline deepen, is the $58,900-$59,000 region (250-week EMA low), where BTC historically formed cycle bottoms in 2015, 2018, 2020, and 2022. The Long/Short Ratio dropped from 2.13 to 1.82 over the past 12 hours but still shows 65% long positioning: if $65,000 breaks, there's significant risk of cascading liquidations. "
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "NFP on Good Friday and Iran in the Coming Weeks"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Tomorrow (Friday, 04/03) brings a dangerous combination: NFP, one of the highest-impact employment data releases, will drop while traditional markets are closed for Good Friday."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That means reduced liquidity in the crypto market, which amplifies any move. If the number comes in strong, it pressures risk assets by reinforcing the narrative that the Fed won't cut rates anytime soon. If it comes in weak, it could be the catalyst for a short-term bounce."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Over the coming months, the decisive factors are: the June FOMC with SEP could signal the first rate cuts, and Polymarket gives a 91% probability that rates will be below 4.5% by December 2026."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The Iran-US conflict is the wildcard, with a 66% probability of military action by end of April, which would create a severe risk-off environment for all risk assets."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "April's seasonality historically favors BTC (+13% average return), but that's skewed by bull market years. In bear markets (2014, 2018, 2022), April was flat or negative. Polymarket expects both a dip to $65,000 (83%) and a touch of $70,000 (71%) within the month, implying "
+        },
+        {
+          "text": "high volatility with a wide range",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": ". If BTC falls to the $58,900-$59,000 zone, it will be in the region where cycle bottoms have historically formed."
+        }
+      ]
+    }
+  ]
+}

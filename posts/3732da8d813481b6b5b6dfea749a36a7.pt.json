@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "3732da8d813481b6b5b6dfea749a36a7",
+  "locale": "pt",
+  "slug": "strategy-surpreende-e-vende-bitcoins",
+  "date": "2026-06-02T03:07:00.000Z",
+  "updated": "2026-06-02T04:47:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/e6c05f0ecd6b8bac.jpg",
+  "thumbnail": null,
+  "icon": {
+    "emoji": "💸"
+  },
+  "title": [
+    {
+      "text": "Strategy Surpreende e Vende Bitcoins"
+    }
+  ],
+  "excerpt": "A Strategy vendeu 32 bitcoins entre 26 e 31 de maio. Numa reserva de 843 mil BTC, isso representa 0,004% do total. Estatisticamente irrelevante. E mesmo assim, ",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "Strategy",
+          "bold": true
+        },
+        {
+          "text": " vendeu "
+        },
+        {
+          "text": "32 bitcoins",
+          "bold": true
+        },
+        {
+          "text": " entre 26 e 31 de maio. Numa reserva de "
+        },
+        {
+          "text": "843 mil BTC",
+          "bold": true
+        },
+        {
+          "text": ", isso representa "
+        },
+        {
+          "text": "0,004%",
+          "bold": true
+        },
+        {
+          "text": " do total. Estatisticamente irrelevante. E mesmo assim, "
+        },
+        {
+          "text": "mexeu com o mercado",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": ". Vale destrinchar por quê — o ponto importante não é o tamanho da venda, é o que ela revela sobre a engrenagem que sustenta a maior tesouraria corporativa de Bitcoin do mundo."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "O Que Está em Jogo"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O primeiro ponto é simbólico. Saylor construiu a marca da Strategy em cima da promessa pública de "
+        },
+        {
+          "text": "nunca vender Bitcoin",
+          "bold": true,
+          "color": "yellow"
+        },
+        {
+          "text": " — chegou a dizer, em tom de provocação, que era pra vender um rim antes de tocar na reserva. Quando a própria empresa vende, mesmo que pouco, a tese perde força. Não pelo volume, mas pela quebra do contrato implícito com o acionista."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "O segundo ponto é o que está por trás. A Strategy não acumula Bitcoin com o caixa do negócio de software original. Acumula emitindo ações e dívida no mercado e usando o dinheiro pra comprar mais BTC. Esse modelo gerou bilhões em obrigações financeiras que precisam ser honradas todo mês — em especial os dividendos das ações preferenciais. A venda dos 32 BTC foi exatamente para isso: financiar o pagamento de preferenciais."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A resposta do mercado veio rápido: Bitcoin caiu abaixo de $71k e as ações da Strategy caíram um pouco (chegando a quase -11% mas distante dos valores de Abril)."
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/2c0a487cd279d349.png",
+      "caption": [
+        {
+          "text": "BTC 1D"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "E aqui vai a pergunta que ninguém respondeu ainda. Foram "
+        },
+        {
+          "text": "32 bitcoins",
+          "bold": true
+        },
+        {
+          "text": ". Por que esse número?"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Existem duas leituras possíveis:"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A primeira leitura é que a Strategy vendeu "
+        },
+        {
+          "text": "propositalmente pouco",
+          "bold": true
+        },
+        {
+          "text": " — só pra medir como o mercado reagiria. Um teste de temperatura. Se a reação fosse contida, a empresa teria espaço pra fazer vendas maiores no futuro sem destruir a narrativa. Se a reação fosse violenta, ajusta o plano. Nessa hipótese, os 32 BTC são um balão de ensaio."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A segunda leitura é que a Strategy vendeu "
+        },
+        {
+          "text": "exatamente o que precisava",
+          "bold": true
+        },
+        {
+          "text": " — nem mais, nem menos. O número não é simbólico, é matemático: o caixa necessário para fechar o pagamento das preferenciais daquele momento. Nessa hipótese, os 32 BTC não testam nada. Cumprem uma obrigação pontual, e o próximo pagamento traz uma decisão nova."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "A diferença entre as duas leituras importa muito. Na primeira, o mercado está vendo uma jogada calculada e ainda há controle sobre o fluxo. Na segunda, a empresa está respondendo à pressão de caixa do mês, e o próximo mês pode trazer mais 32, ou 50, ou 100 BTC. Vamos acompanhando com calma — e ficando de olho no mNAV, porque ele é a variável que decide se a torneira de captação reabre ou se a reserva precisa continuar sendo a fonte."
+        }
+      ]
+    }
+  ]
+}

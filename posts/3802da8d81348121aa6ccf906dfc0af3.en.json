@@ -1,0 +1,553 @@
+{
+  "schemaVersion": 1,
+  "id": "3802da8d81348121aa6ccf906dfc0af3",
+  "locale": "en",
+  "slug": "bitcoin-reclaims-67000-iran-deal-whales-and-saylor-back-to-buying",
+  "date": "2026-06-15T20:38:00.000Z",
+  "updated": "2026-06-16T21:13:00.000Z",
+  "categories": [
+    "Mercado"
+  ],
+  "tags": [
+    {
+      "name": "Bitcoin",
+      "color": "default"
+    },
+    {
+      "name": "Notícias",
+      "color": "gray"
+    }
+  ],
+  "author": {
+    "id": "a1",
+    "name": "Crypto Bros",
+    "avatar": null
+  },
+  "cover": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/5d41547a043acde4.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/oviniciusramosp/crypto-bros-content/main/assets/5d41547a043acde4.jpg",
+  "icon": null,
+  "title": [
+    {
+      "text": "Bitcoin reclaims $67,000: Iran deal, whales, and Saylor back to buying"
+    }
+  ],
+  "excerpt": "Monday opened with the global market breathing a sigh of relief. Bitcoin reclaimed $66,000 and even touched a high of $67,250 today. It's the continuation of th",
+  "pinned": false,
+  "blocks": [
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Monday opened with the global market breathing a sigh of relief. "
+        },
+        {
+          "text": "Bitcoin",
+          "bold": true
+        },
+        {
+          "text": " reclaimed "
+        },
+        {
+          "text": "$66,000",
+          "bold": true
+        },
+        {
+          "text": " and even touched a high of "
+        },
+        {
+          "text": "$67,250",
+          "bold": true
+        },
+        {
+          "text": " today. It's the continuation of the recovery that started at the "
+        },
+        {
+          "text": "$59,110",
+          "bold": true
+        },
+        {
+          "text": " low on June 5."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "That's a "
+        },
+        {
+          "text": "rally of about 12%",
+          "color": "green"
+        },
+        {
+          "text": " from that bottom. But here's the reminder: we're still about 20% below the May top, in the "
+        },
+        {
+          "text": "$82,800",
+          "bold": true
+        },
+        {
+          "text": " range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The trigger came from outside the crypto market. "
+        },
+        {
+          "text": "Donald Trump announced that the peace deal between the United States and Iran is done",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ", and that knocked oil down to a two-month low. With less geopolitical fear, money started flowing back into risk assets and Bitcoin caught a ride."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Iran Deal"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Trump framed the pact as the fruit of his diplomacy, the old \"Art of the Deal,\" with mediation from Pakistan and backing from Qatar, Saudi Arabia, and Turkey. The official signing is set for Friday, June 19, in Switzerland. The expected terms include a 60-day ceasefire, a negotiation window over Iran's nuclear program, and the reopening of the Strait of Hormuz."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The market reaction was immediate. Oil made the strongest move: WTI fell more than 4.5% and closed around "
+        },
+        {
+          "text": "$81",
+          "bold": true
+        },
+        {
+          "text": " per barrel. "
+        },
+        {
+          "text": "Brent",
+          "bold": true
+        },
+        {
+          "text": " pulled back to "
+        },
+        {
+          "text": "$84.15",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Gold lost its strength as a hedge, trading near "
+        },
+        {
+          "text": "$4,300",
+          "bold": true
+        },
+        {
+          "text": ", and is already down almost 7% on the month as the risk premium shrinks. An important detail: Israel isn't directly involved and voiced reservations, so there's still an uncertainty factor in the air. Friday's signing itself will test whether this is real peace or just a truce the market is already pricing in."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "The Whales Have Already Bought"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "And macro isn't the only driver here. A rare on-chain bottom signal appeared, and the whales moved on it. The metric is the "
+        },
+        {
+          "text": "Seller Exhaustion Constant",
+          "italic": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "Glassnode",
+          "bold": true
+        },
+        {
+          "text": " (originally created by "
+        },
+        {
+          "text": "ARK Invest",
+          "bold": true
+        },
+        {
+          "text": "), which crosses the share of supply in profit with the volatility of the last 30 days to try to identify low-risk bottoms."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "[image]"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The track record is striking. On February 12 the metric hit "
+        },
+        {
+          "text": "0.082",
+          "bold": true
+        },
+        {
+          "text": ", with Bitcoin near "
+        },
+        {
+          "text": "$66,248",
+          "bold": true
+        },
+        {
+          "text": ". From there, the price climbed to "
+        },
+        {
+          "text": "$82,186",
+          "bold": true
+        },
+        {
+          "text": " on May 10, a "
+        },
+        {
+          "text": "rally of 24%",
+          "color": "green"
+        },
+        {
+          "text": ". On June 11 the signal reappeared, marking "
+        },
+        {
+          "text": "0.053",
+          "bold": true
+        },
+        {
+          "text": ", the second-highest reading in six months."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "And who bought on the signal? The whales. The giant wallets added to their positions right on the 11th, and together the groups scooped up about "
+        },
+        {
+          "text": "11,000 BTC",
+          "bold": true
+        },
+        {
+          "text": ", roughly "
+        },
+        {
+          "text": "$700 million",
+          "bold": true
+        },
+        {
+          "text": " at the current price. When big money buys exactly at the point that has historically marked the bottom, I keep an eye on it."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Saylor Is Back to Buying"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In the middle of this turnaround, Michael Saylor's "
+        },
+        {
+          "text": "Strategy",
+          "bold": true
+        },
+        {
+          "text": " announced another purchase: "
+        },
+        {
+          "text": "1,587 BTC",
+          "bold": true
+        },
+        {
+          "text": " for about "
+        },
+        {
+          "text": "$100 million",
+          "bold": true
+        },
+        {
+          "text": ". With that, the reserve rose to "
+        },
+        {
+          "text": "846,842 BTC",
+          "bold": true
+        },
+        {
+          "text": ", keeping the company as the largest corporate holder of Bitcoin in the world, with a position valued near "
+        },
+        {
+          "text": "$56 billion",
+          "bold": true
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "This one stands out. Two weeks ago, Strategy had sold "
+        },
+        {
+          "text": "32 BTC",
+          "bold": true
+        },
+        {
+          "text": " (the first sale disclosed in years), and that spooked part of the market. CEO "
+        },
+        {
+          "text": "Phong Le",
+          "bold": true
+        },
+        {
+          "text": " explained it was just a test of internal systems, not a cash shortage, and today's purchase, much larger than the sale, reinforces that the company remains a net buyer."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "It's interesting to note that Strategy also raised its dollar reserve by another "
+        },
+        {
+          "text": "$100 million",
+          "bold": true
+        },
+        {
+          "text": ", reaching "
+        },
+        {
+          "text": "$1.1 billion",
+          "bold": true
+        },
+        {
+          "text": ". In other words, it's accumulating Bitcoin and stockpiling cash at the same time, probably with an eye on its obligations tied to the preferred shares."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "What the Chart Says"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The next stop is resistance around "
+        },
+        {
+          "text": "$67,500",
+          "bold": true
+        },
+        {
+          "text": ", which coincides with a zone packed with short positions to liquidate. If the price gets there, those liquidations could accelerate the move higher. A breakout above that level would open the way to the "
+        },
+        {
+          "text": "$68,000",
+          "bold": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "$70,000",
+          "bold": true
+        },
+        {
+          "text": " range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "In derivatives, the picture is healthy: open interest (the total of open positions) rose to about "
+        },
+        {
+          "text": "$46.13 billion",
+          "bold": true
+        },
+        {
+          "text": ", with the funding rate still slightly positive, at "
+        },
+        {
+          "text": "0.0029%",
+          "bold": true
+        },
+        {
+          "text": ". In plain terms, traders are positioning again without that excessive leverage that tends to show up near tops."
+        }
+      ]
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "h",
+      "level": 2,
+      "spans": [
+        {
+          "text": "Not Everything Is Rosy"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "Before anyone gets euphoric, there are serious counterpoints. The first is retail: buying volume has dropped since the 11th, even with the price rising. In other words, the whales are buying, but retail still hasn't joined the party, and without that extra demand Bitcoin could stall at the 20-day average, around "
+        },
+        {
+          "text": "$66,600",
+          "bold": true
+        },
+        {
+          "text": ", and pull back to the "
+        },
+        {
+          "text": "$64,700",
+          "bold": true
+        },
+        {
+          "text": " range."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "The second point is the ETFs. The US spot Bitcoin funds have had only two days of net inflows since May 15, accumulating something like "
+        },
+        {
+          "text": "$5 billion",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " in outflows",
+          "color": "red"
+        },
+        {
+          "text": " over the period. It was precisely these funds that pushed Bitcoin to its all-time high above "
+        },
+        {
+          "text": "$126,000",
+          "bold": true
+        },
+        {
+          "text": " in October 2025, so their weakness removes an important leg of institutional demand."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "spans": [
+        {
+          "text": "And there's the \"hold on\" crowd. Analysts like "
+        },
+        {
+          "text": "CryptoBullet",
+          "bold": true
+        },
+        {
+          "text": " think this is just a passing relief rally within a downtrend, before the price makes new lows. The support that decides the outcome is "
+        },
+        {
+          "text": "$60,000",
+          "bold": true,
+          "color": "green"
+        },
+        {
+          "text": ": as long as it holds, the recovery stays alive. Losing that level opens room for the "
+        },
+        {
+          "text": "$55,000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " to ",
+          "color": "red"
+        },
+        {
+          "text": "$50,000",
+          "bold": true,
+          "color": "red"
+        },
+        {
+          "text": " range."
+        }
+      ]
+    }
+  ]
+}
