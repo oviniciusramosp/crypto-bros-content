@@ -1,0 +1,130 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://crypto-bros/content-format/schema.json",
+  "title": "Crypto Bros app-native content format",
+  "description": "Shared contract for the static content pipeline (Notion sync + Studio editor + RN app). schemaVersion 1.",
+  "$defs": {
+    "locale": { "enum": ["pt", "en"] },
+    "color": {
+      "enum": ["default", "gray", "brown", "orange", "yellow", "green", "blue", "purple", "pink", "red"]
+    },
+    "span": {
+      "type": "object",
+      "properties": {
+        "text": { "type": "string" },
+        "bold": { "type": "boolean" },
+        "italic": { "type": "boolean" },
+        "strikethrough": { "type": "boolean" },
+        "underline": { "type": "boolean" },
+        "code": { "type": "boolean" },
+        "color": { "type": "string" },
+        "href": { "type": "string" },
+        "emoji": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "spans": { "type": "array", "items": { "$ref": "#/$defs/span" } },
+    "image": {
+      "type": "object",
+      "required": ["src"],
+      "properties": {
+        "src": { "type": "string" },
+        "caption": { "$ref": "#/$defs/spans" },
+        "source": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "block": {
+      "type": "object",
+      "required": ["type"],
+      "properties": { "type": { "type": "string" } },
+      "oneOf": [
+        { "properties": { "type": { "const": "p" }, "spans": { "$ref": "#/$defs/spans" } }, "required": ["spans"] },
+        { "properties": { "type": { "const": "h" }, "level": { "enum": [1, 2, 3] }, "spans": { "$ref": "#/$defs/spans" } }, "required": ["level", "spans"] },
+        { "properties": { "type": { "const": "list" }, "ordered": { "type": "boolean" }, "items": { "type": "array", "items": { "$ref": "#/$defs/spans" } } }, "required": ["ordered", "items"] },
+        { "properties": { "type": { "const": "todo" }, "checked": { "type": "boolean" }, "spans": { "$ref": "#/$defs/spans" } }, "required": ["checked", "spans"] },
+        { "properties": { "type": { "const": "quote" }, "spans": { "$ref": "#/$defs/spans" } }, "required": ["spans"] },
+        { "properties": { "type": { "const": "toggle" }, "spans": { "$ref": "#/$defs/spans" }, "blocks": { "type": "array", "items": { "$ref": "#/$defs/block" } } }, "required": ["spans", "blocks"] },
+        { "properties": { "type": { "const": "callout" }, "icon": { "type": "string" }, "color": { "type": "string" }, "blocks": { "type": "array", "items": { "$ref": "#/$defs/block" } } }, "required": ["blocks"] },
+        { "properties": { "type": { "const": "code" }, "lang": { "type": "string" }, "text": { "type": "string" } }, "required": ["text"] },
+        { "properties": { "type": { "const": "image" }, "src": { "type": "string" }, "caption": { "$ref": "#/$defs/spans" }, "source": { "type": "string" } }, "required": ["src"] },
+        { "properties": { "type": { "const": "carousel" }, "images": { "type": "array", "items": { "$ref": "#/$defs/image" } } }, "required": ["images"] },
+        { "properties": { "type": { "const": "video" }, "src": { "type": "string" }, "thumb": { "type": "string" }, "source": { "type": "string" } }, "required": ["src"] },
+        { "properties": { "type": { "const": "chart" }, "chart": { "type": "object" } }, "required": ["chart"] },
+        { "properties": { "type": { "const": "price" }, "price": { "type": "object" } }, "required": ["price"] },
+        { "properties": { "type": { "const": "divider" } } },
+        { "properties": { "type": { "const": "unknown" }, "original": { "type": "string" } } }
+      ]
+    },
+    "blocks": { "type": "array", "items": { "$ref": "#/$defs/block" } },
+    "author": {
+      "type": "object",
+      "required": ["id", "name", "avatar"],
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "avatar": { "type": ["string", "null"] }
+      }
+    },
+    "tag": {
+      "type": "object",
+      "required": ["name", "color"],
+      "properties": { "name": { "type": "string" }, "color": { "$ref": "#/$defs/color" } }
+    },
+    "postMeta": {
+      "type": "object",
+      "required": ["id", "locale", "slug", "date", "updated", "categories", "tags", "author", "cover", "thumbnail", "title", "excerpt"],
+      "properties": {
+        "id": { "type": "string" },
+        "locale": { "$ref": "#/$defs/locale" },
+        "slug": { "type": "string" },
+        "date": { "type": "string" },
+        "updated": { "type": "string" },
+        "categories": { "type": "array", "items": { "type": "string" } },
+        "tags": { "type": "array", "items": { "$ref": "#/$defs/tag" } },
+        "author": { "$ref": "#/$defs/author" },
+        "cover": { "type": ["string", "null"] },
+        "thumbnail": { "type": ["string", "null"] },
+        "title": { "$ref": "#/$defs/spans" },
+        "excerpt": { "type": "string" },
+        "featured": { "type": "boolean" },
+        "pinned": { "type": "boolean" }
+      }
+    }
+  },
+  "oneOf": [
+    {
+      "title": "FeedIndex",
+      "type": "object",
+      "required": ["schemaVersion", "generatedAt", "posts"],
+      "properties": {
+        "schemaVersion": { "type": "integer" },
+        "generatedAt": { "type": "string" },
+        "posts": {
+          "type": "array",
+          "items": {
+            "allOf": [
+              { "$ref": "#/$defs/postMeta" },
+              {
+                "type": "object",
+                "required": ["hasMore", "preview"],
+                "properties": { "hasMore": { "type": "boolean" }, "preview": { "$ref": "#/$defs/blocks" } }
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "PostDoc",
+      "allOf": [
+        { "$ref": "#/$defs/postMeta" },
+        {
+          "type": "object",
+          "required": ["schemaVersion", "blocks"],
+          "properties": { "schemaVersion": { "type": "integer" }, "blocks": { "$ref": "#/$defs/blocks" } }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "btc-ath",
+  "locale": "en",
+  "slug": "bitcoin-new-all-time-high",
+  "date": "2026-06-28T10:00:00.000Z",
+  "updated": "2026-06-28T10:00:00.000Z",
+  "categories": ["Mercado", "ATH"],
+  "tags": [{ "name": "Notícias", "color": "blue" }, { "name": "Análises", "color": "purple" }],
+  "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+  "cover": "https://picsum.photos/seed/btcath/1200/675",
+  "thumbnail": null,
+  "title": [{ "text": "Bitcoin hits a new all-time high " }, { "text": "🚀", "bold": true }],
+  "excerpt": "Bitcoin broke its previous high amid strong buying volume.",
+  "pinned": true,
+  "blocks": [
+    { "type": "p", "spans": [{ "text": "" }, { "text": "Bitcoin", "bold": true }, { "text": " broke its all-time high overnight, driven by strong institutional inflows." }] },
+    { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "line", "timeRange": "6m", "size": "full" } },
+    { "type": "divider" },
+    { "type": "h", "level": 2, "spans": [{ "text": "What drove the move" }] },
+    { "type": "p", "spans": [{ "text": "Analysts point to a mix of ETF inflows and reduced supply after the " }, { "text": "halving", "italic": true }, { "text": "." }] },
+    { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "candle", "timeRange": "3m", "candleInterval": "1d", "size": "full" } },
+    { "type": "callout", "icon": "💡", "color": "blue_background", "blocks": [
+      { "type": "p", "spans": [{ "text": "Remember: all-time highs usually come with high volatility." }] }
+    ] },
+    { "type": "p", "spans": [{ "text": "Follow " }, { "text": "Crypto Bros", "bold": true }, { "text": " for more updates." }] }
+  ]
+}

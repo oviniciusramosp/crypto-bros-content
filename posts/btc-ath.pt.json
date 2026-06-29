@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "btc-ath",
+  "locale": "pt",
+  "slug": "bitcoin-novo-topo-historico",
+  "date": "2026-06-28T10:00:00.000Z",
+  "updated": "2026-06-28T10:00:00.000Z",
+  "categories": ["Mercado", "ATH"],
+  "tags": [{ "name": "Notícias", "color": "blue" }, { "name": "Análises", "color": "purple" }],
+  "author": { "id": "a1", "name": "Crypto Bros", "avatar": "https://picsum.photos/seed/cbros/100/100" },
+  "cover": "https://picsum.photos/seed/btcath/1200/675",
+  "thumbnail": null,
+  "title": [{ "text": "Bitcoin atinge novo topo histórico " }, { "text": "🚀", "bold": true }],
+  "excerpt": "O Bitcoin rompeu sua máxima anterior em meio a forte volume comprador.",
+  "pinned": true,
+  "blocks": [
+    { "type": "p", "spans": [{ "text": "O " }, { "text": "Bitcoin", "bold": true }, { "text": " rompeu sua máxima histórica nesta madrugada, impulsionado por forte fluxo institucional." }] },
+    { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "line", "timeRange": "6m", "size": "full" } },
+    { "type": "divider" },
+    { "type": "h", "level": 2, "spans": [{ "text": "O que motivou o movimento" }] },
+    { "type": "p", "spans": [{ "text": "Analistas apontam a combinação de entradas em ETFs e a redução da oferta após o " }, { "text": "halving", "italic": true }, { "text": "." }] },
+    { "type": "list", "ordered": false, "items": [
+      [{ "text": "Fluxo institucional via ETFs" }],
+      [{ "text": "Oferta líquida em queda" }],
+      [{ "text": "Sentimento de mercado otimista" }]
+    ] },
+    { "type": "chart", "chart": { "asset": "BTC", "date": "now", "chartType": "candle", "timeRange": "3m", "candleInterval": "1d", "size": "full" } },
+    { "type": "callout", "icon": "💡", "color": "blue_background", "blocks": [
+      { "type": "p", "spans": [{ "text": "Lembre-se: topos históricos costumam vir acompanhados de alta volatilidade." }] }
+    ] },
+    { "type": "image", "src": "https://picsum.photos/seed/btcchart/1200/700", "caption": [{ "text": "Volume de negociação nas últimas 24h." }], "source": "https://example.com/fonte" },
+    { "type": "h", "level": 2, "spans": [{ "text": "Assista à análise completa" }] },
+    { "type": "video", "src": "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "thumb": "https://picsum.photos/seed/btcvideo/1280/720" },
+    { "type": "p", "spans": [{ "text": "Acompanhe o " }, { "text": "Crypto Bros", "bold": true }, { "text": " para mais atualizações." }] }
+  ]
+}
