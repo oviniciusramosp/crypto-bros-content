@@ -94,7 +94,7 @@
         },
         {
           "text": "leveraged buyers betting on the upside.",
-          "color": "red"
+          "bgColor": "red"
         },
         {
           "text": " And the drop was broad-based: Ethereum fell "

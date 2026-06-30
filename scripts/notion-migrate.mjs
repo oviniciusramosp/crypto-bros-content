@@ -60,7 +60,11 @@ function richToSpans(rich = []) {
     if (a.underline) span.underline = true;
     if (a.strikethrough) span.strikethrough = true;
     if (a.code) span.code = true;
-    if (a.color && a.color !== 'default') span.color = a.color.replace('_background', '');
+    // Notion: "<color>" = text color, "<color>_background" = highlight/background.
+    if (a.color && a.color !== 'default') {
+      if (a.color.endsWith('_background')) span.bgColor = a.color.slice(0, -'_background'.length);
+      else span.color = a.color;
+    }
     const href = r.href ?? r.text?.link?.url;
     if (href) span.href = href;
     spans.push(span);

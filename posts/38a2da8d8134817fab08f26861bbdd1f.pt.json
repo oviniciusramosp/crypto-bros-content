@@ -94,7 +94,7 @@
         },
         {
           "text": "compradores alavancados apostando na alta.",
-          "color": "red"
+          "bgColor": "red"
         },
         {
           "text": " E o tombo foi geral: o Ethereum caiu "

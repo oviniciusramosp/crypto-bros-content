@@ -104,7 +104,7 @@
         },
         {
           "text": "manteve os juros",
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": " no patamar de 4,25% a 4,50%. O problema foi o tom da coletiva de imprensa de Jerome Powell, presidente do Fed."

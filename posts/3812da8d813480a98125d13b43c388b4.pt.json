@@ -279,7 +279,7 @@
         {
           "text": "Mas se o comunicado ou a fala de Kevin Warsh vierem com um tom mais duro, deixando claro que uma alta de juros pode acontecer em breve, o mercado pode reagir mal.",
           "bold": true,
-          "color": "red"
+          "bgColor": "red"
         }
       ]
     },

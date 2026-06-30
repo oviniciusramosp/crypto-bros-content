@@ -29,7 +29,7 @@
   "title": [
     {
       "text": "Fim do Bloqueio no Estreito de Ormuz e ",
-      "color": "green"
+      "bgColor": "green"
     },
     {
       "text": "Recuperação dos $74k"
@@ -160,7 +160,7 @@
         },
         {
           "text": "Trump anunciou o fim do bloqueio naval no estreito de Ormuz",
-          "color": "green"
+          "bgColor": "green"
         },
         {
           "text": ", reduzindo o risco de escalada militar no Oriente Médio. O Bitcoin reagiu rápido, recuperou os $74.000 e fechou o dia colado nesse nível."

@@ -278,7 +278,7 @@
         {
           "text": "But if the statement or Kevin Warsh's remarks come with a more hawkish tone, making it clear that a rate hike could happen soon, the market may react badly.",
           "bold": true,
-          "color": "red"
+          "bgColor": "red"
         }
       ]
     },

@@ -124,7 +124,7 @@
         {
           "text": "O volume de negociação spot caiu para o nível mais baixo desde 2023, o que mostra que a demanda de compra está fraca.",
           "bold": true,
-          "color": "orange"
+          "bgColor": "orange"
         }
       ]
     },

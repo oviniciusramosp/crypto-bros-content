@@ -272,7 +272,7 @@
         {
           "text": "volatilidade alta com range amplo",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ". Se o BTC cair para a zona de $58.900-$59.000, estará na região onde historicamente os fundos de ciclo se formaram."

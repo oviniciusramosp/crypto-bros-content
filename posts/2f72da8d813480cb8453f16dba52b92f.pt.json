@@ -150,7 +150,7 @@
         {
           "text": "atrasado",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ". "

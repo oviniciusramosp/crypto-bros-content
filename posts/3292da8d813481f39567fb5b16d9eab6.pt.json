@@ -169,7 +169,7 @@
         {
           "text": "investidores estão subestimando o risco real do conflito com o Irã.",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": " Em paralelo, "

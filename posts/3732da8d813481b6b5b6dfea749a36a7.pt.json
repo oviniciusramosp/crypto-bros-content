@@ -101,7 +101,7 @@
         {
           "text": "nunca vender Bitcoin",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": " — chegou a dizer, em tom de provocação, que era pra vender um rim antes de tocar na reserva. Quando a própria empresa vende, mesmo que pouco, a tese perde força. Não pelo volume, mas pela quebra do contrato implícito com o acionista."

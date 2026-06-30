@@ -124,7 +124,7 @@
         {
           "text": "Spot trading volume fell to its lowest level since 2023, which shows that buy-side demand is weak.",
           "bold": true,
-          "color": "orange"
+          "bgColor": "orange"
         }
       ]
     },

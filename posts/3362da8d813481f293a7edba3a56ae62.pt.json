@@ -135,7 +135,7 @@
         {
           "text": "timing depende de catalisadores externos",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": "."
@@ -186,7 +186,7 @@
         {
           "text": "tarifas recíprocas menores do que o mercado precificou",
           "bold": true,
-          "color": "green"
+          "bgColor": "green"
         },
         {
           "text": ", seja pelo escopo limitado ou pela postergação da implementação."

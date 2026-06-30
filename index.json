@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-06-29T20:51:43.496Z",
+  "generatedAt": "2026-06-30T04:35:24.037Z",
   "posts": [
     {
       "schemaVersion": 1,
@@ -99,7 +99,7 @@
             },
             {
               "text": "leveraged buyers betting on the upside.",
-              "color": "red"
+              "bgColor": "red"
             },
             {
               "text": " And the drop was broad-based: Ethereum fell "
@@ -219,7 +219,7 @@
             },
             {
               "text": "compradores alavancados apostando na alta.",
-              "color": "red"
+              "bgColor": "red"
             },
             {
               "text": " E o tombo foi geral: o Ethereum caiu "
@@ -655,7 +655,7 @@
             {
               "text": "Donald Trump anunciou que o acordo de paz entre Estados Unidos e Irã está fechado",
               "bold": true,
-              "color": "green"
+              "bgColor": "green"
             },
             {
               "text": ", e isso derrubou o petróleo para a mínima de dois meses. Com menos medo geopolítico, o dinheiro voltou a procurar ativos de risco e o Bitcoin pegou carona."
@@ -1201,7 +1201,7 @@
       "title": [
         {
           "text": "Fim do Bloqueio no Estreito de Ormuz e ",
-          "color": "green"
+          "bgColor": "green"
         },
         {
           "text": "Recuperação dos $74k"
@@ -1359,7 +1359,7 @@
             },
             {
               "text": "O cessar-fogo que vinha sustentando o otimismo nas últimas semanas evaporou em poucas horas.",
-              "color": "yellow"
+              "bgColor": "yellow"
             }
           ]
         }
@@ -3318,7 +3318,7 @@
             },
             {
               "text": "apostas em eleições",
-              "color": "yellow"
+              "bgColor": "yellow"
             },
             {
               "text": " e esportes, enquanto a B3 iniciou a negociação de contratos de eventos referenciados em Bitcoin, Ibovespa e dólar."

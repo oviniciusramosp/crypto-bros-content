@@ -185,7 +185,7 @@
         {
           "text": "com volume acima da média",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ". Esse seria o "

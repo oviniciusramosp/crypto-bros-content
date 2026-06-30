@@ -101,7 +101,7 @@
         {
           "text": "Donald Trump anunciou que o acordo de paz entre Estados Unidos e Irã está fechado",
           "bold": true,
-          "color": "green"
+          "bgColor": "green"
         },
         {
           "text": ", e isso derrubou o petróleo para a mínima de dois meses. Com menos medo geopolítico, o dinheiro voltou a procurar ativos de risco e o Bitcoin pegou carona."

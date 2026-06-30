@@ -99,7 +99,7 @@
         },
         {
           "text": "O cessar-fogo que vinha sustentando o otimismo nas últimas semanas evaporou em poucas horas.",
-          "color": "yellow"
+          "bgColor": "yellow"
         }
       ]
     },
@@ -134,7 +134,7 @@
         },
         {
           "text": "Foram 167 mil traders afetados",
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ", e a maior liquidação individual foi um long de $15 milhões em Bitcoin na Hyperliquid. Quando o mercado se posiciona em massa para um lado e a notícia vem do outro, o ajuste é violento."
@@ -183,7 +183,7 @@
         },
         {
           "text": "A liquidação em massa de longs já tirou parte da alavancagem do sistema, o que reduz o combustível para novas quedas violentas",
-          "color": "green"
+          "bgColor": "green"
         },
         {
           "text": "."

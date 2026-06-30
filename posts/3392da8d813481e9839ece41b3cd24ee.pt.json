@@ -229,7 +229,7 @@
         {
           "text": "o cenário de queda continua mais provável",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ". A probabilidade é de 40%. O gatilho é um fechamento diário abaixo de $65.000 com volume acima da média. Se isso acontecer, o primeiro alvo é a zona de $63.000 a $63.500, nível que nunca foi testado neste ciclo de queda."

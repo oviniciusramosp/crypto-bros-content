@@ -278,7 +278,7 @@
         {
           "text": "high volatility with a wide range",
           "bold": true,
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ". If BTC falls to the $58,900-$59,000 zone, it will be in the region where cycle bottoms have historically formed."

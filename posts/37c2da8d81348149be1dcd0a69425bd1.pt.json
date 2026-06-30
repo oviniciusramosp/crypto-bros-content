@@ -100,7 +100,7 @@
         },
         {
           "text": "ninguém está falando em corte de juros tão cedo",
-          "color": "red"
+          "bgColor": "red"
         },
         {
           "text": "."
@@ -115,7 +115,7 @@
         },
         {
           "text": "o mercado ainda precifica uma alta de 0,25% nos juros ainda neste ano",
-          "color": "red"
+          "bgColor": "red"
         },
         {
           "text": ". É o tal cenário de juros altos por mais tempo, que freia a economia e tira demanda de ativos de risco como o Bitcoin."

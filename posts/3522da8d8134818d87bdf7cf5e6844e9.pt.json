@@ -263,7 +263,7 @@
         },
         {
           "text": "A Polymarket precifica como improvável que Bitcoin alcance os $80.000 ainda em abril",
-          "color": "yellow"
+          "bgColor": "yellow"
         },
         {
           "text": ", então esse cenário ganha mais peso só na virada do mês."
